@@ -22,6 +22,8 @@ function App() {
   const moveBack = () => {
     let index = shuffledCards.indexOf(word)
     setNextClick(false)
+    setVisibleLetter(false)
+    setVisibleHint(false)
 
     index !== 0 && index < shuffledCards.length
       ? setWord(shuffledCards[index - 1])
@@ -31,6 +33,8 @@ function App() {
   const moveNext = () => {
     let index = shuffledCards.indexOf(word)
     setBackClick(false)
+    setVisibleLetter(false)
+    setVisibleHint(false)
 
     index < shuffledCards.length - 1
       ? setWord(shuffledCards[index + 1])
@@ -51,17 +55,17 @@ function App() {
     <div className="container">
       <header className="header"></header>
       <main className="main--wrapper">
-        <div>{word.english}</div>
+        <div className="word">{word.english}</div>
         <div className="btn--hints">
           <button className="btn" onClick={getFirstLetterOfTranslate}>Aa</button>
           <button className="btn" onClick={showAndHideTranslate}>Hint</button>
         </div>
         {visibleHint
-          ? <div>{word.czech}</div>
+          ? <div className="word">{word.czech}</div>
           : <></>
         }
         {visibleLetter
-          ? <div>{word.czech.charAt(0).toUpperCase()}</div>
+          ? <div className="word">{word.czech.charAt(0).toUpperCase()}</div>
           : <></>
         }
       </main>

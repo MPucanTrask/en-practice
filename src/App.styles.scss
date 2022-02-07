@@ -1,5 +1,5 @@
 .container {
-  min-height: 100vh;
+  max-height: 100vh;
   min-width: 100vw;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,6 @@
 
   .main--wrapper {
     height: 50vh;
-    font-size: 3em;
   }
 
   .btn--wrapper {
@@ -42,7 +41,7 @@ button {
     height: 50px;
     border-radius: 40px;
     color: #fff;
-    font-size: 1.125em;
+    font-size: 1.25em;
     cursor: pointer;
     overflow: hidden;
     display: flex;
@@ -57,6 +56,10 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  .word {
+    font-size: 4em;
+  }
 }
 
 .btn--hints {
@@ -69,6 +72,8 @@ button {
 
   .btn {
     border-radius: 10%;
+    color: lightslategrey;
+    font-size: 1.25em;
     margin: .5rem;
     padding: .5rem;
   }
