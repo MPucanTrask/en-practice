@@ -1,6 +1,7 @@
 import React, {useMemo, useState} from "react";
 import './App.styles.scss';
 import {getWords} from "./data/words";
+import Hints from "./components/Hints";
 
 function App() {
   const shuffle = arr => arr.sort(() => 0.5 - Math.random())
@@ -22,13 +23,13 @@ function App() {
     setVisibleHint(false)
   }
 
-  const getCurrentIndex = (array, item) => array.indexOf(item)
+  const getIndex = (array, item) => array.indexOf(item)
 
   const moveBack = () => {
     hideAllHints()
     setNextClick(false)
 
-    let index = getCurrentIndex(shuffledCards, word)
+    let index = getIndex(shuffledCards, word)
 
     index !== 0 && index < shuffledCards.length
       ? setWord(shuffledCards[index - 1])
@@ -39,7 +40,7 @@ function App() {
     hideAllHints()
     setBackClick(false)
 
-    let index = getCurrentIndex(shuffledCards, word)
+    let index = getIndex(shuffledCards, word)
 
     index < shuffledCards.length - 1
       ? setWord(shuffledCards[index + 1])
@@ -56,25 +57,25 @@ function App() {
     visibleLetter ? setVisibleLetter(false) : setVisibleLetter(true)
   }
 
-  const getFirstLetter = string =>  string.charAt(0).toUpperCase()
-
   return (
-    <div className="container">
-      <header className="header"></header>
+    <>
       <main className="main--wrapper">
         <div className="word">{word.english}</div>
         <div className="btn--hints">
           <button className="btn" onClick={getFirstLetterOfTranslate}>Aa</button>
           <button className="btn" onClick={showAndHideTranslate}>Hint</button>
         </div>
-        { visibleHint ? <div className="word">{word.czech}</div> : <></> }
-        { visibleLetter ? <div className="word">{getFirstLetter(word.czech)}</div> : <></> }
+        <Hints
+          word={word.czech}
+          visibleHint={visibleHint}
+          visibleLetter={visibleLetter}
+        />
       </main>
       <div className="btn--wrapper">
         <button className="btn" onClick={moveBack} disabled={backClick}>Back</button>
         <button className="btn" onClick={moveNext} disabled={nextClick}>Next</button>
       </div>
-    </div>
+    </>
   )
 }
 

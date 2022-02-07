@@ -1,27 +1,6 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  margin: 0;
-  min-height: 100vh;
-  height: 100vh;
-  min-width: 100vw;
-  justify-content: center;
-  align-items: center;
-  background: #E5DDC8;
-
-  .header {
-    margin-bottom: auto;
-  }
-
-  .main--wrapper {
-    flex: 1;
-    height: 15rem;
-  }
-
-  .btn--wrapper {
-    height: 10rem;
-    margin-top: auto;
-  }
+.btn--wrapper {
+  position: fixed;
+  bottom: 2rem;
 }
 
 button {
@@ -57,7 +36,9 @@ button {
 .main--wrapper {
   display: flex;
   flex-direction: column;
+  margin: 20vh;
   align-items: center;
+  min-height: 80vh;
 
   .word {
     font-size: 4em;
