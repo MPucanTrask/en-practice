@@ -1,5 +1,5 @@
 .container {
-  max-height: 100vh;
+  height: 100vh;
   min-width: 100vw;
   display: flex;
   flex-direction: column;
@@ -9,15 +9,15 @@
 
   .header {
     margin-bottom: auto;
-    height: 25vh;
+    height: 5rem;
   }
 
   .main--wrapper {
-    height: 50vh;
+    height: 15rem;
   }
 
   .btn--wrapper {
-    height: 25vh;
+    height: 10rem;
     margin-top: auto;
   }
 }
