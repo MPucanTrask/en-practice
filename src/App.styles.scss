@@ -5,6 +5,7 @@
 
 button {
   border: 0;
+  cursor: pointer;
 
   &[disabled] {
     opacity: .5;
@@ -23,11 +24,6 @@ button {
     border-radius: 40px;
     color: #fff;
     font-size: 1.25em;
-    cursor: pointer;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin: 0 1rem;
     background: #004369;
   }

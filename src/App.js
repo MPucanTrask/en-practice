@@ -4,58 +4,40 @@ import {getWords} from "./data/words";
 import Hints from "./components/Hints";
 
 function App() {
+  const [hint, setHint] = useState({translate: false, letter: false})
+  const [click, setClick] = useState({back: true, next: false})
+
   const shuffle = arr => arr.sort(() => 0.5 - Math.random())
-
-  const [visibleHint, setVisibleHint] = useState(false)
-  const [visibleLetter, setVisibleLetter] = useState(false)
-  const [backClick, setBackClick] = useState(true)
-  const [nextClick, setNextClick] = useState(false)
-
-  const shuffledCards = useMemo(() => {
-    const words = getWords()
-    return shuffle(words)
-  }, [])
+  const shuffledCards = useMemo(() => shuffle(getWords()), [])
 
   const [word, setWord] = useState(shuffledCards[0])
 
-  function hideAllHints() {
-    setVisibleLetter(false)
-    setVisibleHint(false)
-  }
-
-  const getIndex = (array, item) => array.indexOf(item)
+  const hideAllHints = () => setHint({ translate: false, letter: false })
 
   const moveBack = () => {
     hideAllHints()
-    setNextClick(false)
+    setClick({back: click.back, next: false})
 
-    let index = getIndex(shuffledCards, word)
+    let index = shuffledCards.indexOf(word)
 
     index !== 0 && index < shuffledCards.length
       ? setWord(shuffledCards[index - 1])
-      : setBackClick(true)
+      : setClick({back: true, next: click.next})
   }
 
   const moveNext = () => {
     hideAllHints()
-    setBackClick(false)
+    setClick({back: false, next: click.next})
 
-    let index = getIndex(shuffledCards, word)
+    let index = shuffledCards.indexOf(word)
 
     index < shuffledCards.length - 1
       ? setWord(shuffledCards[index + 1])
-      : setNextClick(true)
+      : setClick({back: click.back, next: true})
   }
 
-  const showAndHideTranslate = () => {
-    visibleLetter && setVisibleLetter(false)
-    visibleHint ? setVisibleHint(false) : setVisibleHint(true)
-  }
-
-  const getFirstLetterOfTranslate = () => {
-    visibleHint && setVisibleHint(false)
-    visibleLetter ? setVisibleLetter(false) : setVisibleLetter(true)
-  }
+  const showAndHideTranslate = () => setHint({translate: !hint.translate, letter: false})
+  const getFirstLetterOfTranslate = () => setHint({translate: false, letter: !hint.letter})
 
   return (
     <>
@@ -65,15 +47,11 @@ function App() {
           <button className="btn" onClick={getFirstLetterOfTranslate}>Aa</button>
           <button className="btn" onClick={showAndHideTranslate}>Hint</button>
         </div>
-        <Hints
-          word={word.czech}
-          visibleHint={visibleHint}
-          visibleLetter={visibleLetter}
-        />
+        <Hints word={word.czech} visibleHint={hint} />
       </main>
       <div className="btn--wrapper">
-        <button className="btn" onClick={moveBack} disabled={backClick}>Back</button>
-        <button className="btn" onClick={moveNext} disabled={nextClick}>Next</button>
+        <button className="btn" onClick={moveBack} disabled={click.back}>Back</button>
+        <button className="btn" onClick={moveNext} disabled={click.next}>Next</button>
       </div>
     </>
   )

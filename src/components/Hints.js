@@ -1,12 +1,12 @@
 import React from "react";
 
-const Hints = ({visibleHint, visibleLetter, word}) => {
+const Hints = ({visibleHint, word}) => {
   const getFirstLetter = string =>  string.charAt(0).toUpperCase()
 
   return (
     <>
-      { visibleHint ? <div className="word">{word}</div> : <></> }
-      { visibleLetter ? <div className="word">{getFirstLetter(word)}</div> : <></> }
+      { visibleHint.translate ? <div className="word">{word}</div> : <></> }
+      { visibleHint.letter ? <div className="word">{getFirstLetter(word)}</div> : <></> }
     </>
   )
 }
