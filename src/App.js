@@ -1,14 +1,18 @@
 import React, {useMemo, useState} from "react";
-import './App.styles.scss';
-import {getWords} from "./data/words";
 import Hints from "./components/Hints";
+import useSpeechSynthesis from 'beautiful-react-hooks/useSpeechSynthesis';
+
+import {test1Words} from "./data/test1Words";
+import sound from './icons/sound.png'
+
+import './App.styles.scss';
 
 function App() {
   const [hint, setHint] = useState({translate: false, letter: false})
   const [click, setClick] = useState({back: true, next: false})
 
   const shuffle = arr => arr.sort(() => 0.5 - Math.random())
-  const shuffledCards = useMemo(() => shuffle(getWords()), [])
+  const shuffledCards = useMemo(() => shuffle(test1Words), [])
 
   const [word, setWord] = useState(shuffledCards[0])
 
@@ -38,12 +42,16 @@ function App() {
 
   const showAndHideTranslate = () => setHint({translate: !hint.translate, letter: false})
   const getFirstLetterOfTranslate = () => setHint({translate: false, letter: !hint.letter})
+  const { speak } = useSpeechSynthesis(word.english, {rate: .35, pitch: 15, volume: 2});
 
   return (
     <>
       <main className="main--wrapper">
         <div className="word">{word.english}</div>
         <div className="btn--hints">
+          <button className="btn" onClick={speak}>
+            <img src={sound} alt="sound" width={18} />
+          </button>
           <button className="btn" onClick={getFirstLetterOfTranslate}>Aa</button>
           <button className="btn" onClick={showAndHideTranslate}>Hint</button>
         </div>
