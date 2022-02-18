@@ -1,7 +1,15 @@
 import React from "react";
 
-const Hints = ({visibleHint, word}) => {
-  const getFirstLetter = string =>  string.charAt(0).toUpperCase()
+type HintProps = {
+  visibleHint: {
+    translate: boolean,
+    letter: boolean
+  },
+  word: string
+}
+
+const Hints = ({visibleHint, word}: HintProps) => {
+  const getFirstLetter = (string: string) =>  string.charAt(0).toUpperCase()
 
   return (
     <>

@@ -1,438 +1,438 @@
-export const test1Words = [
+[
   {
-    english: 'have to',
-    czech: 'muset'
+    "english": "have to",
+    "czech": "muset"
   },
   {
-    english: 'commander',
-    czech: 'velitel'
+    "english": "commander",
+    "czech": "velitel"
   },
   {
-    english: 'consult',
-    czech: 'konzultovat'
+    "english": "consult",
+    "czech": "konzultovat"
   },
   {
-    english: 'look up',
-    czech: 'vzhlédnout'
+    "english": "look up",
+    "czech": "vzhlédnout"
   },
   {
-    english: 'put a new cover on it',
-    czech: 'nasaďte na něj nový kryt'
+    "english": "put a new cover on it",
+    "czech": "nasaďte na něj nový kryt"
   },
   {
-    english: 'measure',
-    czech: 'opatření'
+    "english": "measure",
+    "czech": "opatření"
   },
   {
-    english: 'paint',
-    czech: 'malovat'
+    "english": "paint",
+    "czech": "malovat"
   },
   {
-    english: 'hold',
-    czech: 'držet'
+    "english": "hold",
+    "czech": "držet"
   },
   {
-    english: 'sharp',
-    czech: 'ostrý'
+    "english": "sharp",
+    "czech": "ostrý"
   },
   {
-    english: 'bench vise',
-    czech: 'lavicový svěrák'
+    "english": "bench vise",
+    "czech": "lavicový svěrák"
   },
   {
-    english: 'sell',
-    czech: 'prodat'
+    "english": "sell",
+    "czech": "prodat"
   },
   {
-    english: 'find',
-    czech: 'nalézt'
+    "english": "find",
+    "czech": "nalézt"
   },
   {
-    english: 'wool',
-    czech: 'vlna'
+    "english": "wool",
+    "czech": "vlna"
   },
   {
-    english: 'heard',
-    czech: 'slyšeli'
+    "english": "heard",
+    "czech": "slyšeli"
   },
   {
-    english: 'snack bar',
-    czech: 'snack bar'
+    "english": "snack bar",
+    "czech": "snack bar"
   },
   {
-    english: 'come',
-    czech: 'Přijít'
+    "english": "come",
+    "czech": "Přijít"
   },
   {
-    english: 'appointment',
-    czech: 'jmenování'
+    "english": "appointment",
+    "czech": "jmenování"
   },
   {
-    english: 'dentist',
-    czech: 'zubař'
+    "english": "dentist",
+    "czech": "zubař"
   },
   {
-    english: 'easier',
-    czech: 'jednodušší'
+    "english": "easier",
+    "czech": "jednodušší"
   },
   {
-    english: 'less difficult',
-    czech: 'méně obtížné'
+    "english": "less difficult",
+    "czech": "méně obtížné"
   },
   {
-    english: 'both',
-    czech: 'oba'
+    "english": "both",
+    "czech": "oba"
   },
   {
-    english: 'given name',
-    czech: 'křestní jméno'
+    "english": "given name",
+    "czech": "křestní jméno"
   },
   {
-    english: 'follow',
-    czech: 'následovat'
+    "english": "follow",
+    "czech": "následovat"
   },
   {
-    english: 'answer',
-    czech: 'Odpovědět'
+    "english": "answer",
+    "czech": "Odpovědět"
   },
   {
-    english: 'be jet',
-    czech: 'být tryskáč'
+    "english": "be jet",
+    "czech": "být tryskáč"
   },
   {
-    english: 'haircut',
-    czech: 'střih'
+    "english": "haircut",
+    "czech": "střih"
   },
   {
-    english: 'factory',
-    czech: 'továrna'
+    "english": "factory",
+    "czech": "továrna"
   },
   {
-    english: 'to board',
-    czech: 'nastoupit'
+    "english": "to board",
+    "czech": "nastoupit"
   },
   {
-    english: 'stamping packages',
-    czech: 'razítkování balíčků'
+    "english": "stamping packages",
+    "czech": "razítkování balíčků"
   },
   {
-    english: 'deposit',
-    czech: 'vklad'
+    "english": "deposit",
+    "czech": "vklad"
   },
   {
-    english: 'stamps',
-    czech: 'razítka'
+    "english": "stamps",
+    "czech": "razítka"
   },
   {
-    english: 'ability',
-    czech: 'schopnost'
+    "english": "ability",
+    "czech": "schopnost"
   },
   {
-    english: 'slowing-down',
-    czech: 'zpomalovat'
+    "english": "slowing-down",
+    "czech": "zpomalovat"
   },
   {
-    english: 'acceleration',
-    czech: 'akcelerace'
+    "english": "acceleration",
+    "czech": "akcelerace"
   },
   {
-    english: 'crowded',
-    czech: 'přeplněný'
+    "english": "crowded",
+    "czech": "přeplněný"
   },
   {
-    english: 'busy',
-    czech: 'zaneprázdněný'
+    "english": "busy",
+    "czech": "zaneprázdněný"
   },
   {
-    english: 'bought',
-    czech: 'koupil'
+    "english": "bought",
+    "czech": "koupil"
   },
   {
-    english: 'a spare tire',
-    czech: 'náhradní pneumatika'
+    "english": "a spare tire",
+    "czech": "náhradní pneumatika"
   },
   {
-    english: 'vehicle horn',
-    czech: 'klakson vozidla'
+    "english": "vehicle horn",
+    "czech": "klakson vozidla"
   },
   {
-    english: 'get in touch',
-    czech: 'být v kontaktu'
+    "english": "get in touch",
+    "czech": "být v kontaktu"
   },
   {
-    english: 'glanced',
-    czech: 'podíval se'
+    "english": "glanced",
+    "czech": "podíval se"
   },
   {
-    english: 'through',
-    czech: 'přes'
+    "english": "through",
+    "czech": "přes"
   },
   {
-    english: 'wire',
-    czech: 'drát'
+    "english": "wire",
+    "czech": "drát"
   },
   {
-    english: 'carry',
-    czech: 'nést'
+    "english": "carry",
+    "czech": "nést"
   },
   {
-    english: 'how far',
-    czech: 'jak daleko'
+    "english": "how far",
+    "czech": "jak daleko"
   },
   {
-    english: 'traffic',
-    czech: 'provoz'
+    "english": "traffic",
+    "czech": "provoz"
   },
   {
-    english: 'heavy',
-    czech: 'těžký'
+    "english": "heavy",
+    "czech": "těžký"
   },
   {
-    english: 'downtown',
-    czech: 'v centru města'
+    "english": "downtown",
+    "czech": "v centru města"
   },
   {
-    english: 'humid',
-    czech: 'vlhký'
+    "english": "humid",
+    "czech": "vlhký"
   },
   {
-    english: 'air',
-    czech: 'vzduch'
+    "english": "air",
+    "czech": "vzduch"
   },
   {
-    english: 'crooked line',
-    czech: 'křivá čára'
+    "english": "crooked line",
+    "czech": "křivá čára"
   },
   {
-    english: 'notice',
-    czech: 'oznámení'
+    "english": "notice",
+    "czech": "oznámení"
   },
   {
-    english: 'bent',
-    czech: 'ohnutý'
+    "english": "bent",
+    "czech": "ohnutý"
   },
   {
-    english: 'metal',
-    czech: 'kov'
+    "english": "metal",
+    "czech": "kov"
   },
   {
-    english: 'bright',
-    czech: 'Jasný'
+    "english": "bright",
+    "czech": "Jasný"
   },
   {
-    english: 'properly',
-    czech: 'správně'
+    "english": "properly",
+    "czech": "správně"
   },
   {
-    english: 'cheap',
-    czech: 'levný'
+    "english": "cheap",
+    "czech": "levný"
   },
   {
-    english: 'loudly',
-    czech: 'hlasitě'
+    "english": "loudly",
+    "czech": "hlasitě"
   },
   {
-    english: 'main',
-    czech: 'hlavní'
+    "english": "main",
+    "czech": "hlavní"
   },
   {
-    english: 'famous',
-    czech: 'slavný'
+    "english": "famous",
+    "czech": "slavný"
   },
   {
-    english: 'well known',
-    czech: 'dobře známý'
+    "english": "well known",
+    "czech": "dobře známý"
   },
   {
-    english: 'introduce',
-    czech: 'představit'
+    "english": "introduce",
+    "czech": "představit"
   },
   {
-    english: 'drilling',
-    czech: 'vrtání'
+    "english": "drilling",
+    "czech": "vrtání"
   },
   {
-    english: 'hole',
-    czech: 'otvor'
+    "english": "hole",
+    "czech": "otvor"
   },
   {
-    english: 'plugging',
-    czech: 'ucpávání'
+    "english": "plugging",
+    "czech": "ucpávání"
   },
   {
-    english: 'highway',
-    czech: 'Dálnice'
+    "english": "highway",
+    "czech": "Dálnice"
   },
   {
-    english: 'unfamiliar',
-    czech: 'neznámý'
+    "english": "unfamiliar",
+    "czech": "neznámý"
   },
   {
-    english: 'familiar',
-    czech: 'známý'
+    "english": "familiar",
+    "czech": "známý"
   },
   {
-    english: 'low',
-    czech: 'nízký'
+    "english": "low",
+    "czech": "nízký"
   },
   {
-    english: 'purchase',
-    czech: 'nákup'
+    "english": "purchase",
+    "czech": "nákup"
   },
   {
-    english: 'drugstore',
-    czech: 'lékárna'
+    "english": "drugstore",
+    "czech": "lékárna"
   },
   {
-    english: 'blinking',
-    czech: 'blikání'
+    "english": "blinking",
+    "czech": "blikání"
   },
   {
-    english: 'vegetable',
-    czech: 'zeleniny'
+    "english": "vegetable",
+    "czech": "zeleniny"
   },
   {
-    english: 'variety',
-    czech: 'odrůda'
+    "english": "variety",
+    "czech": "odrůda"
   },
   {
-    english: 'fortunate',
-    czech: 'štěstí'
+    "english": "fortunate",
+    "czech": "štěstí"
   },
   {
-    english: 'lucky',
-    czech: 'šťastný'
+    "english": "lucky",
+    "czech": "šťastný"
   },
   {
-    english: 'commercial',
-    czech: 'komerční'
+    "english": "commercial",
+    "czech": "komerční"
   },
   {
-    english: 'afraid',
-    czech: 'strach'
+    "english": "afraid",
+    "czech": "strach"
   },
   {
-    english: 'poor',
-    czech: 'chudý'
+    "english": "poor",
+    "czech": "chudý"
   },
   {
-    english: 'eager worker',
-    czech: 'horlivý pracovník'
+    "english": "eager worker",
+    "czech": "horlivý pracovník"
   },
   {
-    english: 'looked up',
-    czech: 'vzhlédl'
+    "english": "looked up",
+    "czech": "vzhlédl"
   },
   {
-    english: 'wrote',
-    czech: 'napsal'
+    "english": "wrote",
+    "czech": "napsal"
   },
   {
-    english: 'rich',
-    czech: 'bohatý'
+    "english": "rich",
+    "czech": "bohatý"
   },
   {
-    english: 'weak',
-    czech: 'slabý'
+    "english": "weak",
+    "czech": "slabý"
   },
   {
-    english: 'ring',
-    czech: 'prsten'
+    "english": "ring",
+    "czech": "prsten"
   },
   {
-    english: 'bell',
-    czech: 'zvonek'
+    "english": "bell",
+    "czech": "zvonek"
   },
   {
-    english: 'sent',
-    czech: 'odesláno'
+    "english": "sent",
+    "czech": "odesláno"
   },
   {
-    english: 'failed',
-    czech: 'nepodařilo'
+    "english": "failed",
+    "czech": "nepodařilo"
   },
   {
-    english: 'examination',
-    czech: 'zkouška'
+    "english": "examination",
+    "czech": "zkouška"
   },
   {
-    english: 'cheated',
-    czech: 'podvedený'
+    "english": "cheated",
+    "czech": "podvedený"
   },
   {
-    english: 'obtained',
-    czech: 'získané'
+    "english": "obtained",
+    "czech": "získané"
   },
   {
-    english: 'straight',
-    czech: 'rovný'
+    "english": "straight",
+    "czech": "rovný"
   },
   {
-    english: 'broken',
-    czech: 'zlomený'
+    "english": "broken",
+    "czech": "zlomený"
   },
   {
-    english: 'polished',
-    czech: 'leštěné'
+    "english": "polished",
+    "czech": "leštěné"
   },
   {
-    english: 'insulated',
-    czech: 'izolovaný'
+    "english": "insulated",
+    "czech": "izolovaný"
   },
   {
-    english: 'solve',
-    czech: 'řešit'
+    "english": "solve",
+    "czech": "řešit"
   },
   {
-    english: 'puzzle',
-    czech: 'hádanka'
+    "english": "puzzle",
+    "czech": "hádanka"
   },
   {
-    english: 'soap',
-    czech: 'mýdlo'
+    "english": "soap",
+    "czech": "mýdlo"
   },
   {
-    english: 'reduce',
-    czech: 'snížit'
+    "english": "reduce",
+    "czech": "snížit"
   },
   {
-    english: 'regularly',
-    czech: 'pravidelně'
+    "english": "regularly",
+    "czech": "pravidelně"
   },
   {
-    english: 'prefer',
-    czech: 'preferovat'
+    "english": "prefer",
+    "czech": "preferovat"
   },
   {
-    english: 'roller',
-    czech: 'váleček'
+    "english": "roller",
+    "czech": "váleček"
   },
   {
-    english: 'choice',
-    czech: 'výběr'
+    "english": "choice",
+    "czech": "výběr"
   },
   {
-    english: 'unhappy',
-    czech: 'nešťastný'
+    "english": "unhappy",
+    "czech": "nešťastný"
   },
   {
-    english: 'highly',
-    czech: 'vysoce'
+    "english": "highly",
+    "czech": "vysoce"
   },
   {
-    english: 'interest',
-    czech: 'zájem'
+    "english": "interest",
+    "czech": "zájem"
   },
   {
-    english: 'repair',
-    czech: 'opravit'
+    "english": "repair",
+    "czech": "opravit"
   },
   {
-    english: 'replace',
-    czech: 'nahradit'
+    "english": "replace",
+    "czech": "nahradit"
   },
   {
-    english: 'rather',
-    czech: 'spíše'
+    "english": "rather",
+    "czech": "spíše"
   }
 ]
