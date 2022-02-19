@@ -2,7 +2,7 @@ import React, {useMemo, useState} from "react";
 import Hints from "./components/Hints";
 import useSpeechSynthesis from 'beautiful-react-hooks/useSpeechSynthesis';
 
-import test1Words from "./data/test1Words.json";
+import wordsB1 from "./data/wordsB1.json";
 import sound from './icons/sound.png'
 
 import './App.styles.scss';
@@ -12,7 +12,7 @@ function App() {
   const [click, setClick] = useState({back: true, next: false})
 
   const shuffle = (arr: Array<any>) => arr.sort(() => 0.5 - Math.random())
-  const shuffledCards = useMemo<Array<any>>(() => shuffle(test1Words), [])
+  const shuffledCards = useMemo<Array<any>>(() => shuffle(wordsB1), [])
 
   const [word, setWord] = useState(shuffledCards[0])
 
@@ -42,7 +42,7 @@ function App() {
 
   const showAndHideTranslate = () => setHint({translate: !hint.translate, letter: false})
   const getFirstLetterOfTranslate = () => setHint({translate: false, letter: !hint.letter})
-  const { speak } = useSpeechSynthesis(word.english, {rate: .35, pitch: 15, volume: 2});
+  const { speak } = useSpeechSynthesis(word.english, { rate: .35, pitch: 15, volume: 2 });
 
   return (
     <>

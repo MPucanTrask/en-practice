@@ -5,7 +5,7 @@ type HintProps = {
     translate: boolean,
     letter: boolean
   },
-  word: string
+  word: string[]
 }
 
 const Hints = ({visibleHint, word}: HintProps) => {
@@ -13,8 +13,13 @@ const Hints = ({visibleHint, word}: HintProps) => {
 
   return (
     <>
-      { visibleHint.translate ? <div className="word">{word}</div> : <></> }
-      { visibleHint.letter ? <div className="word">{getFirstLetter(word)}</div> : <></> }
+      { visibleHint.translate
+        ? <ul className="word flex-center">{word.map((item) => <li key={item}>{item}</li>)}</ul>
+        : <></>
+      }
+      {
+        visibleHint.letter ? <div className="word">{getFirstLetter(word[0])}</div> : <></>
+      }
     </>
   )
 }

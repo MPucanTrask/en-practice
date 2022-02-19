@@ -1,0 +1,647 @@
+[
+  {
+    "english": "abandon",
+    "czech": [
+      "opustit",
+      "vzdát se"
+    ]
+  },
+  {
+    "english": "abroad",
+    "czech": [
+      "v zahraničí",
+      "cizina",
+      "zahraničí"
+    ]
+  },
+  {
+    "english": "absent",
+    "czech": [
+      "nepřítomný",
+      "chybějící"
+    ]
+  },
+  {
+    "english": "absolute",
+    "czech": [
+      "absolutní"
+    ]
+  },
+  {
+    "english": "absorb",
+    "czech": [
+      "vstřebat"
+    ]
+  },
+  {
+    "english": "abuse",
+    "czech": [
+      "zneužití",
+      "nadávka",
+      "znužívání"
+    ]
+  },
+  {
+    "english": "accent",
+    "czech": [
+      "přízvuk",
+      "akcent"
+    ]
+  },
+  {
+    "english": "acceptable",
+    "czech": [
+      "přípustný"
+    ]
+  },
+  {
+    "english": "acceptance",
+    "czech": [
+      "přijetí",
+      "akceptace",
+      "souhlas"
+    ]
+  },
+  {
+    "english": "accommodation",
+    "czech": [
+      "ubytování",
+      "nocleh"
+    ]
+  },
+  {
+    "english": "accompany",
+    "czech": [
+      "doprovodit",
+      "doprovázet"
+    ]
+  },
+  {
+    "english": "accurate",
+    "czech": [
+      "přesný"
+    ]
+  },
+  {
+    "english": "ache",
+    "czech": [
+      "bolest",
+      "bolet"
+    ]
+  },
+  {
+    "english": "acquisition",
+    "czech": [
+      "získání",
+      "získávání",
+      "nabytí"
+    ]
+  },
+  {
+    "english": "ad",
+    "czech": [
+      "našeho letopočtu"
+    ]
+  },
+  {
+    "english": "adapt",
+    "czech": [
+      "upravit",
+      "přizpůsobit",
+      "adaptovat"
+    ]
+  },
+  {
+    "english": "addition",
+    "czech": [
+      "sčítání"
+    ]
+  },
+  {
+    "english": "adequate",
+    "czech": [
+      "přiměřený",
+      "adekvátní",
+      "postačující"
+    ]
+  },
+  {
+    "english": "adjust",
+    "czech": [
+      "upravit",
+      "seřídit",
+      "přizpůsobit"
+    ]
+  },
+  {
+    "english": "adjustment",
+    "czech": [
+      "úprava"
+    ]
+  },
+  {
+    "english": "administrative",
+    "czech": [
+      "administrační",
+      "administrativní"
+    ]
+  },
+  {
+    "english": "admission",
+    "czech": [
+      "vstupné",
+      "přístup",
+      "přiznání"
+    ]
+  },
+  {
+    "english": "advance",
+    "czech": [
+      "záloha",
+      "postupovat",
+      "pokrok"
+    ]
+  },
+  {
+    "english": "advanced",
+    "czech": [
+      "zdokonalený",
+      "vyspělý",
+      "rozvinutý"
+    ]
+  },
+  {
+    "english": "adverb",
+    "czech": [
+      "příslovce"
+    ]
+  },
+  {
+    "english": "advert",
+    "czech": [
+      "reklama"
+    ]
+  },
+  {
+    "english": "advertise",
+    "czech": [
+      "propagovat"
+    ]
+  },
+  {
+    "english": "advertisement",
+    "czech": [
+      "reklama"
+    ]
+  },
+  {
+    "english": "advertising",
+    "czech": [
+      "reklama",
+      "inzerce"
+    ]
+  },
+  {
+    "english": "adviser",
+    "czech": [
+      "poradce"
+    ]
+  },
+  {
+    "english": "advisor",
+    "czech": [
+      "poradce"
+    ]
+  },
+  {
+    "english": "agenda",
+    "czech": [
+      "program",
+      "program schůze",
+      "program jednání"
+    ]
+  },
+  {
+    "english": "aggressive",
+    "czech": [
+      "agresivní"
+    ]
+  },
+  {
+    "english": "airline",
+    "czech": [
+      "aerolinka"
+    ]
+  },
+  {
+    "english": "alarm",
+    "czech": [
+      "poplach",
+      "alarmovat",
+      "alarm"
+    ]
+  },
+  {
+    "english": "alliance",
+    "czech": [
+      "aliance",
+      "svaz",
+      "společenství"
+    ]
+  },
+  {
+    "english": "ally",
+    "czech": [
+      "spojenec"
+    ]
+  },
+  {
+    "english": "alongside",
+    "czech": [
+      "podél"
+    ]
+  },
+  {
+    "english": "alphabet",
+    "czech": [
+      "abeceda"
+    ]
+  },
+  {
+    "english": "alter",
+    "czech": [
+      "změnit",
+      "proměnit",
+      "upravit"
+    ]
+  },
+  {
+    "english": "altogether",
+    "czech": [
+      "zcela",
+      "úplně"
+    ]
+  },
+  {
+    "english": "amaze",
+    "czech": [
+      "udivit"
+    ]
+  },
+  {
+    "english": "amazing",
+    "czech": [
+      "ohromující",
+      "úžasný",
+      "udivující"
+    ]
+  },
+  {
+    "english": "ambassador",
+    "czech": [
+      "velvyslanec"
+    ]
+  },
+  {
+    "english": "ambition",
+    "czech": [
+      "touha",
+      "ctižádost"
+    ]
+  },
+  {
+    "english": "ambulance",
+    "czech": [
+      "sanitka"
+    ]
+  },
+  {
+    "english": "amuse",
+    "czech": [
+      "bavit"
+    ]
+  },
+  {
+    "english": "analyse",
+    "czech": [
+      "rozebrat",
+      "rozebírat"
+    ]
+  },
+  {
+    "english": "analyze",
+    "czech": [
+      "zkoumat",
+      "analyzovat"
+    ]
+  },
+  {
+    "english": "anger",
+    "czech": [
+      "vztek",
+      "hněv",
+      "zuřivost"
+    ]
+  },
+  {
+    "english": "angle",
+    "czech": [
+      "úhel"
+    ]
+  },
+  {
+    "english": "announcement",
+    "czech": [
+      "oznámení",
+      "zpráva"
+    ]
+  },
+  {
+    "english": "annoy",
+    "czech": [
+      "obtěžovat",
+      "sužovat"
+    ]
+  },
+  {
+    "english": "annoyed",
+    "czech": [
+      "rozzlobený",
+      "otrávený"
+    ]
+  },
+  {
+    "english": "annoying",
+    "czech": [
+      "otravný",
+      "nepříjemný"
+    ]
+  },
+  {
+    "english": "anticipate",
+    "czech": [
+      "předvídat"
+    ]
+  },
+  {
+    "english": "anxiety",
+    "czech": [
+      "úzkost",
+      "strach",
+      "starost"
+    ]
+  },
+  {
+    "english": "anxious",
+    "czech": [
+      "úzkostlivý",
+      "znepokojený",
+      "zneklidněný"
+    ]
+  },
+  {
+    "english": "anyhow",
+    "czech": [
+      "v každém případě",
+      "jakkoliv",
+      "všelijak"
+    ]
+  },
+  {
+    "english": "apart",
+    "czech": [
+      "stranou",
+      "odloučeně",
+      "odloučený"
+    ]
+  },
+  {
+    "english": "apartment",
+    "czech": [
+      "byt"
+    ]
+  },
+  {
+    "english": "apology",
+    "czech": [
+      "omluva"
+    ]
+  },
+  {
+    "english": "appearance",
+    "czech": [
+      "vzhled",
+      "podoba",
+      "objevení se"
+    ]
+  },
+  {
+    "english": "apple",
+    "czech": [
+      "jablko"
+    ]
+  },
+  {
+    "english": "appoint",
+    "czech": [
+      "jmenovat",
+      "zařídit",
+      "vybavit"
+    ]
+  },
+  {
+    "english": "approximately",
+    "czech": [
+      "přibližně",
+      "zhruba"
+    ]
+  },
+  {
+    "english": "architect",
+    "czech": [
+      "architekt"
+    ]
+  },
+  {
+    "english": "architecture",
+    "czech": [
+      "architektura"
+    ]
+  },
+  {
+    "english": "arise",
+    "czech": [
+      "vzniknout",
+      "vyvstat",
+      "objevit se"
+    ]
+  },
+  {
+    "english": "armed",
+    "czech": [
+      "ozbrojený"
+    ]
+  },
+  {
+    "english": "arrest",
+    "czech": [
+      "zatknout",
+      "zadržet"
+    ]
+  },
+  {
+    "english": "arrival",
+    "czech": [
+      "přílet",
+      "příjezd"
+    ]
+  },
+  {
+    "english": "as for",
+    "czech": [
+      "pokud jde o"
+    ]
+  },
+  {
+    "english": "as if",
+    "czech": [
+      "jako by"
+    ]
+  },
+  {
+    "english": "aside",
+    "czech": [
+      "stranou",
+      "mimo"
+    ]
+  },
+  {
+    "english": "assault",
+    "czech": [
+      "útočit",
+      "útok",
+      "znásilnění"
+    ]
+  },
+  {
+    "english": "assign",
+    "czech": [
+      "přiřadit",
+      "určit"
+    ]
+  },
+  {
+    "english": "assignment",
+    "czech": [
+      "úkol"
+    ]
+  },
+  {
+    "english": "assist",
+    "czech": [
+      "pomáhat",
+      "asistovat",
+      "pomoci"
+    ]
+  },
+  {
+    "english": "assistant",
+    "czech": [
+      "pomocník",
+      "asistent",
+      "pomocnice"
+    ]
+  },
+  {
+    "english": "assumption",
+    "czech": [
+      "předpoklad"
+    ]
+  },
+  {
+    "english": "assure",
+    "czech": [
+      "zaručit",
+      "zabezpečit",
+      "uklidnit"
+    ]
+  },
+  {
+    "english": "at first",
+    "czech": [
+      "zpočátku",
+      "zprvu",
+      "nejprve"
+    ]
+  },
+  {
+    "english": "at once",
+    "czech": [
+      "okamžitě",
+      "hned",
+      "ihned"
+    ]
+  },
+  {
+    "english": "athlete",
+    "czech": [
+      "sportovec"
+    ]
+  },
+  {
+    "english": "attendance",
+    "czech": [
+      "docházka",
+      "účast",
+      "počet přítomných"
+    ]
+  },
+  {
+    "english": "attraction",
+    "czech": [
+      "půvab",
+      "přitažlivost",
+      "atrakce"
+    ]
+  },
+  {
+    "english": "attribute",
+    "czech": [
+      "vlastnost"
+    ]
+  },
+  {
+    "english": "aunty",
+    "czech": [
+      "tetička"
+    ]
+  },
+  {
+    "english": "automatically",
+    "czech": [
+      "automaticky"
+    ]
+  },
+  {
+    "english": "avenue",
+    "czech": [
+      "alej",
+      "třída",
+      "bulvár"
+    ]
+  },
+  {
+    "english": "awareness",
+    "czech": [
+      "vědomí",
+      "povědomí"
+    ]
+  },
+  {
+    "english": "awful",
+    "czech": [
+      "hrozný",
+      "strašný"
+    ]
+  }
+]
