@@ -1,15 +1,21 @@
-import React, {useMemo, useState} from "react";
+import React, {useEffect, useMemo, useState} from "react";
 import Hints from "./components/Hints";
 import useSpeechSynthesis from 'beautiful-react-hooks/useSpeechSynthesis';
 
 import wordsB1 from "./data/wordsB1.json";
+import {getWordParameters} from "./services/WordParamServices";
 import sound from './icons/sound.png'
 
 import './App.styles.scss';
 
-function App() {
+export type WordParam = {
+  definitions: string[]
+}
+
+function App(token: any) {
   const [hint, setHint] = useState({translate: false, letter: false})
   const [click, setClick] = useState({back: true, next: false})
+  const [wordParam, setWordParam] = useState([]);
 
   const shuffle = (arr: Array<any>) => arr.sort(() => 0.5 - Math.random())
   const shuffledCards = useMemo<Array<any>>(() => shuffle(wordsB1), [])
@@ -29,6 +35,10 @@ function App() {
       : setClick({back: true, next: click.next})
   }
 
+  useEffect(() => {
+    getWordParameters(word.english).then(data => setWordParam(data))
+  },[word])
+
   const moveNext = () => {
     hideAllHints()
     setClick({back: false, next: click.next})
@@ -44,9 +54,26 @@ function App() {
   const getFirstLetterOfTranslate = () => setHint({translate: false, letter: !hint.letter})
   const { speak } = useSpeechSynthesis(word.english, { rate: .35, pitch: 15, volume: 2 });
 
+  // @ts-ignore
+  const { definitions } = wordParam
+
   return (
     <>
       <main className="main--wrapper">
+        <section className="description">
+          <h4>Definition:</h4>
+          <div>
+            {definitions && definitions[0]?.definition}
+          </div>
+          {definitions &&
+            <>
+              <h4>Example:</h4>
+              <div>
+                {definitions && definitions[0]?.example}
+              </div>
+            </>
+          }
+        </section>
         <div className="word">{word.english}</div>
         <div className="btn--hints">
           <button className="btn" onClick={speak}>
