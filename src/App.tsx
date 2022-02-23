@@ -7,13 +7,11 @@ import {getWordParameters} from "./services/WordParamServices";
 import sound from './icons/sound.png'
 
 import './App.styles.scss';
-import {TailSpin} from "react-loader-spinner";
 
 function App() {
   const [hint, setHint] = useState({translate: false, letter: false})
   const [click, setClick] = useState({back: true, next: false})
   const [wordParam, setWordParam] = useState([]);
-  const [loading, setLoading] = useState(false);
 
   const shuffle = (arr: Array<any>) => arr.sort(() => 0.5 - Math.random())
   const shuffledCards = useMemo<Array<any>>(() => shuffle(wordsB1), [])
@@ -59,23 +57,20 @@ function App() {
     <>
       <main className="main--wrapper">
         <section className="description">
-          {loading
-            ? <TailSpin ariaLabel="loading-indicator" />
-            : <div className="definition--wrapper">
-                  <h4>Definition:</h4>
-                  <div>
-                    {definitions && definitions[0]?.definition}
-                  </div>
-                  {(definitions && definitions.example !== "") &&
-                    <>
-                      <h4>Example:</h4>
-                      <div>
-                        {definitions && definitions[0]?.example}
-                      </div>
-                    </>
-                  }
+          <div className="definition--wrapper">
+              <h4>Definition:</h4>
+              <div>
+                {definitions && definitions[0]?.definition}
               </div>
-          }
+              {(definitions && definitions.example !== "") &&
+                <>
+                  <h4>Example:</h4>
+                  <div>
+                    {definitions && definitions[0]?.example}
+                  </div>
+                </>
+              }
+          </div>
         </section>
         <div className="word">{word.english}</div>
         <div className="btn--hints">
