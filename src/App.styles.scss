@@ -37,8 +37,13 @@ button {
   align-items: center;
   min-height: 80vh;
 
-  .description {
-    width: 90%;
+  .definition--wrapper {
+    width: 400px;
+
+    @media only screen and (max-width: 500px) {
+      width: 90%;
+      max-width: 450px;
+    }
     margin: 0 auto;
     min-height: 10vh;
     flex-direction: column;

@@ -1,647 +1,10238 @@
 [
-  {
-    "english": "abandon",
-    "czech": [
-      "opustit",
-      "vzdát se"
-    ]
-  },
-  {
-    "english": "abroad",
-    "czech": [
-      "v zahraničí",
-      "cizina",
-      "zahraničí"
-    ]
-  },
-  {
-    "english": "absent",
-    "czech": [
-      "nepřítomný",
-      "chybějící"
-    ]
-  },
-  {
-    "english": "absolute",
-    "czech": [
-      "absolutní"
-    ]
-  },
-  {
-    "english": "absorb",
-    "czech": [
-      "vstřebat"
-    ]
-  },
-  {
-    "english": "abuse",
-    "czech": [
-      "zneužití",
-      "nadávka",
-      "znužívání"
-    ]
-  },
-  {
-    "english": "accent",
-    "czech": [
-      "přízvuk",
-      "akcent"
-    ]
-  },
-  {
-    "english": "acceptable",
-    "czech": [
-      "přípustný"
-    ]
-  },
-  {
-    "english": "acceptance",
-    "czech": [
-      "přijetí",
-      "akceptace",
-      "souhlas"
-    ]
-  },
-  {
-    "english": "accommodation",
-    "czech": [
-      "ubytování",
-      "nocleh"
-    ]
-  },
-  {
-    "english": "accompany",
-    "czech": [
-      "doprovodit",
-      "doprovázet"
-    ]
-  },
-  {
-    "english": "accurate",
-    "czech": [
-      "přesný"
-    ]
-  },
-  {
-    "english": "ache",
-    "czech": [
-      "bolest",
-      "bolet"
-    ]
-  },
-  {
-    "english": "acquisition",
-    "czech": [
-      "získání",
-      "získávání",
-      "nabytí"
-    ]
-  },
-  {
-    "english": "ad",
-    "czech": [
-      "našeho letopočtu"
-    ]
-  },
-  {
-    "english": "adapt",
-    "czech": [
-      "upravit",
-      "přizpůsobit",
-      "adaptovat"
-    ]
-  },
-  {
-    "english": "addition",
-    "czech": [
-      "sčítání"
-    ]
-  },
-  {
-    "english": "adequate",
-    "czech": [
-      "přiměřený",
-      "adekvátní",
-      "postačující"
-    ]
-  },
-  {
-    "english": "adjust",
-    "czech": [
-      "upravit",
-      "seřídit",
-      "přizpůsobit"
-    ]
-  },
-  {
-    "english": "adjustment",
-    "czech": [
-      "úprava"
-    ]
-  },
-  {
-    "english": "administrative",
-    "czech": [
-      "administrační",
-      "administrativní"
-    ]
-  },
-  {
-    "english": "admission",
-    "czech": [
-      "vstupné",
-      "přístup",
-      "přiznání"
-    ]
-  },
-  {
-    "english": "advance",
-    "czech": [
-      "záloha",
-      "postupovat",
-      "pokrok"
-    ]
-  },
-  {
-    "english": "advanced",
-    "czech": [
-      "zdokonalený",
-      "vyspělý",
-      "rozvinutý"
-    ]
-  },
-  {
-    "english": "adverb",
-    "czech": [
-      "příslovce"
-    ]
-  },
-  {
-    "english": "advert",
-    "czech": [
-      "reklama"
-    ]
-  },
-  {
-    "english": "advertise",
-    "czech": [
-      "propagovat"
-    ]
-  },
-  {
-    "english": "advertisement",
-    "czech": [
-      "reklama"
-    ]
-  },
-  {
-    "english": "advertising",
-    "czech": [
-      "reklama",
-      "inzerce"
-    ]
-  },
-  {
-    "english": "adviser",
-    "czech": [
-      "poradce"
-    ]
-  },
-  {
-    "english": "advisor",
-    "czech": [
-      "poradce"
-    ]
-  },
-  {
-    "english": "agenda",
-    "czech": [
-      "program",
-      "program schůze",
-      "program jednání"
-    ]
-  },
-  {
-    "english": "aggressive",
-    "czech": [
-      "agresivní"
-    ]
-  },
-  {
-    "english": "airline",
-    "czech": [
-      "aerolinka"
-    ]
-  },
-  {
-    "english": "alarm",
-    "czech": [
-      "poplach",
-      "alarmovat",
-      "alarm"
-    ]
-  },
-  {
-    "english": "alliance",
-    "czech": [
-      "aliance",
-      "svaz",
-      "společenství"
-    ]
-  },
-  {
-    "english": "ally",
-    "czech": [
-      "spojenec"
-    ]
-  },
-  {
-    "english": "alongside",
-    "czech": [
-      "podél"
-    ]
-  },
-  {
-    "english": "alphabet",
-    "czech": [
-      "abeceda"
-    ]
-  },
-  {
-    "english": "alter",
-    "czech": [
-      "změnit",
-      "proměnit",
-      "upravit"
-    ]
-  },
-  {
-    "english": "altogether",
-    "czech": [
-      "zcela",
-      "úplně"
-    ]
-  },
-  {
-    "english": "amaze",
-    "czech": [
-      "udivit"
-    ]
-  },
-  {
-    "english": "amazing",
-    "czech": [
-      "ohromující",
-      "úžasný",
-      "udivující"
-    ]
-  },
-  {
-    "english": "ambassador",
-    "czech": [
-      "velvyslanec"
-    ]
-  },
-  {
-    "english": "ambition",
-    "czech": [
-      "touha",
-      "ctižádost"
-    ]
-  },
-  {
-    "english": "ambulance",
-    "czech": [
-      "sanitka"
-    ]
-  },
-  {
-    "english": "amuse",
-    "czech": [
-      "bavit"
-    ]
-  },
-  {
-    "english": "analyse",
-    "czech": [
-      "rozebrat",
-      "rozebírat"
-    ]
-  },
-  {
-    "english": "analyze",
-    "czech": [
-      "zkoumat",
-      "analyzovat"
-    ]
-  },
-  {
-    "english": "anger",
-    "czech": [
-      "vztek",
-      "hněv",
-      "zuřivost"
-    ]
-  },
-  {
-    "english": "angle",
-    "czech": [
-      "úhel"
-    ]
-  },
-  {
-    "english": "announcement",
-    "czech": [
-      "oznámení",
-      "zpráva"
-    ]
-  },
-  {
-    "english": "annoy",
-    "czech": [
-      "obtěžovat",
-      "sužovat"
-    ]
-  },
-  {
-    "english": "annoyed",
-    "czech": [
-      "rozzlobený",
-      "otrávený"
-    ]
-  },
-  {
-    "english": "annoying",
-    "czech": [
-      "otravný",
-      "nepříjemný"
-    ]
-  },
-  {
-    "english": "anticipate",
-    "czech": [
-      "předvídat"
-    ]
-  },
-  {
-    "english": "anxiety",
-    "czech": [
-      "úzkost",
-      "strach",
-      "starost"
-    ]
-  },
-  {
-    "english": "anxious",
-    "czech": [
-      "úzkostlivý",
-      "znepokojený",
-      "zneklidněný"
-    ]
-  },
-  {
-    "english": "anyhow",
-    "czech": [
-      "v každém případě",
-      "jakkoliv",
-      "všelijak"
-    ]
-  },
-  {
-    "english": "apart",
-    "czech": [
-      "stranou",
-      "odloučeně",
-      "odloučený"
-    ]
-  },
-  {
-    "english": "apartment",
-    "czech": [
-      "byt"
-    ]
-  },
-  {
-    "english": "apology",
-    "czech": [
-      "omluva"
-    ]
-  },
-  {
-    "english": "appearance",
-    "czech": [
-      "vzhled",
-      "podoba",
-      "objevení se"
-    ]
-  },
-  {
-    "english": "apple",
-    "czech": [
-      "jablko"
-    ]
-  },
-  {
-    "english": "appoint",
-    "czech": [
-      "jmenovat",
-      "zařídit",
-      "vybavit"
-    ]
-  },
-  {
-    "english": "approximately",
-    "czech": [
-      "přibližně",
-      "zhruba"
-    ]
-  },
-  {
-    "english": "architect",
-    "czech": [
-      "architekt"
-    ]
-  },
-  {
-    "english": "architecture",
-    "czech": [
-      "architektura"
-    ]
-  },
-  {
-    "english": "arise",
-    "czech": [
-      "vzniknout",
-      "vyvstat",
-      "objevit se"
-    ]
-  },
-  {
-    "english": "armed",
-    "czech": [
-      "ozbrojený"
-    ]
-  },
-  {
-    "english": "arrest",
-    "czech": [
-      "zatknout",
-      "zadržet"
-    ]
-  },
-  {
-    "english": "arrival",
-    "czech": [
-      "přílet",
-      "příjezd"
-    ]
-  },
-  {
-    "english": "as for",
-    "czech": [
-      "pokud jde o"
-    ]
-  },
-  {
-    "english": "as if",
-    "czech": [
-      "jako by"
-    ]
-  },
-  {
-    "english": "aside",
-    "czech": [
-      "stranou",
-      "mimo"
-    ]
-  },
-  {
-    "english": "assault",
-    "czech": [
-      "útočit",
-      "útok",
-      "znásilnění"
-    ]
-  },
-  {
-    "english": "assign",
-    "czech": [
-      "přiřadit",
-      "určit"
-    ]
-  },
-  {
-    "english": "assignment",
-    "czech": [
-      "úkol"
-    ]
-  },
-  {
-    "english": "assist",
-    "czech": [
-      "pomáhat",
-      "asistovat",
-      "pomoci"
-    ]
-  },
-  {
-    "english": "assistant",
-    "czech": [
-      "pomocník",
-      "asistent",
-      "pomocnice"
-    ]
-  },
-  {
-    "english": "assumption",
-    "czech": [
-      "předpoklad"
-    ]
-  },
-  {
-    "english": "assure",
-    "czech": [
-      "zaručit",
-      "zabezpečit",
-      "uklidnit"
-    ]
-  },
-  {
-    "english": "at first",
-    "czech": [
-      "zpočátku",
-      "zprvu",
-      "nejprve"
-    ]
-  },
-  {
-    "english": "at once",
-    "czech": [
-      "okamžitě",
-      "hned",
-      "ihned"
-    ]
-  },
-  {
-    "english": "athlete",
-    "czech": [
-      "sportovec"
-    ]
-  },
-  {
-    "english": "attendance",
-    "czech": [
-      "docházka",
-      "účast",
-      "počet přítomných"
-    ]
-  },
-  {
-    "english": "attraction",
-    "czech": [
-      "půvab",
-      "přitažlivost",
-      "atrakce"
-    ]
-  },
-  {
-    "english": "attribute",
-    "czech": [
-      "vlastnost"
-    ]
-  },
-  {
-    "english": "aunty",
-    "czech": [
-      "tetička"
-    ]
-  },
-  {
-    "english": "automatically",
-    "czech": [
-      "automaticky"
-    ]
-  },
-  {
-    "english": "avenue",
-    "czech": [
-      "alej",
-      "třída",
-      "bulvár"
-    ]
-  },
-  {
-    "english": "awareness",
-    "czech": [
-      "vědomí",
-      "povědomí"
-    ]
-  },
-  {
-    "english": "awful",
-    "czech": [
-      "hrozný",
-      "strašný"
-    ]
-  }
+    {
+        "english": "abandon",
+        "czech": [
+            "opustit",
+            "vzdát se",
+            "zanechat"
+        ]
+    },
+    {
+        "english": "abroad",
+        "czech": [
+            "v zahraničí",
+            "cizina",
+            "zahraničí",
+            "zahraniční"
+        ]
+    },
+    {
+        "english": "absent",
+        "czech": [
+            "nepřítomný",
+            "chybějící",
+            "roztržitý"
+        ]
+    },
+    {
+        "english": "absolute",
+        "czech": [
+            "absolutní"
+        ]
+    },
+    {
+        "english": "absorb",
+        "czech": [
+            "vstřebat",
+            "absorbovat"
+        ]
+    },
+    {
+        "english": "abuse",
+        "czech": [
+            "zneužití",
+            "nadávka",
+            "znužívání",
+            "zneužívání"
+        ]
+    },
+    {
+        "english": "accent",
+        "czech": [
+            "přízvuk",
+            "akcent",
+            "důraz"
+        ]
+    },
+    {
+        "english": "acceptable",
+        "czech": [
+            "přípustný",
+            "přijatelný"
+        ]
+    },
+    {
+        "english": "acceptance",
+        "czech": [
+            "přijetí",
+            "akceptace",
+            "souhlas",
+            "přejímka"
+        ]
+    },
+    {
+        "english": "accommodation",
+        "czech": [
+            "ubytování",
+            "nocleh",
+            "akomodace"
+        ]
+    },
+    {
+        "english": "accompany",
+        "czech": [
+            "doprovodit",
+            "doprovázet",
+            "provázet"
+        ]
+    },
+    {
+        "english": "accurate",
+        "czech": [
+            "přesný",
+            "precizní"
+        ]
+    },
+    {
+        "english": "ache",
+        "czech": [
+            "bolest",
+            "bolet",
+            "bolení"
+        ]
+    },
+    {
+        "english": "acquisition",
+        "czech": [
+            "získání",
+            "získávání",
+            "nabytí",
+            "přírůstek"
+        ]
+    },
+    {
+        "english": "ad",
+        "czech": [
+            "našeho letopočtu"
+        ]
+    },
+    {
+        "english": "adapt",
+        "czech": [
+            "upravit",
+            "přizpůsobit",
+            "adaptovat",
+            "přizpůsobovat"
+        ]
+    },
+    {
+        "english": "addition",
+        "czech": [
+            "sčítání"
+        ]
+    },
+    {
+        "english": "adequate",
+        "czech": [
+            "přiměřený",
+            "adekvátní",
+            "postačující",
+            "dostačující"
+        ]
+    },
+    {
+        "english": "adjust",
+        "czech": [
+            "upravit",
+            "seřídit",
+            "přizpůsobit",
+            "seřizovat"
+        ]
+    },
+    {
+        "english": "adjustment",
+        "czech": [
+            "úprava",
+            "přizpůsobení"
+        ]
+    },
+    {
+        "english": "administrative",
+        "czech": [
+            "administrační",
+            "administrativní",
+            "správní"
+        ]
+    },
+    {
+        "english": "admission",
+        "czech": [
+            "vstupné",
+            "přístup",
+            "přiznání",
+            "přijetí"
+        ]
+    },
+    {
+        "english": "advance",
+        "czech": [
+            "záloha",
+            "postupovat",
+            "pokrok",
+            "dělat pokroky"
+        ]
+    },
+    {
+        "english": "advanced",
+        "czech": [
+            "zdokonalený",
+            "vyspělý",
+            "rozvinutý",
+            "progresivní"
+        ]
+    },
+    {
+        "english": "adverb",
+        "czech": [
+            "příslovce"
+        ]
+    },
+    {
+        "english": "advert",
+        "czech": [
+            "reklama"
+        ]
+    },
+    {
+        "english": "advertise",
+        "czech": [
+            "propagovat",
+            "inzerovat"
+        ]
+    },
+    {
+        "english": "advertisement",
+        "czech": [
+            "reklama",
+            "inzerát"
+        ]
+    },
+    {
+        "english": "advertising",
+        "czech": [
+            "reklama",
+            "inzerce",
+            "propagace"
+        ]
+    },
+    {
+        "english": "adviser",
+        "czech": [
+            "poradce",
+            "rádce"
+        ]
+    },
+    {
+        "english": "advisor",
+        "czech": [
+            "poradce",
+            "rádce"
+        ]
+    },
+    {
+        "english": "agenda",
+        "czech": [
+            "program",
+            "program schůze",
+            "program jednání",
+            "pořad"
+        ]
+    },
+    {
+        "english": "aggressive",
+        "czech": [
+            "agresivní"
+        ]
+    },
+    {
+        "english": "agricultural",
+        "czech": [
+            "zemědělský"
+        ]
+    },
+    {
+        "english": "agriculture",
+        "czech": []
+    },
+    {
+        "english": "AIDS",
+        "czech": []
+    },
+    {
+        "english": "airline",
+        "czech": [
+            "aerolinka"
+        ]
+    },
+    {
+        "english": "alarm",
+        "czech": [
+            "poplach",
+            "alarmovat",
+            "alarm",
+            "úzkost"
+        ]
+    },
+    {
+        "english": "alarm clock",
+        "czech": [
+            "budík"
+        ]
+    },
+    {
+        "english": "album",
+        "czech": [
+            "album"
+        ]
+    },
+    {
+        "english": "alcohol",
+        "czech": [
+            "Alkohol"
+        ]
+    },
+    {
+        "english": "Allah",
+        "czech": []
+    },
+    {
+        "english": "alliance",
+        "czech": [
+            "aliance",
+            "svaz",
+            "společenství",
+            "spolek"
+        ]
+    },
+    {
+        "english": "ally",
+        "czech": [
+            "spojenec"
+        ]
+    },
+    {
+        "english": "alongside",
+        "czech": [
+            "podél"
+        ]
+    },
+    {
+        "english": "alphabet",
+        "czech": [
+            "abeceda"
+        ]
+    },
+    {
+        "english": "alter",
+        "czech": [
+            "změnit",
+            "proměnit",
+            "upravit",
+            "přeměnit"
+        ]
+    },
+    {
+        "english": "altogether",
+        "czech": [
+            "zcela",
+            "úplně",
+            "dohromady"
+        ]
+    },
+    {
+        "english": "amaze",
+        "czech": [
+            "udivit",
+            "ohromit"
+        ]
+    },
+    {
+        "english": "amazing",
+        "czech": [
+            "ohromující",
+            "úžasný",
+            "udivující",
+            "ohromný"
+        ]
+    },
+    {
+        "english": "ambassador",
+        "czech": [
+            "velvyslanec"
+        ]
+    },
+    {
+        "english": "ambition",
+        "czech": [
+            "touha",
+            "ctižádost",
+            "ambice"
+        ]
+    },
+    {
+        "english": "ambulance",
+        "czech": [
+            "sanitka",
+            "záchranka"
+        ]
+    },
+    {
+        "english": "amuse",
+        "czech": [
+            "bavit",
+            "pobavit"
+        ]
+    },
+    {
+        "english": "analyse",
+        "czech": [
+            "rozebrat",
+            "rozebírat",
+            "analyzovat"
+        ]
+    },
+    {
+        "english": "analyze",
+        "czech": [
+            "zkoumat",
+            "analyzovat",
+            "provést"
+        ]
+    },
+    {
+        "english": "anger",
+        "czech": [
+            "vztek",
+            "hněv",
+            "zuřivost",
+            "zlost"
+        ]
+    },
+    {
+        "english": "angle",
+        "czech": [
+            "úhel",
+            "roh"
+        ]
+    },
+    {
+        "english": "announcement",
+        "czech": [
+            "oznámení",
+            "zpráva",
+            "prohlášení"
+        ]
+    },
+    {
+        "english": "annoy",
+        "czech": [
+            "obtěžovat",
+            "sužovat",
+            "znepokojovat"
+        ]
+    },
+    {
+        "english": "annoyed",
+        "czech": [
+            "rozzlobený",
+            "otrávený",
+            "mrzutý"
+        ]
+    },
+    {
+        "english": "annoying",
+        "czech": [
+            "otravný",
+            "nepříjemný"
+        ]
+    },
+    {
+        "english": "anticipate",
+        "czech": [
+            "předvídat"
+        ]
+    },
+    {
+        "english": "anxiety",
+        "czech": [
+            "úzkost",
+            "strach",
+            "starost",
+            "neklid"
+        ]
+    },
+    {
+        "english": "anxious",
+        "czech": [
+            "úzkostlivý",
+            "znepokojený",
+            "zneklidněný",
+            "starostlivý"
+        ]
+    },
+    {
+        "english": "anyhow",
+        "czech": [
+            "v každém případě",
+            "jakkoliv",
+            "všelijak",
+            "přesto"
+        ]
+    },
+    {
+        "english": "apart",
+        "czech": [
+            "stranou",
+            "odloučeně",
+            "odloučený",
+            "odděleně"
+        ]
+    },
+    {
+        "english": "apartment",
+        "czech": [
+            "byt"
+        ]
+    },
+    {
+        "english": "apology",
+        "czech": [
+            "omluva"
+        ]
+    },
+    {
+        "english": "appearance",
+        "czech": [
+            "vzhled",
+            "podoba",
+            "objevení se",
+            "zjev"
+        ]
+    },
+    {
+        "english": "apple",
+        "czech": [
+            "jablko"
+        ]
+    },
+    {
+        "english": "appoint",
+        "czech": [
+            "jmenovat",
+            "zařídit",
+            "vybavit",
+            "určit"
+        ]
+    },
+    {
+        "english": "approximately",
+        "czech": [
+            "přibližně",
+            "zhruba",
+            "asi"
+        ]
+    },
+    {
+        "english": "architect",
+        "czech": [
+            "architekt"
+        ]
+    },
+    {
+        "english": "architecture",
+        "czech": [
+            "architektura"
+        ]
+    },
+    {
+        "english": "arise",
+        "czech": [
+            "vzniknout",
+            "vyvstat",
+            "objevit se",
+            "nastat"
+        ]
+    },
+    {
+        "english": "armed",
+        "czech": [
+            "ozbrojený",
+            "vyzbrojený"
+        ]
+    },
+    {
+        "english": "arrest",
+        "czech": [
+            "zatknout",
+            "zadržet",
+            "zatčení"
+        ]
+    },
+    {
+        "english": "arrival",
+        "czech": [
+            "přílet",
+            "příjezd",
+            "příchod"
+        ]
+    },
+    {
+        "english": "as for",
+        "czech": [
+            "pokud jde o"
+        ]
+    },
+    {
+        "english": "as if",
+        "czech": [
+            "jako by",
+            "jako kdyby"
+        ]
+    },
+    {
+        "english": "aside",
+        "czech": [
+            "stranou",
+            "mimo"
+        ]
+    },
+    {
+        "english": "assault",
+        "czech": [
+            "útočit",
+            "útok",
+            "znásilnění",
+            "znásilnit"
+        ]
+    },
+    {
+        "english": "assign",
+        "czech": [
+            "přiřadit",
+            "určit",
+            "přidělit"
+        ]
+    },
+    {
+        "english": "assignment",
+        "czech": [
+            "úkol",
+            "přiřazení"
+        ]
+    },
+    {
+        "english": "assist",
+        "czech": [
+            "pomáhat",
+            "asistovat",
+            "pomoci",
+            "pomoc"
+        ]
+    },
+    {
+        "english": "assistant",
+        "czech": [
+            "pomocník",
+            "asistent",
+            "pomocnice",
+            "náměstek"
+        ]
+    },
+    {
+        "english": "assumption",
+        "czech": [
+            "předpoklad",
+            "domněnka"
+        ]
+    },
+    {
+        "english": "assure",
+        "czech": [
+            "zaručit",
+            "zabezpečit",
+            "uklidnit",
+            "ujistit"
+        ]
+    },
+    {
+        "english": "at first",
+        "czech": [
+            "zpočátku",
+            "zprvu",
+            "nejprve",
+            "nejdříve"
+        ]
+    },
+    {
+        "english": "at once",
+        "czech": [
+            "okamžitě",
+            "hned",
+            "ihned",
+            "najednou"
+        ]
+    },
+    {
+        "english": "athlete",
+        "czech": [
+            "sportovec",
+            "atlet"
+        ]
+    },
+    {
+        "english": "Atlantic",
+        "czech": []
+    },
+    {
+        "english": "atmosphere",
+        "czech": [
+            "atmosféra"
+        ]
+    },
+    {
+        "english": "attendance",
+        "czech": [
+            "docházka",
+            "účast",
+            "počet přítomných",
+            "počet návštěvníků"
+        ]
+    },
+    {
+        "english": "attraction",
+        "czech": [
+            "půvab",
+            "přitažlivost",
+            "atrakce",
+            "kouzlo"
+        ]
+    },
+    {
+        "english": "attribute",
+        "czech": [
+            "vlastnost",
+            "atribut"
+        ]
+    },
+    {
+        "english": "aunty",
+        "czech": [
+            "tetička",
+            "teta"
+        ]
+    },
+    {
+        "english": "automatically",
+        "czech": [
+            "automaticky",
+            "samočinně"
+        ]
+    },
+    {
+        "english": "avenue",
+        "czech": [
+            "alej",
+            "třída",
+            "bulvár",
+            "avenue"
+        ]
+    },
+    {
+        "english": "awareness",
+        "czech": [
+            "vědomí",
+            "povědomí",
+            "uvědomování si"
+        ]
+    },
+    {
+        "english": "awful",
+        "czech": [
+            "hrozný",
+            "strašný",
+            "děsný"
+        ]
+    },
+    {
+        "english": "bachelor",
+        "czech": [
+            "bakalář",
+            "starý mládenec",
+            "svobodný mládenec"
+        ]
+    },
+    {
+        "english": "baggage",
+        "czech": [
+            "zavazadla",
+            "zavazadlo",
+            "fracek",
+            "bagáž"
+        ]
+    },
+    {
+        "english": "bake",
+        "czech": [
+            "péci",
+            "péct"
+        ]
+    },
+    {
+        "english": "ban",
+        "czech": [
+            "zákaz",
+            "zakázat",
+            "zakazovat",
+            "vypovězení"
+        ]
+    },
+    {
+        "english": "bare",
+        "czech": [
+            "nahý",
+            "holý",
+            "pouhý"
+        ]
+    },
+    {
+        "english": "barely",
+        "czech": [
+            "sotva"
+        ]
+    },
+    {
+        "english": "barrel",
+        "czech": [
+            "sud"
+        ]
+    },
+    {
+        "english": "barrier",
+        "czech": [
+            "bariéra",
+            "překážka"
+        ]
+    },
+    {
+        "english": "basket",
+        "czech": [
+            "koš",
+            "košík"
+        ]
+    },
+    {
+        "english": "battery",
+        "czech": [
+            "baterie",
+            "akumulátor"
+        ]
+    },
+    {
+        "english": "bay",
+        "czech": [
+            "záliv",
+            "zátoka"
+        ]
+    },
+    {
+        "english": "bean",
+        "czech": [
+            "fazole"
+        ]
+    },
+    {
+        "english": "beard",
+        "czech": [
+            "vous",
+            "vousy",
+            "plnovous",
+            "brada"
+        ]
+    },
+    {
+        "english": "beef",
+        "czech": [
+            "hovězí",
+            "hovězí maso"
+        ]
+    },
+    {
+        "english": "beginner",
+        "czech": [
+            "začátečník",
+            "nováček"
+        ]
+    },
+    {
+        "english": "behave",
+        "czech": [
+            "chovat se",
+            "jednat"
+        ]
+    },
+    {
+        "english": "Belgium",
+        "czech": []
+    },
+    {
+        "english": "bell",
+        "czech": [
+            "zvon",
+            "zvonek"
+        ]
+    },
+    {
+        "english": "belt",
+        "czech": [
+            "pás",
+            "pásek",
+            "opasek"
+        ]
+    },
+    {
+        "english": "bench",
+        "czech": []
+    },
+    {
+        "english": "bend",
+        "czech": [
+            "ohnout",
+            "zatáčka",
+            "ohýbat",
+            "ohyb"
+        ]
+    },
+    {
+        "english": "besides",
+        "czech": [
+            "nadto",
+            "mimoto",
+            "kromě",
+            "vedle"
+        ]
+    },
+    {
+        "english": "bet",
+        "czech": [
+            "vsadit",
+            "sázka",
+            "sázet",
+            "vsadit se"
+        ]
+    },
+    {
+        "english": "bid",
+        "czech": [
+            "podání",
+            "podat nabídku",
+            "nabízet",
+            "nabídnutá cena"
+        ]
+    },
+    {
+        "english": "billion",
+        "czech": [
+            "miliarda",
+            "bilión"
+        ]
+    },
+    {
+        "english": "bin",
+        "czech": [
+            "popelnice",
+            "koš"
+        ]
+    },
+    {
+        "english": "biological",
+        "czech": [
+            "biologický"
+        ]
+    },
+    {
+        "english": "biology",
+        "czech": [
+            "biologie"
+        ]
+    },
+    {
+        "english": "birthday",
+        "czech": [
+            "narozeniny"
+        ]
+    },
+    {
+        "english": "biscuit",
+        "czech": [
+            "sušenka",
+            "keks",
+            "suchar"
+        ]
+    },
+    {
+        "english": "bitter",
+        "czech": [
+            "hořký"
+        ]
+    },
+    {
+        "english": "blade",
+        "czech": [
+            "čepel"
+        ]
+    },
+    {
+        "english": "blank",
+        "czech": [
+            "tiskopis",
+            "prázdný",
+            "čistý",
+            "čirý"
+        ]
+    },
+    {
+        "english": "blanket",
+        "czech": [
+            "deka",
+            "přikrývka"
+        ]
+    },
+    {
+        "english": "blonde",
+        "czech": [
+            "blondýnka",
+            "světlovlasá",
+            "plavovláska",
+            "plavovlasá"
+        ]
+    },
+    {
+        "english": "blow up",
+        "czech": [
+            "vyhodit do povětří",
+            "vybouchnout",
+            "přivést k výbuchu",
+            "nafouknout"
+        ]
+    },
+    {
+        "english": "boarding card",
+        "czech": []
+    },
+    {
+        "english": "boiler",
+        "czech": [
+            "kotel",
+            "bojler"
+        ]
+    },
+    {
+        "english": "boiling",
+        "czech": [
+            "vaření",
+            "var",
+            "vření",
+            "vařící se"
+        ]
+    },
+    {
+        "english": "bond",
+        "czech": [
+            "obligace",
+            "dluhopis",
+            "vazba"
+        ]
+    },
+    {
+        "english": "booking",
+        "czech": [
+            "rezervace"
+        ]
+    },
+    {
+        "english": "boom",
+        "czech": [
+            "rozmach",
+            "konjunktura",
+            "hospodářský rozmach",
+            "dunění"
+        ]
+    },
+    {
+        "english": "boot",
+        "czech": [
+            "bota"
+        ]
+    },
+    {
+        "english": "bored",
+        "czech": [
+            "znuděný",
+            "vrtal",
+            "unuděný",
+            "otrávený"
+        ]
+    },
+    {
+        "english": "boring",
+        "czech": [
+            "nudný"
+        ]
+    },
+    {
+        "english": "bounce",
+        "czech": [
+            "odskočit",
+            "poskakovat",
+            "odrážet se",
+            "odrazit se"
+        ]
+    },
+    {
+        "english": "boundary",
+        "czech": [
+            "hranice"
+        ]
+    },
+    {
+        "english": "boyfriend",
+        "czech": [
+            "milenec",
+            "přítel"
+        ]
+    },
+    {
+        "english": "brake",
+        "czech": [
+            "brzda",
+            "brzdit"
+        ]
+    },
+    {
+        "english": "brand",
+        "czech": [
+            "značka",
+            "označit",
+            "cejchovat",
+            "cejch"
+        ]
+    },
+    {
+        "english": "Brazil",
+        "czech": []
+    },
+    {
+        "english": "break up",
+        "czech": [
+            "ukončit",
+            "rozpustit",
+            "rozbít",
+            "přerušit zápas"
+        ]
+    },
+    {
+        "english": "breast",
+        "czech": [
+            "prs",
+            "ňadro",
+            "hruď"
+        ]
+    },
+    {
+        "english": "brick",
+        "czech": [
+            "cihla"
+        ]
+    },
+    {
+        "english": "briefly",
+        "czech": [
+            "krátce",
+            "stručně"
+        ]
+    },
+    {
+        "english": "brilliant",
+        "czech": [
+            "skvělý",
+            "zářivý",
+            "vynikající",
+            "zářící"
+        ]
+    },
+    {
+        "english": "bring up",
+        "czech": [
+            "vychovat",
+            "vychovávat",
+            "předložit"
+        ]
+    },
+    {
+        "english": "broadcast",
+        "czech": [
+            "vysílání",
+            "vysílat",
+            "vysílací"
+        ]
+    },
+    {
+        "english": "broken",
+        "czech": [
+            "zlomený",
+            "rozbitý",
+            "lomený",
+            "zlámaný"
+        ]
+    },
+    {
+        "english": "brush",
+        "czech": [
+            "kartáč",
+            "štětec",
+            "smetáček",
+            "smeták"
+        ]
+    },
+    {
+        "english": "bugger",
+        "czech": [
+            "sodomita",
+            "prevít",
+            "kašlat na něco",
+            "hlupák"
+        ]
+    },
+    {
+        "english": "builder",
+        "czech": [
+            "budovatel",
+            "stavitel"
+        ]
+    },
+    {
+        "english": "bullet",
+        "czech": [
+            "kulka"
+        ]
+    },
+    {
+        "english": "bunch",
+        "czech": [
+            "svazek",
+            "hrozen",
+            "trs",
+            "kytice"
+        ]
+    },
+    {
+        "english": "burden",
+        "czech": [
+            "břemeno",
+            "břímě",
+            "zátěž",
+            "zatížení"
+        ]
+    },
+    {
+        "english": "burger",
+        "czech": [
+            "hamburger"
+        ]
+    },
+    {
+        "english": "burst",
+        "czech": [
+            "výbuch",
+            "prasknutí",
+            "prasknout",
+            "poryv"
+        ]
+    },
+    {
+        "english": "bury",
+        "czech": [
+            "pohřbít",
+            "zakopat",
+            "zahrabat",
+            "pohřbívat"
+        ]
+    },
+    {
+        "english": "butcher",
+        "czech": [
+            "řezník"
+        ]
+    },
+    {
+        "english": "button",
+        "czech": [
+            "knoflík",
+            "tlačítko"
+        ]
+    },
+    {
+        "english": "by chance",
+        "czech": [
+            "náhodou"
+        ]
+    },
+    {
+        "english": "cabin",
+        "czech": [
+            "kajuta",
+            "chata",
+            "bouda"
+        ]
+    },
+    {
+        "english": "cable",
+        "czech": [
+            "kabel",
+            "lano",
+            "telegram"
+        ]
+    },
+    {
+        "english": "cage",
+        "czech": [
+            "klec"
+        ]
+    },
+    {
+        "english": "calculate",
+        "czech": [
+            "počítat",
+            "vypočítat",
+            "kalkulovat"
+        ]
+    },
+    {
+        "english": "campus",
+        "czech": [
+            "kampus",
+            "univerzita"
+        ]
+    },
+    {
+        "english": "Canadian",
+        "czech": []
+    },
+    {
+        "english": "canal",
+        "czech": [
+            "kanál",
+            "průplav"
+        ]
+    },
+    {
+        "english": "cancel",
+        "czech": [
+            "zrušit",
+            "stornovat",
+            "odvolat",
+            "anulovat"
+        ]
+    },
+    {
+        "english": "canteen",
+        "czech": [
+            "kantýna",
+            "menza",
+            "jídelna",
+            "závodní jídelna"
+        ]
+    },
+    {
+        "english": "cap",
+        "czech": [
+            "čepice",
+            "čepec",
+            "čapka",
+            "čepička"
+        ]
+    },
+    {
+        "english": "capability",
+        "czech": [
+            "schopnost",
+            "způsobilost"
+        ]
+    },
+    {
+        "english": "capital",
+        "czech": [
+            "hlavní město",
+            "vlastnost",
+            "vlastnictví",
+            "nemovitost"
+        ]
+    },
+    {
+        "english": "captain",
+        "czech": [
+            "kapitán"
+        ]
+    },
+    {
+        "english": "capture",
+        "czech": [
+            "chytit",
+            "zajmout",
+            "zachytit",
+            "zaujmout"
+        ]
+    },
+    {
+        "english": "caravan",
+        "czech": [
+            "karavana",
+            "karavan"
+        ]
+    },
+    {
+        "english": "carbon",
+        "czech": [
+            "uhlík"
+        ]
+    },
+    {
+        "english": "Caribbean",
+        "czech": []
+    },
+    {
+        "english": "carpet",
+        "czech": [
+            "koberec"
+        ]
+    },
+    {
+        "english": "carriage",
+        "czech": [
+            "vůz",
+            "kočár",
+            "vystupování",
+            "suport"
+        ]
+    },
+    {
+        "english": "carrot",
+        "czech": [
+            "mrkev"
+        ]
+    },
+    {
+        "english": "carry on",
+        "czech": [
+            "pokračovat",
+            "dovádět",
+            "být nevychovaný"
+        ]
+    },
+    {
+        "english": "carry out",
+        "czech": [
+            "vykonat",
+            "uskutečnit",
+            "realizovat",
+            "provést"
+        ]
+    },
+    {
+        "english": "catalogue",
+        "czech": [
+            "katalog",
+            "katalogizovat"
+        ]
+    },
+    {
+        "english": "cattle",
+        "czech": [
+            "skot",
+            "tur domácí",
+            "dobytek"
+        ]
+    },
+    {
+        "english": "cease",
+        "czech": [
+            "skončit",
+            "ukončit"
+        ]
+    },
+    {
+        "english": "ceiling",
+        "czech": [
+            "strop"
+        ]
+    },
+    {
+        "english": "celebration",
+        "czech": [
+            "slavnost",
+            "oslava",
+            "mše"
+        ]
+    },
+    {
+        "english": "ceremony",
+        "czech": [
+            "obřad",
+            "slavnost",
+            "ceremonie"
+        ]
+    },
+    {
+        "english": "certificate",
+        "czech": [
+            "certifikát"
+        ]
+    },
+    {
+        "english": "chamber",
+        "czech": [
+            "komora",
+            "ložnice"
+        ]
+    },
+    {
+        "english": "channel",
+        "czech": [
+            "kanál",
+            "průliv",
+            "žlab",
+            "průplav"
+        ]
+    },
+    {
+        "english": "chart",
+        "czech": [
+            "graf",
+            "schéma",
+            "diagram"
+        ]
+    },
+    {
+        "english": "chase",
+        "czech": [
+            "hon",
+            "hnát",
+            "stíhání",
+            "pronásledovat"
+        ]
+    },
+    {
+        "english": "chat",
+        "czech": [
+            "klábosit"
+        ]
+    },
+    {
+        "english": "cheat",
+        "czech": [
+            "podvést",
+            "podvádět",
+            "oklamat",
+            "ošidit"
+        ]
+    },
+    {
+        "english": "check in",
+        "czech": [
+            "ubytovat se",
+            "registrovat se"
+        ]
+    },
+    {
+        "english": "check out",
+        "czech": [
+            "odhlásit se"
+        ]
+    },
+    {
+        "english": "cheek",
+        "czech": [
+            "tvář"
+        ]
+    },
+    {
+        "english": "cheeky",
+        "czech": [
+            "drzý",
+            "nestoudný"
+        ]
+    },
+    {
+        "english": "cheerful",
+        "czech": [
+            "veselý",
+            "šťastný",
+            "radostný"
+        ]
+    },
+    {
+        "english": "cheerio",
+        "czech": [
+            "nazdar",
+            "ahoj",
+            "na shledanou"
+        ]
+    },
+    {
+        "english": "chemist",
+        "czech": [
+            "chemik",
+            "lékárník"
+        ]
+    },
+    {
+        "english": "chemistry",
+        "czech": [
+            "chemie"
+        ]
+    },
+    {
+        "english": "chew",
+        "czech": [
+            "žvýkat"
+        ]
+    },
+    {
+        "english": "chewing gum",
+        "czech": [
+            "žvýkačka"
+        ]
+    },
+    {
+        "english": "childhood",
+        "czech": [
+            "dětství"
+        ]
+    },
+    {
+        "english": "chin",
+        "czech": [
+            "brada"
+        ]
+    },
+    {
+        "english": "chip",
+        "czech": []
+    },
+    {
+        "english": "chuck",
+        "czech": [
+            "upínat",
+            "sklíčidlo",
+            "praštit",
+            "podložka"
+        ]
+    },
+    {
+        "english": "circuit",
+        "czech": [
+            "obvod",
+            "obchůzka",
+            "okruh",
+            "kruh"
+        ]
+    },
+    {
+        "english": "cite",
+        "czech": [
+            "citovat"
+        ]
+    },
+    {
+        "english": "clap",
+        "czech": [
+            "tleskat",
+            "tleskání",
+            "zatleskat",
+            "třesk"
+        ]
+    },
+    {
+        "english": "classic",
+        "czech": [
+            "klasický"
+        ]
+    },
+    {
+        "english": "classical",
+        "czech": [
+            "klasický"
+        ]
+    },
+    {
+        "english": "clause",
+        "czech": [
+            "klauzule",
+            "doložka"
+        ]
+    },
+    {
+        "english": "clerk",
+        "czech": [
+            "úředník",
+            "účetní",
+            "tajemník",
+            "písař"
+        ]
+    },
+    {
+        "english": "click",
+        "czech": [
+            "kliknout",
+            "cvaknout",
+            "západka",
+            "klapnout"
+        ]
+    },
+    {
+        "english": "climate",
+        "czech": [
+            "podnebí",
+            "klima"
+        ]
+    },
+    {
+        "english": "clinic",
+        "czech": [
+            "klinika"
+        ]
+    },
+    {
+        "english": "clinical",
+        "czech": [
+            "klinický"
+        ]
+    },
+    {
+        "english": "clothing",
+        "czech": [
+            "oděv",
+            "šaty",
+            "oblečení"
+        ]
+    },
+    {
+        "english": "coalition",
+        "czech": [
+            "koalice",
+            "sdružení"
+        ]
+    },
+    {
+        "english": "coin",
+        "czech": [
+            "mince"
+        ]
+    },
+    {
+        "english": "Coke",
+        "czech": []
+    },
+    {
+        "english": "collapse",
+        "czech": [
+            "zřícení",
+            "zhroutit se",
+            "pád",
+            "kolaps"
+        ]
+    },
+    {
+        "english": "comfort",
+        "czech": [
+            "útěcha",
+            "pohodlí",
+            "utěšit",
+            "komfort"
+        ]
+    },
+    {
+        "english": "comma",
+        "czech": [
+            "čárka"
+        ]
+    },
+    {
+        "english": "commander",
+        "czech": [
+            "velitel"
+        ]
+    },
+    {
+        "english": "commonly",
+        "czech": [
+            "často",
+            "běžně",
+            "obyčejně",
+            "obvykle"
+        ]
+    },
+    {
+        "english": "communicate",
+        "czech": [
+            "sdělit",
+            "komunikovat",
+            "oznámit",
+            "dorozumívat se"
+        ]
+    },
+    {
+        "english": "communist",
+        "czech": [
+            "komunista",
+            "komunistický"
+        ]
+    },
+    {
+        "english": "companion",
+        "czech": [
+            "společník",
+            "průvodce",
+            "společnice",
+            "souputník"
+        ]
+    },
+    {
+        "english": "compensation",
+        "czech": [
+            "náhrada",
+            "kompenzace",
+            "odškodnění"
+        ]
+    },
+    {
+        "english": "competitive",
+        "czech": [
+            "soutěžní",
+            "soutěživý",
+            "konkurenční",
+            "kompetitivní"
+        ]
+    },
+    {
+        "english": "complicate",
+        "czech": [
+            "komplikovat"
+        ]
+    },
+    {
+        "english": "complicated",
+        "czech": [
+            "komplikovaný",
+            "složitý",
+            "zamotaný",
+            "spletitý"
+        ]
+    },
+    {
+        "english": "compose",
+        "czech": [
+            "sestavit",
+            "komponovat",
+            "složit",
+            "vytvořit"
+        ]
+    },
+    {
+        "english": "composition",
+        "czech": [
+            "skladba",
+            "složení",
+            "kompozice",
+            "sestavení"
+        ]
+    },
+    {
+        "english": "comprehensive",
+        "czech": [
+            "vyčerpávající",
+            "obsáhlý",
+            "úplný",
+            "zevrubný"
+        ]
+    },
+    {
+        "english": "comprise",
+        "czech": [
+            "obsahovat",
+            "zahrnovat",
+            "zahrnout"
+        ]
+    },
+    {
+        "english": "concerning",
+        "czech": [
+            "ohledně",
+            "co se týče",
+            "ve věci",
+            "týkající se"
+        ]
+    },
+    {
+        "english": "concert",
+        "czech": [
+            "koncert"
+        ]
+    },
+    {
+        "english": "confident",
+        "czech": [
+            "sebejistý",
+            "přesvědčený",
+            "jistý",
+            "důvěřivý"
+        ]
+    },
+    {
+        "english": "confine",
+        "czech": [
+            "omezit",
+            "zabránit",
+            "omezovat"
+        ]
+    },
+    {
+        "english": "confront",
+        "czech": [
+            "čelit",
+            "srovnat",
+            "porovnávat",
+            "konfrontovat"
+        ]
+    },
+    {
+        "english": "confuse",
+        "czech": [
+            "zmást",
+            "splést",
+            "poplést",
+            "pomást"
+        ]
+    },
+    {
+        "english": "confused",
+        "czech": [
+            "zmatený"
+        ]
+    },
+    {
+        "english": "confusing",
+        "czech": [
+            "matoucí"
+        ]
+    },
+    {
+        "english": "confusion",
+        "czech": [
+            "zmatek",
+            "zmatení"
+        ]
+    },
+    {
+        "english": "consciousness",
+        "czech": [
+            "vědomí",
+            "povědomí"
+        ]
+    },
+    {
+        "english": "consent",
+        "czech": [
+            "souhlas",
+            "svolení"
+        ]
+    },
+    {
+        "english": "consequently",
+        "czech": [
+            "následně",
+            "tudíž",
+            "tedy",
+            "proto"
+        ]
+    },
+    {
+        "english": "conservation",
+        "czech": [
+            "zachování",
+            "uchování",
+            "konzervace"
+        ]
+    },
+    {
+        "english": "considerable",
+        "czech": [
+            "značně velký",
+            "značný",
+            "význačný",
+            "významný"
+        ]
+    },
+    {
+        "english": "consist",
+        "czech": [
+            "skládat se",
+            "spočívat",
+            "sestávat se",
+            "sestávat"
+        ]
+    },
+    {
+        "english": "consistent",
+        "czech": [
+            "konzistentní",
+            "zásadový",
+            "logický",
+            "hutný"
+        ]
+    },
+    {
+        "english": "constantly",
+        "czech": [
+            "trvale",
+            "neustále",
+            "nepřetržitě",
+            "vždycky"
+        ]
+    },
+    {
+        "english": "constituency",
+        "czech": [
+            "voliči",
+            "volební obvod"
+        ]
+    },
+    {
+        "english": "constitute",
+        "czech": [
+            "ustavit",
+            "jmenovat",
+            "zřídit",
+            "vytvářet"
+        ]
+    },
+    {
+        "english": "constitutional",
+        "czech": [
+            "ústavní"
+        ]
+    },
+    {
+        "english": "construct",
+        "czech": [
+            "vytvořit",
+            "stavět",
+            "budovat",
+            "způsobit"
+        ]
+    },
+    {
+        "english": "consul",
+        "czech": [
+            "konzul"
+        ]
+    },
+    {
+        "english": "consult",
+        "czech": [
+            "projednat",
+            "konzultovat",
+            "radit se",
+            "poradit se"
+        ]
+    },
+    {
+        "english": "consultant",
+        "czech": [
+            "konzultant",
+            "poradce"
+        ]
+    },
+    {
+        "english": "consultation",
+        "czech": [
+            "konzultace"
+        ]
+    },
+    {
+        "english": "consume",
+        "czech": [
+            "spotřebovat",
+            "konzumovat",
+            "zkonzumovat",
+            "sníst"
+        ]
+    },
+    {
+        "english": "consumption",
+        "czech": [
+            "spotřeba"
+        ]
+    },
+    {
+        "english": "contest",
+        "czech": [
+            "soutěž",
+            "zápas",
+            "závod",
+            "volební boj"
+        ]
+    },
+    {
+        "english": "continent",
+        "czech": [
+            "kontinent",
+            "světadíl"
+        ]
+    },
+    {
+        "english": "continuous",
+        "czech": [
+            "spojitý",
+            "neustálý",
+            "nepřetržitý",
+            "kontinuální"
+        ]
+    },
+    {
+        "english": "controversial",
+        "czech": [
+            "kontroverzní",
+            "sporný"
+        ]
+    },
+    {
+        "english": "controversy",
+        "czech": [
+            "spor",
+            "polemika",
+            "kontroverze"
+        ]
+    },
+    {
+        "english": "convenient",
+        "czech": [
+            "pohodlný",
+            "výhodný",
+            "vhodný"
+        ]
+    },
+    {
+        "english": "convention",
+        "czech": [
+            "úmluva",
+            "konvence"
+        ]
+    },
+    {
+        "english": "conventional",
+        "czech": [
+            "obvyklý",
+            "konvenční",
+            "obecný"
+        ]
+    },
+    {
+        "english": "convert",
+        "czech": [
+            "přeměnit",
+            "proměnit",
+            "změnit"
+        ]
+    },
+    {
+        "english": "convey",
+        "czech": [
+            "vyjádřit",
+            "sdělit",
+            "přepravit",
+            "vozit"
+        ]
+    },
+    {
+        "english": "conviction",
+        "czech": [
+            "přesvědčení",
+            "usvědčení",
+            "odsouzení"
+        ]
+    },
+    {
+        "english": "convince",
+        "czech": [
+            "přesvědčit",
+            "přesvědčovat"
+        ]
+    },
+    {
+        "english": "cooker",
+        "czech": [
+            "sporák",
+            "vařič"
+        ]
+    },
+    {
+        "english": "cooperation",
+        "czech": [
+            "spolupráce"
+        ]
+    },
+    {
+        "english": "cope",
+        "czech": [
+            "zvládnout",
+            "zvládat",
+            "vyrovnat"
+        ]
+    },
+    {
+        "english": "copper",
+        "czech": [
+            "měď"
+        ]
+    },
+    {
+        "english": "core",
+        "czech": [
+            "jádro"
+        ]
+    },
+    {
+        "english": "corn",
+        "czech": [
+            "kukuřice",
+            "kuří oko"
+        ]
+    },
+    {
+        "english": "corporation",
+        "czech": [
+            "firma",
+            "společnost",
+            "podnik"
+        ]
+    },
+    {
+        "english": "correspond",
+        "czech": [
+            "odpovídat"
+        ]
+    },
+    {
+        "english": "correspondent",
+        "czech": [
+            "zpravodaj",
+            "korespondent",
+            "dopisovatel",
+            "souhlasný"
+        ]
+    },
+    {
+        "english": "corridor",
+        "czech": [
+            "chodba"
+        ]
+    },
+    {
+        "english": "cottage",
+        "czech": [
+            "chata",
+            "chalupa",
+            "domek",
+            "chaloupka"
+        ]
+    },
+    {
+        "english": "cotton",
+        "czech": [
+            "bavlna"
+        ]
+    },
+    {
+        "english": "councillor",
+        "czech": [
+            "radní"
+        ]
+    },
+    {
+        "english": "counter",
+        "czech": [
+            "čítač",
+            "pult",
+            "přepážka",
+            "počitač"
+        ]
+    },
+    {
+        "english": "cousin",
+        "czech": [
+            "sestřenice",
+            "bratranec"
+        ]
+    },
+    {
+        "english": "coverage",
+        "czech": [
+            "pokrytí",
+            "zpravodajství",
+            "zaměření",
+            "rozsah"
+        ]
+    },
+    {
+        "english": "crack",
+        "czech": [
+            "trhlina",
+            "štěrbina",
+            "puklina",
+            "prasklina"
+        ]
+    },
+    {
+        "english": "craft",
+        "czech": [
+            "řemeslo",
+            "loď",
+            "plavidlo",
+            "dovednost"
+        ]
+    },
+    {
+        "english": "crash",
+        "czech": [
+            "narazit",
+            "kolize",
+            "zaburácet",
+            "zaburácení"
+        ]
+    },
+    {
+        "english": "creative",
+        "czech": [
+            "tvořivý",
+            "vytvářející"
+        ]
+    },
+    {
+        "english": "creature",
+        "czech": [
+            "tvor",
+            "stvoření",
+            "kreatura"
+        ]
+    },
+    {
+        "english": "credit card",
+        "czech": [
+            "kreditní karta"
+        ]
+    },
+    {
+        "english": "cricket",
+        "czech": [
+            "cvrček",
+            "kriket"
+        ]
+    },
+    {
+        "english": "critic",
+        "czech": [
+            "kritik"
+        ]
+    },
+    {
+        "english": "crop",
+        "czech": [
+            "žeň",
+            "úroda",
+            "oříznout",
+            "ořezat"
+        ]
+    },
+    {
+        "english": "crown",
+        "czech": [
+            "koruna"
+        ]
+    },
+    {
+        "english": "crucial",
+        "czech": [
+            "rozhodující",
+            "kritický",
+            "zásadní",
+            "velmi důležitý"
+        ]
+    },
+    {
+        "english": "crush",
+        "czech": [
+            "drtit",
+            "rozdrtit"
+        ]
+    },
+    {
+        "english": "crust",
+        "czech": [
+            "škraloup",
+            "strup",
+            "kůrka",
+            "kůra"
+        ]
+    },
+    {
+        "english": "cure",
+        "czech": [
+            "léčba",
+            "lék",
+            "léčit",
+            "vyléčit"
+        ]
+    },
+    {
+        "english": "curious",
+        "czech": [
+            "zvědavý",
+            "zvláštní"
+        ]
+    },
+    {
+        "english": "currency",
+        "czech": [
+            "měna"
+        ]
+    },
+    {
+        "english": "curtain",
+        "czech": [
+            "závěs",
+            "opona",
+            "záclona"
+        ]
+    },
+    {
+        "english": "curve",
+        "czech": [
+            "křivka",
+            "zatáčka"
+        ]
+    },
+    {
+        "english": "customs",
+        "czech": [
+            "clo",
+            "celnice"
+        ]
+    },
+    {
+        "english": "cut up",
+        "czech": [
+            "říznout",
+            "rozsekal",
+            "rozkrájet",
+            "krájet"
+        ]
+    },
+    {
+        "english": "cycle",
+        "czech": [
+            "cyklus",
+            "koloběh",
+            "kolo",
+            "perioda"
+        ]
+    },
+    {
+        "english": "dare",
+        "czech": [
+            "vyzvat",
+            "troufat si",
+            "odvážit se",
+            "dovolit si"
+        ]
+    },
+    {
+        "english": "darkness",
+        "czech": [
+            "tma",
+            "temnota"
+        ]
+    },
+    {
+        "english": "database",
+        "czech": [
+            "databáze"
+        ]
+    },
+    {
+        "english": "deaf",
+        "czech": [
+            "hluchý"
+        ]
+    },
+    {
+        "english": "dealer",
+        "czech": [
+            "obchodník"
+        ]
+    },
+    {
+        "english": "deck",
+        "czech": [
+            "paluba"
+        ]
+    },
+    {
+        "english": "declaration",
+        "czech": [
+            "prohlášení",
+            "deklarace",
+            "vyhlášení"
+        ]
+    },
+    {
+        "english": "decline",
+        "czech": [
+            "odmítnout",
+            "pokles",
+            "klesat",
+            "svah"
+        ]
+    },
+    {
+        "english": "deeply",
+        "czech": [
+            "hluboce",
+            "intenzivně"
+        ]
+    },
+    {
+        "english": "defeat",
+        "czech": [
+            "porážka",
+            "porazit"
+        ]
+    },
+    {
+        "english": "deficit",
+        "czech": [
+            "deficit",
+            "schodek"
+        ]
+    },
+    {
+        "english": "definite",
+        "czech": [
+            "určitý",
+            "jistý"
+        ]
+    },
+    {
+        "english": "delay",
+        "czech": [
+            "zpoždění"
+        ]
+    },
+    {
+        "english": "deliberately",
+        "czech": [
+            "schválně",
+            "úmyslně"
+        ]
+    },
+    {
+        "english": "delivery",
+        "czech": [
+            "doručení",
+            "roznáška",
+            "podání",
+            "rozvážka"
+        ]
+    },
+    {
+        "english": "demanding",
+        "czech": [
+            "náročný"
+        ]
+    },
+    {
+        "english": "demonstration",
+        "czech": [
+            "demonstrace"
+        ]
+    },
+    {
+        "english": "Denmark",
+        "czech": []
+    },
+    {
+        "english": "departure",
+        "czech": [
+            "odjezd",
+            "odchod",
+            "odlet"
+        ]
+    },
+    {
+        "english": "dependent",
+        "czech": [
+            "závislý",
+            "závisející",
+            "rodinný příslušník",
+            "podmíněný"
+        ]
+    },
+    {
+        "english": "deposit",
+        "czech": [
+            "záloha",
+            "vklad",
+            "vložit",
+            "ložisko"
+        ]
+    },
+    {
+        "english": "depression",
+        "czech": [
+            "deprese",
+            "proláklina"
+        ]
+    },
+    {
+        "english": "derive",
+        "czech": [
+            "odvodit",
+            "získat",
+            "odvozovat",
+            "derivovat"
+        ]
+    },
+    {
+        "english": "desert",
+        "czech": [
+            "poušť"
+        ]
+    },
+    {
+        "english": "deserve",
+        "czech": [
+            "zasloužit",
+            "zasluhovat",
+            "zasloužit si",
+            "být hoden"
+        ]
+    },
+    {
+        "english": "designer",
+        "czech": [
+            "návrhář",
+            "konstruktér"
+        ]
+    },
+    {
+        "english": "desperate",
+        "czech": [
+            "zoufalý",
+            "zoufale potřebující",
+            "beznadějný"
+        ]
+    },
+    {
+        "english": "destiny",
+        "czech": [
+            "osud"
+        ]
+    },
+    {
+        "english": "destruction",
+        "czech": [
+            "zničení",
+            "ničení",
+            "destrukce"
+        ]
+    },
+    {
+        "english": "detect",
+        "czech": [
+            "odhalit",
+            "objevit",
+            "detekovat",
+            "zjistit"
+        ]
+    },
+    {
+        "english": "detective",
+        "czech": [
+            "detektiv"
+        ]
+    },
+    {
+        "english": "determination",
+        "czech": [
+            "určení",
+            "rozhodnutí",
+            "stanovení",
+            "rozhodnost"
+        ]
+    },
+    {
+        "english": "devil",
+        "czech": [
+            "ďábel",
+            "čert"
+        ]
+    },
+    {
+        "english": "devote",
+        "czech": [
+            "zasvětit",
+            "věnovat",
+            "obětovat"
+        ]
+    },
+    {
+        "english": "diary",
+        "czech": [
+            "deník"
+        ]
+    },
+    {
+        "english": "dictate",
+        "czech": [
+            "diktovat"
+        ]
+    },
+    {
+        "english": "differ",
+        "czech": [
+            "lišit se",
+            "rozlišovat",
+            "rozcházet se",
+            "neshodovat se"
+        ]
+    },
+    {
+        "english": "differently",
+        "czech": [
+            "jinak"
+        ]
+    },
+    {
+        "english": "dig",
+        "czech": [
+            "kopat"
+        ]
+    },
+    {
+        "english": "digital",
+        "czech": [
+            "digitální",
+            "číslicový"
+        ]
+    },
+    {
+        "english": "dimension",
+        "czech": [
+            "velikost",
+            "rozsah",
+            "rozměr",
+            "míra"
+        ]
+    },
+    {
+        "english": "dirt",
+        "czech": [
+            "špína",
+            "nečistota",
+            "bláto",
+            "hlušina"
+        ]
+    },
+    {
+        "english": "dirty",
+        "czech": [
+            "špinavý"
+        ]
+    },
+    {
+        "english": "disabled",
+        "czech": [
+            "postižený",
+            "invalidní",
+            "zakázaný",
+            "vyřazený"
+        ]
+    },
+    {
+        "english": "disagree",
+        "czech": [
+            "nesouhlasit"
+        ]
+    },
+    {
+        "english": "disappoint",
+        "czech": [
+            "zklamat"
+        ]
+    },
+    {
+        "english": "disaster",
+        "czech": [
+            "katastrofa",
+            "neštěstí",
+            "pohroma"
+        ]
+    },
+    {
+        "english": "disc",
+        "czech": [
+            "disk",
+            "kruh"
+        ]
+    },
+    {
+        "english": "discipline",
+        "czech": [
+            "disciplína",
+            "kázeň"
+        ]
+    },
+    {
+        "english": "discovery",
+        "czech": [
+            "objev",
+            "nález",
+            "odhalení",
+            "zjištění"
+        ]
+    },
+    {
+        "english": "dish",
+        "czech": [
+            "pokrm",
+            "mísa",
+            "nádoba",
+            "miska"
+        ]
+    },
+    {
+        "english": "disk",
+        "czech": [
+            "disk",
+            "ploténka"
+        ]
+    },
+    {
+        "english": "dislike",
+        "czech": [
+            "odpor",
+            "nemít rád",
+            "nesouhlasit",
+            "nerad"
+        ]
+    },
+    {
+        "english": "dismiss",
+        "czech": [
+            "zamítnout",
+            "propustit",
+            "vyloučit ze školy",
+            "rozpustit"
+        ]
+    },
+    {
+        "english": "disorder",
+        "czech": [
+            "nepořádek",
+            "zmatek",
+            "porucha"
+        ]
+    },
+    {
+        "english": "distant",
+        "czech": [
+            "vzdálený"
+        ]
+    },
+    {
+        "english": "distinct",
+        "czech": [
+            "zřetelný",
+            "výrazný",
+            "různý",
+            "rozdílný"
+        ]
+    },
+    {
+        "english": "distinction",
+        "czech": [
+            "vyznamenání",
+            "rozdíl",
+            "zvláštnost",
+            "odlišnost"
+        ]
+    },
+    {
+        "english": "distinguish",
+        "czech": [
+            "rozlišit",
+            "rozeznat",
+            "zneklidňující",
+            "vyznamenat"
+        ]
+    },
+    {
+        "english": "distribute",
+        "czech": [
+            "distribuovat",
+            "rozmístit",
+            "rozložit",
+            "rozdělovat"
+        ]
+    },
+    {
+        "english": "distribution",
+        "czech": [
+            "rozdělení",
+            "distribuce"
+        ]
+    },
+    {
+        "english": "disturb",
+        "czech": [
+            "rušit",
+            "zneklidnit",
+            "vyrušovat",
+            "vyrušit"
+        ]
+    },
+    {
+        "english": "divorce",
+        "czech": [
+            "rozvod",
+            "rozvést"
+        ]
+    },
+    {
+        "english": "documentary",
+        "czech": [
+            "dokumentární",
+            "dokumentární film"
+        ]
+    },
+    {
+        "english": "doll",
+        "czech": [
+            "panenka"
+        ]
+    },
+    {
+        "english": "dominant",
+        "czech": [
+            "převládající",
+            "dominanta",
+            "dominantní"
+        ]
+    },
+    {
+        "english": "dominate",
+        "czech": [
+            "dominovat",
+            "vévodit",
+            "panovat",
+            "ovládat"
+        ]
+    },
+    {
+        "english": "dozen",
+        "czech": [
+            "tucet",
+            "dvanáct"
+        ]
+    },
+    {
+        "english": "draft",
+        "czech": [
+            "průvan",
+            "směnka",
+            "koncept",
+            "úkos"
+        ]
+    },
+    {
+        "english": "drag",
+        "czech": [
+            "táhnout",
+            "vléct",
+            "vléci",
+            "vláčet"
+        ]
+    },
+    {
+        "english": "drama",
+        "czech": [
+            "drama",
+            "činohra",
+            "divadelní hra"
+        ]
+    },
+    {
+        "english": "dramatic",
+        "czech": [
+            "dramatický",
+            "divadelní"
+        ]
+    },
+    {
+        "english": "dull",
+        "czech": [
+            "tupý",
+            "nudný"
+        ]
+    },
+    {
+        "english": "dumb",
+        "czech": [
+            "pitomý",
+            "němý",
+            "debilní",
+            "tupý"
+        ]
+    },
+    {
+        "english": "dust",
+        "czech": [
+            "prach"
+        ]
+    },
+    {
+        "english": "Dutch",
+        "czech": []
+    },
+    {
+        "english": "each other",
+        "czech": [
+            "navzájem",
+            "všichni ostatní",
+            "jeden druhého"
+        ]
+    },
+    {
+        "english": "eager",
+        "czech": [
+            "horlivý",
+            "dychtivý",
+            "chtivý",
+            "netrpělivý"
+        ]
+    },
+    {
+        "english": "earnings",
+        "czech": [
+            "výdělek",
+            "příjem",
+            "zisk",
+            "příjmy"
+        ]
+    },
+    {
+        "english": "earth",
+        "czech": [
+            "země"
+        ]
+    },
+    {
+        "english": "ease",
+        "czech": [
+            "pohoda",
+            "zmírnit",
+            "usnadnit",
+            "ulehčit"
+        ]
+    },
+    {
+        "english": "economics",
+        "czech": [
+            "ekonomie",
+            "ekonomika"
+        ]
+    },
+    {
+        "english": "edition",
+        "czech": [
+            "vydání",
+            "edice",
+            "náklad"
+        ]
+    },
+    {
+        "english": "educate",
+        "czech": [
+            "vzdělat",
+            "vychovávat",
+            "vzdělávat"
+        ]
+    },
+    {
+        "english": "educated",
+        "czech": [
+            "vzdělaný"
+        ]
+    },
+    {
+        "english": "efficiency",
+        "czech": [
+            "účinnost",
+            "efektivita",
+            "výkonnost"
+        ]
+    },
+    {
+        "english": "efficient",
+        "czech": [
+            "účinný",
+            "efektivní",
+            "účelný",
+            "zdatný"
+        ]
+    },
+    {
+        "english": "Egypt",
+        "czech": []
+    },
+    {
+        "english": "elderly",
+        "czech": [
+            "postarší"
+        ]
+    },
+    {
+        "english": "elect",
+        "czech": [
+            "vybrat",
+            "volit",
+            "zvolit si",
+            "zvolit"
+        ]
+    },
+    {
+        "english": "electronic",
+        "czech": [
+            "elektronický",
+            "elektronový"
+        ]
+    },
+    {
+        "english": "elementary",
+        "czech": [
+            "základní",
+            "elementární"
+        ]
+    },
+    {
+        "english": "elevator",
+        "czech": [
+            "výtah"
+        ]
+    },
+    {
+        "english": "eliminate",
+        "czech": [
+            "zničit",
+            "zlikvidovat",
+            "odstranit",
+            "eliminovat"
+        ]
+    },
+    {
+        "english": "elsewhere",
+        "czech": [
+            "jinde",
+            "jinam"
+        ]
+    },
+    {
+        "english": "emotional",
+        "czech": [
+            "emoční",
+            "citový",
+            "emocionální"
+        ]
+    },
+    {
+        "english": "emphasise",
+        "czech": [
+            "zdůraznit",
+            "zdůrazňovat"
+        ]
+    },
+    {
+        "english": "empire",
+        "czech": [
+            "říše",
+            "císařství",
+            "impérium"
+        ]
+    },
+    {
+        "english": "enable",
+        "czech": [
+            "umožnit",
+            "zapnout",
+            "aktivovat"
+        ]
+    },
+    {
+        "english": "encounter",
+        "czech": [
+            "potkat",
+            "setkání"
+        ]
+    },
+    {
+        "english": "encouragement",
+        "czech": [
+            "povzbuzení"
+        ]
+    },
+    {
+        "english": "engage",
+        "czech": [
+            "zaujmout",
+            "zjednat",
+            "zavázat",
+            "zamluvit"
+        ]
+    },
+    {
+        "english": "engineering",
+        "czech": [
+            "inženýrství",
+            "technika"
+        ]
+    },
+    {
+        "english": "enhance",
+        "czech": [
+            "zlepšit",
+            "zvýšit",
+            "vylepšit",
+            "povznést"
+        ]
+    },
+    {
+        "english": "enquiry",
+        "czech": [
+            "zkoumání",
+            "dotaz",
+            "šetření",
+            "pátrání"
+        ]
+    },
+    {
+        "english": "enterprise",
+        "czech": [
+            "podnik",
+            "podnikání",
+            "firma"
+        ]
+    },
+    {
+        "english": "entertain",
+        "czech": [
+            "bavit",
+            "obveselit"
+        ]
+    },
+    {
+        "english": "entertainment",
+        "czech": [
+            "zábava"
+        ]
+    },
+    {
+        "english": "enthusiasm",
+        "czech": [
+            "nadšení",
+            "entuziasmus"
+        ]
+    },
+    {
+        "english": "entitle",
+        "czech": [
+            "zmocnit",
+            "oprávnit",
+            "opravňovat"
+        ]
+    },
+    {
+        "english": "entrance",
+        "czech": [
+            "vchod",
+            "vstup"
+        ]
+    },
+    {
+        "english": "envelope",
+        "czech": [
+            "obálka"
+        ]
+    },
+    {
+        "english": "episode",
+        "czech": [
+            "epizoda"
+        ]
+    },
+    {
+        "english": "equation",
+        "czech": [
+            "rovnice"
+        ]
+    },
+    {
+        "english": "equivalent",
+        "czech": [
+            "rovnocenný",
+            "ekvivalentní",
+            "protějšek",
+            "odpovídající"
+        ]
+    },
+    {
+        "english": "era",
+        "czech": [
+            "období"
+        ]
+    },
+    {
+        "english": "essay",
+        "czech": [
+            "esej",
+            "pokus"
+        ]
+    },
+    {
+        "english": "essentially",
+        "czech": [
+            "podstatně",
+            "nezbytně",
+            "neodmyslitelně",
+            "esenciálně"
+        ]
+    },
+    {
+        "english": "establishment",
+        "czech": [
+            "zřízení",
+            "závod",
+            "založení",
+            "vrchnost"
+        ]
+    },
+    {
+        "english": "etc",
+        "czech": [
+            "atd"
+        ]
+    },
+    {
+        "english": "evaluate",
+        "czech": [
+            "ohodnotit",
+            "ocenit",
+            "hodnotit",
+            "vyčíslit"
+        ]
+    },
+    {
+        "english": "evaluation",
+        "czech": [
+            "vyhodnocení",
+            "hodnocení",
+            "odhad",
+            "určení ceny"
+        ]
+    },
+    {
+        "english": "even though",
+        "czech": [
+            "i když",
+            "třebaže",
+            "přestože"
+        ]
+    },
+    {
+        "english": "evident",
+        "czech": [
+            "zřejmý",
+            "zjevný",
+            "evidentní"
+        ]
+    },
+    {
+        "english": "evolution",
+        "czech": [
+            "evoluce"
+        ]
+    },
+    {
+        "english": "evolve",
+        "czech": [
+            "vyvíjet se",
+            "vyvíjet",
+            "vyvinout se",
+            "vyvinout"
+        ]
+    },
+    {
+        "english": "exceed",
+        "czech": [
+            "převýšit",
+            "přesáhnout",
+            "překonat",
+            "překročit"
+        ]
+    },
+    {
+        "english": "exception",
+        "czech": [
+            "výjimka"
+        ]
+    },
+    {
+        "english": "excited",
+        "czech": [
+            "vzrušený",
+            "nabuzený",
+            "excitovaný",
+            "vybuzený"
+        ]
+    },
+    {
+        "english": "excitement",
+        "czech": [
+            "vzrušení",
+            "rozrušení",
+            "podráždění",
+            "rozčilení"
+        ]
+    },
+    {
+        "english": "exciting",
+        "czech": [
+            "vzrušující",
+            "rozčilující",
+            "napínavý",
+            "excitace"
+        ]
+    },
+    {
+        "english": "exclude",
+        "czech": [
+            "vyloučit"
+        ]
+    },
+    {
+        "english": "expansion",
+        "czech": [
+            "zvětšení",
+            "roztažení",
+            "rozšíření",
+            "expanze"
+        ]
+    },
+    {
+        "english": "expected",
+        "czech": [
+            "očekávaný"
+        ]
+    },
+    {
+        "english": "experimental",
+        "czech": [
+            "experimentální",
+            "pokusný"
+        ]
+    },
+    {
+        "english": "explode",
+        "czech": [
+            "vybuchnout",
+            "explodovat",
+            "výseč"
+        ]
+    },
+    {
+        "english": "exploit",
+        "czech": [
+            "využít",
+            "hrdinský čin",
+            "zužitkovat",
+            "zneužívat"
+        ]
+    },
+    {
+        "english": "explosion",
+        "czech": [
+            "výbuch",
+            "exploze"
+        ]
+    },
+    {
+        "english": "export",
+        "czech": [
+            "vývoz",
+            "export"
+        ]
+    },
+    {
+        "english": "expose",
+        "czech": [
+            "ukázat",
+            "odhalit",
+            "vystavit",
+            "exponovat"
+        ]
+    },
+    {
+        "english": "exposure",
+        "czech": [
+            "vystavení",
+            "expozice",
+            "vystavování",
+            "osvit"
+        ]
+    },
+    {
+        "english": "extension",
+        "czech": [
+            "rozšíření",
+            "zvětšení",
+            "roztažení",
+            "prodloužení"
+        ]
+    },
+    {
+        "english": "extensive",
+        "czech": [
+            "rozsáhlý",
+            "značný",
+            "obsáhlý",
+            "extenzivní"
+        ]
+    },
+    {
+        "english": "external",
+        "czech": [
+            "externí",
+            "vnější"
+        ]
+    },
+    {
+        "english": "extraordinary",
+        "czech": [
+            "mimořádný",
+            "zvláštní",
+            "vynikající",
+            "neobyčejný"
+        ]
+    },
+    {
+        "english": "extreme",
+        "czech": [
+            "extrémní",
+            "krajní"
+        ]
+    },
+    {
+        "english": "fabric",
+        "czech": [
+            "tkanina",
+            "látka"
+        ]
+    },
+    {
+        "english": "faculty",
+        "czech": [
+            "schopnost",
+            "fakulta",
+            "způsobilost"
+        ]
+    },
+    {
+        "english": "fade",
+        "czech": [
+            "vymizet",
+            "vadnout",
+            "zvadnout",
+            "zmizet"
+        ]
+    },
+    {
+        "english": "fame",
+        "czech": [
+            "sláva",
+            "proslulost",
+            "věhlas",
+            "pověst"
+        ]
+    },
+    {
+        "english": "fancy",
+        "czech": [
+            "touha"
+        ]
+    },
+    {
+        "english": "fantasy",
+        "czech": [
+            "fantazie",
+            "představivost",
+            "představa"
+        ]
+    },
+    {
+        "english": "fare",
+        "czech": [
+            "jízdné",
+            "strava"
+        ]
+    },
+    {
+        "english": "fasten",
+        "czech": [
+            "připevnit",
+            "zapínat",
+            "zapnout"
+        ]
+    },
+    {
+        "english": "fate",
+        "czech": []
+    },
+    {
+        "english": "fatty",
+        "czech": [
+            "tlusťoch",
+            "tlouštík",
+            "tučný",
+            "tlustý"
+        ]
+    },
+    {
+        "english": "fax",
+        "czech": [
+            "fax",
+            "faxovat"
+        ]
+    },
+    {
+        "english": "fed",
+        "czech": [
+            "živený",
+            "nakrmil",
+            "krmený",
+            "federální agent"
+        ]
+    },
+    {
+        "english": "federal",
+        "czech": [
+            "federativní",
+            "federální"
+        ]
+    },
+    {
+        "english": "fellow",
+        "czech": [
+            "spolupracovník",
+            "společník",
+            "partner",
+            "kamarád"
+        ]
+    },
+    {
+        "english": "fence",
+        "czech": [
+            "plot",
+            "ohrada",
+            "oplocení"
+        ]
+    },
+    {
+        "english": "festival",
+        "czech": [
+            "svátek",
+            "slavnost",
+            "festival",
+            "svátky"
+        ]
+    },
+    {
+        "english": "fetch",
+        "czech": [
+            "vynést",
+            "přivést",
+            "přinést",
+            "dopravit"
+        ]
+    },
+    {
+        "english": "fever",
+        "czech": [
+            "horečka"
+        ]
+    },
+    {
+        "english": "fibre",
+        "czech": [
+            "vlákno"
+        ]
+    },
+    {
+        "english": "fiction",
+        "czech": [
+            "beletrie",
+            "fikce"
+        ]
+    },
+    {
+        "english": "fill out",
+        "czech": [
+            "vyplnit",
+            "ztloustnout",
+            "zaoblovat se",
+            "tloustnout"
+        ]
+    },
+    {
+        "english": "finance",
+        "czech": [
+            "financovat",
+            "finance",
+            "peněžně podporovat",
+            "finančně podpořit"
+        ]
+    },
+    {
+        "english": "firmly",
+        "czech": [
+            "pevně",
+            "silně",
+            "napevno"
+        ]
+    },
+    {
+        "english": "fishing",
+        "czech": [
+            "rybolov",
+            "rybářství"
+        ]
+    },
+    {
+        "english": "fixed",
+        "czech": [
+            "upevnil",
+            "stabilní",
+            "pevný",
+            "fixovaný"
+        ]
+    },
+    {
+        "english": "flavour",
+        "czech": [
+            "chuť",
+            "příchuť",
+            "okořenit",
+            "aroma"
+        ]
+    },
+    {
+        "english": "flee",
+        "czech": [
+            "uprchnout",
+            "utéci",
+            "utéct"
+        ]
+    },
+    {
+        "english": "flesh",
+        "czech": [
+            "maso",
+            "dužina"
+        ]
+    },
+    {
+        "english": "flexible",
+        "czech": [
+            "ohebný",
+            "pružný",
+            "poddajný",
+            "flexibilní"
+        ]
+    },
+    {
+        "english": "float",
+        "czech": [
+            "plout",
+            "zaplavit",
+            "plovoucí",
+            "plavení"
+        ]
+    },
+    {
+        "english": "flood",
+        "czech": [
+            "povodeň",
+            "záplava"
+        ]
+    },
+    {
+        "english": "flour",
+        "czech": [
+            "mouka"
+        ]
+    },
+    {
+        "english": "folk",
+        "czech": [
+            "lid",
+            "lidé",
+            "lidi"
+        ]
+    },
+    {
+        "english": "foreigner",
+        "czech": [
+            "cizinec"
+        ]
+    },
+    {
+        "english": "forever",
+        "czech": [
+            "navždy",
+            "navěky"
+        ]
+    },
+    {
+        "english": "format",
+        "czech": [
+            "formát",
+            "formátovat"
+        ]
+    },
+    {
+        "english": "formation",
+        "czech": [
+            "utváření",
+            "formace",
+            "tvarování"
+        ]
+    },
+    {
+        "english": "formula",
+        "czech": [
+            "vzorec",
+            "formule"
+        ]
+    },
+    {
+        "english": "forth",
+        "czech": [
+            "ven",
+            "pryč",
+            "dále"
+        ]
+    },
+    {
+        "english": "fortnight",
+        "czech": [
+            "čtrnáct dní"
+        ]
+    },
+    {
+        "english": "fortune",
+        "czech": [
+            "štěstí",
+            "majetek",
+            "jmění",
+            "bohatství"
+        ]
+    },
+    {
+        "english": "found",
+        "czech": [
+            "založit",
+            "zakládat",
+            "zřídit",
+            "nalezený"
+        ]
+    },
+    {
+        "english": "foundation",
+        "czech": [
+            "základ",
+            "nadace",
+            "založení"
+        ]
+    },
+    {
+        "english": "framework",
+        "czech": [
+            "struktura",
+            "soustava",
+            "kostra",
+            "konstrukce"
+        ]
+    },
+    {
+        "english": "freeze",
+        "czech": [
+            "mrznout",
+            "zmrznout",
+            "zmrazit",
+            "ochladit"
+        ]
+    },
+    {
+        "english": "frequency",
+        "czech": [
+            "frekvence"
+        ]
+    },
+    {
+        "english": "friendship",
+        "czech": [
+            "přátelství"
+        ]
+    },
+    {
+        "english": "frighten",
+        "czech": [
+            "vystrašit",
+            "zděsit",
+            "vylekat",
+            "vyděsit"
+        ]
+    },
+    {
+        "english": "full name",
+        "czech": [
+            "plné jméno",
+            "jméno a příjmení"
+        ]
+    },
+    {
+        "english": "full stop",
+        "czech": [
+            "tečka"
+        ]
+    },
+    {
+        "english": "funding",
+        "czech": [
+            "fundování",
+            "financování",
+            "krytí",
+            "dotace"
+        ]
+    },
+    {
+        "english": "funeral",
+        "czech": [
+            "pohřeb"
+        ]
+    },
+    {
+        "english": "furniture",
+        "czech": [
+            "nábytek"
+        ]
+    },
+    {
+        "english": "gallery",
+        "czech": [
+            "galerie"
+        ]
+    },
+    {
+        "english": "gallon",
+        "czech": [
+            "galon"
+        ]
+    },
+    {
+        "english": "gang",
+        "czech": [
+            "gang",
+            "parta",
+            "banda"
+        ]
+    },
+    {
+        "english": "gay",
+        "czech": [
+            "veselý",
+            "homosexuál",
+            "gay"
+        ]
+    },
+    {
+        "english": "gaze",
+        "czech": [
+            "zírat",
+            "dívat se",
+            "zevlovat",
+            "hledět"
+        ]
+    },
+    {
+        "english": "gender",
+        "czech": [
+            "pohlaví",
+            "rod"
+        ]
+    },
+    {
+        "english": "gene",
+        "czech": []
+    },
+    {
+        "english": "generous",
+        "czech": [
+            "štědrý",
+            "velkodušný",
+            "šlechetný",
+            "velkorysý"
+        ]
+    },
+    {
+        "english": "genetic",
+        "czech": [
+            "genetický"
+        ]
+    },
+    {
+        "english": "gentle",
+        "czech": [
+            "jemný",
+            "vlídný",
+            "pozvolný",
+            "něžný"
+        ]
+    },
+    {
+        "english": "gently",
+        "czech": [
+            "pozvolna",
+            "mírně",
+            "laskavě",
+            "jemně"
+        ]
+    },
+    {
+        "english": "genuine",
+        "czech": [
+            "pravý",
+            "autentický"
+        ]
+    },
+    {
+        "english": "gesture",
+        "czech": [
+            "gesto"
+        ]
+    },
+    {
+        "english": "get back",
+        "czech": [
+            "vrátit se",
+            "pomstít se",
+            "dostat zpět"
+        ]
+    },
+    {
+        "english": "girlfriend",
+        "czech": [
+            "přítelkyně"
+        ]
+    },
+    {
+        "english": "give up",
+        "czech": [
+            "vzdát se",
+            "vzdávat",
+            "vzdát"
+        ]
+    },
+    {
+        "english": "global",
+        "czech": [
+            "světový",
+            "globální",
+            "celosvětový"
+        ]
+    },
+    {
+        "english": "glove",
+        "czech": [
+            "rukavice"
+        ]
+    },
+    {
+        "english": "glue",
+        "czech": [
+            "lepidlo"
+        ]
+    },
+    {
+        "english": "go on",
+        "czech": [
+            "pokračovat",
+            "trvat",
+            "jít dál",
+            "dařit se"
+        ]
+    },
+    {
+        "english": "good afternoon",
+        "czech": [
+            "dobrý den",
+            "dobré odpoledne"
+        ]
+    },
+    {
+        "english": "good evening",
+        "czech": [
+            "dobrý večer"
+        ]
+    },
+    {
+        "english": "good morning",
+        "czech": [
+            "dobrý den",
+            "dobré jitro",
+            "dobré ráno"
+        ]
+    },
+    {
+        "english": "good-looking",
+        "czech": [
+            "pěkný",
+            "hezký"
+        ]
+    },
+    {
+        "english": "govern",
+        "czech": [
+            "vládnout",
+            "řídit",
+            "ovládat"
+        ]
+    },
+    {
+        "english": "governor",
+        "czech": [
+            "guvernér",
+            "správce",
+            "místodržitel"
+        ]
+    },
+    {
+        "english": "grab",
+        "czech": [
+            "chytit",
+            "uchopit",
+            "popadnout",
+            "uchvátit"
+        ]
+    },
+    {
+        "english": "gradual",
+        "czech": [
+            "postupný",
+            "stupňovitý",
+            "pozvolný",
+            "ponenáhlý"
+        ]
+    },
+    {
+        "english": "gradually",
+        "czech": [
+            "postupně",
+            "pozvolna"
+        ]
+    },
+    {
+        "english": "graduate",
+        "czech": [
+            "absolvent"
+        ]
+    },
+    {
+        "english": "grain",
+        "czech": [
+            "obilí",
+            "zrno",
+            "zrnko",
+            "zrnitost"
+        ]
+    },
+    {
+        "english": "grammar",
+        "czech": [
+            "gramatika",
+            "mluvnice"
+        ]
+    },
+    {
+        "english": "grand",
+        "czech": [
+            "nejvyšší",
+            "závažný",
+            "zásadní",
+            "znamenitý"
+        ]
+    },
+    {
+        "english": "grateful",
+        "czech": [
+            "vděčný"
+        ]
+    },
+    {
+        "english": "greatly",
+        "czech": [
+            "značně",
+            "velice",
+            "velmi"
+        ]
+    },
+    {
+        "english": "Greece",
+        "czech": []
+    },
+    {
+        "english": "guarantee",
+        "czech": [
+            "záruka",
+            "ručit",
+            "zajistit",
+            "garantovat"
+        ]
+    },
+    {
+        "english": "guidance",
+        "czech": [
+            "vodítko",
+            "poučení",
+            "dozor",
+            "doprovod"
+        ]
+    },
+    {
+        "english": "guideline",
+        "czech": [
+            "směrnice",
+            "ryska",
+            "návod",
+            "direktiva"
+        ]
+    },
+    {
+        "english": "guitar",
+        "czech": [
+            "kytara"
+        ]
+    },
+    {
+        "english": "gum",
+        "czech": [
+            "dáseň",
+            "žvýkačka",
+            "pryskyřice",
+            "guma"
+        ]
+    },
+    {
+        "english": "guy",
+        "czech": [
+            "chlap",
+            "chlapík",
+            "chlápek"
+        ]
+    },
+    {
+        "english": "habit",
+        "czech": [
+            "zvyk"
+        ]
+    },
+    {
+        "english": "hand in",
+        "czech": [
+            "odevzdat",
+            "doručit",
+            "podat",
+            "odevzdávat"
+        ]
+    },
+    {
+        "english": "handbag",
+        "czech": [
+            "kabelka"
+        ]
+    },
+    {
+        "english": "headache",
+        "czech": [
+            "bolest hlavy"
+        ]
+    },
+    {
+        "english": "headquarters",
+        "czech": [
+            "velitelství",
+            "centrála",
+            "ředitelství",
+            "ústředí"
+        ]
+    },
+    {
+        "english": "hearing",
+        "czech": [
+            "sluch"
+        ]
+    },
+    {
+        "english": "heat",
+        "czech": [
+            "teplo"
+        ]
+    },
+    {
+        "english": "heating",
+        "czech": [
+            "vytápění",
+            "topení"
+        ]
+    },
+    {
+        "english": "heaven",
+        "czech": [
+            "nebe"
+        ]
+    },
+    {
+        "english": "heavily",
+        "czech": [
+            "těžce",
+            "silně",
+            "hustě"
+        ]
+    },
+    {
+        "english": "heel",
+        "czech": [
+            "pata",
+            "podpatek"
+        ]
+    },
+    {
+        "english": "helpful",
+        "czech": [
+            "pomocný",
+            "nápomocný",
+            "užitečný",
+            "prospěšný"
+        ]
+    },
+    {
+        "english": "hero",
+        "czech": [
+            "hrdina"
+        ]
+    },
+    {
+        "english": "hers",
+        "czech": [
+            "její"
+        ]
+    },
+    {
+        "english": "hey",
+        "czech": [
+            "hej",
+            "haló"
+        ]
+    },
+    {
+        "english": "hi",
+        "czech": [
+            "ahoj",
+            "nazdar"
+        ]
+    },
+    {
+        "english": "highlight",
+        "czech": [
+            "zvýraznit",
+            "zvýraznění",
+            "zdůraznit",
+            "vyzdvihnout"
+        ]
+    },
+    {
+        "english": "highway",
+        "czech": [
+            "dálnice"
+        ]
+    },
+    {
+        "english": "hip",
+        "czech": [
+            "kyčel",
+            "bok"
+        ]
+    },
+    {
+        "english": "historian",
+        "czech": [
+            "historik",
+            "dějepisec"
+        ]
+    },
+    {
+        "english": "historic",
+        "czech": [
+            "historický",
+            "dějinný"
+        ]
+    },
+    {
+        "english": "hobby",
+        "czech": [
+            "koníček"
+        ]
+    },
+    {
+        "english": "hold up",
+        "czech": [
+            "zadržet",
+            "vydržet",
+            "podporovat"
+        ]
+    },
+    {
+        "english": "holder",
+        "czech": [
+            "majitel",
+            "držák",
+            "držitel",
+            "držadlo"
+        ]
+    },
+    {
+        "english": "Holland",
+        "czech": []
+    },
+    {
+        "english": "holy",
+        "czech": [
+            "svatý"
+        ]
+    },
+    {
+        "english": "honest",
+        "czech": [
+            "poctivý"
+        ]
+    },
+    {
+        "english": "honey",
+        "czech": [
+            "med"
+        ]
+    },
+    {
+        "english": "Hong Kong",
+        "czech": []
+    },
+    {
+        "english": "hook",
+        "czech": [
+            "hák",
+            "háček",
+            "zaháknout"
+        ]
+    },
+    {
+        "english": "horizon",
+        "czech": [
+            "horizont",
+            "obzor"
+        ]
+    },
+    {
+        "english": "horror",
+        "czech": [
+            "strach",
+            "hrůza",
+            "zděšení"
+        ]
+    },
+    {
+        "english": "host",
+        "czech": [
+            "hostitel"
+        ]
+    },
+    {
+        "english": "humour",
+        "czech": [
+            "Humor"
+        ]
+    },
+    {
+        "english": "hunger",
+        "czech": [
+            "hlad"
+        ]
+    },
+    {
+        "english": "hunting",
+        "czech": [
+            "lov"
+        ]
+    },
+    {
+        "english": "hurry",
+        "czech": [
+            "spěchat",
+            "spěch",
+            "pospíchat"
+        ]
+    },
+    {
+        "english": "hut",
+        "czech": [
+            "chata",
+            "chatrč",
+            "bouda",
+            "chalupa"
+        ]
+    },
+    {
+        "english": "ideal",
+        "czech": [
+            "ideální",
+            "ideál"
+        ]
+    },
+    {
+        "english": "ideology",
+        "czech": [
+            "ideologie"
+        ]
+    },
+    {
+        "english": "idiom",
+        "czech": [
+            "idiom"
+        ]
+    },
+    {
+        "english": "illness",
+        "czech": [
+            "nemoc"
+        ]
+    },
+    {
+        "english": "illustrate",
+        "czech": [
+            "ilustrovat"
+        ]
+    },
+    {
+        "english": "imaginary",
+        "czech": [
+            "imaginární"
+        ]
+    },
+    {
+        "english": "imagination",
+        "czech": [
+            "představivost",
+            "představa",
+            "fantazie"
+        ]
+    },
+    {
+        "english": "immigrant",
+        "czech": [
+            "imigrant",
+            "přistěhovalec"
+        ]
+    },
+    {
+        "english": "immigration",
+        "czech": [
+            "imigrace",
+            "přistěhovalectví"
+        ]
+    },
+    {
+        "english": "implement",
+        "czech": [
+            "nástroj",
+            "uskutečnit",
+            "přístroj",
+            "realizovat"
+        ]
+    },
+    {
+        "english": "import",
+        "czech": [
+            "dovoz",
+            "import",
+            "dovézt"
+        ]
+    },
+    {
+        "english": "impress",
+        "czech": [
+            "zapůsobit",
+            "vtlačit",
+            "vytisknout"
+        ]
+    },
+    {
+        "english": "impressive",
+        "czech": [
+            "působivý",
+            "úchvatný",
+            "impozantní",
+            "imponující"
+        ]
+    },
+    {
+        "english": "in advance",
+        "czech": [
+            "předem",
+            "napřed"
+        ]
+    },
+    {
+        "english": "in particular",
+        "czech": [
+            "zejména"
+        ]
+    },
+    {
+        "english": "in time",
+        "czech": [
+            "včas",
+            "časem"
+        ]
+    },
+    {
+        "english": "in turn",
+        "czech": [
+            "pro změnu"
+        ]
+    },
+    {
+        "english": "incentive",
+        "czech": [
+            "pobídka",
+            "podnět"
+        ]
+    },
+    {
+        "english": "incorporate",
+        "czech": [
+            "obsahovat",
+            "začlenit",
+            "zahrnovat",
+            "včleněný"
+        ]
+    },
+    {
+        "english": "incorrect",
+        "czech": [
+            "nesprávný",
+            "chybný",
+            "nepřesný",
+            "nepatřičný"
+        ]
+    },
+    {
+        "english": "increasing",
+        "czech": [
+            "vzrůstající",
+            "rostoucí",
+            "stoupající"
+        ]
+    },
+    {
+        "english": "incredibly",
+        "czech": [
+            "neuvěřitelně",
+            "skvěle"
+        ]
+    },
+    {
+        "english": "index",
+        "czech": [
+            "index"
+        ]
+    },
+    {
+        "english": "indication",
+        "czech": [
+            "indikace"
+        ]
+    },
+    {
+        "english": "inevitable",
+        "czech": [
+            "nevyhnutelný",
+            "neodvratný"
+        ]
+    },
+    {
+        "english": "inevitably",
+        "czech": [
+            "nevyhnutelně"
+        ]
+    },
+    {
+        "english": "infant",
+        "czech": [
+            "kojenec",
+            "nemluvně"
+        ]
+    },
+    {
+        "english": "infect",
+        "czech": [
+            "nakazit",
+            "infikovat"
+        ]
+    },
+    {
+        "english": "infection",
+        "czech": [
+            "infekce",
+            "nákaza"
+        ]
+    },
+    {
+        "english": "inflation",
+        "czech": [
+            "inflace"
+        ]
+    },
+    {
+        "english": "informal",
+        "czech": [
+            "neformální"
+        ]
+    },
+    {
+        "english": "ingredient",
+        "czech": [
+            "přísada",
+            "ingredience",
+            "složka"
+        ]
+    },
+    {
+        "english": "initially",
+        "czech": [
+            "zpočátku",
+            "nejprve"
+        ]
+    },
+    {
+        "english": "injure",
+        "czech": [
+            "zranit",
+            "poranit"
+        ]
+    },
+    {
+        "english": "ink",
+        "czech": [
+            "inkoust"
+        ]
+    },
+    {
+        "english": "innocent",
+        "czech": [
+            "nevinný",
+            "bezelstný"
+        ]
+    },
+    {
+        "english": "innovation",
+        "czech": [
+            "inovace",
+            "zlepšení"
+        ]
+    },
+    {
+        "english": "input",
+        "czech": [
+            "vstup"
+        ]
+    },
+    {
+        "english": "inquiry",
+        "czech": [
+            "zkoumání",
+            "šetření",
+            "vyšetřování",
+            "průzkum"
+        ]
+    },
+    {
+        "english": "insect",
+        "czech": [
+            "hmyz"
+        ]
+    },
+    {
+        "english": "insight",
+        "czech": [
+            "porozumění",
+            "pohled",
+            "pochopení"
+        ]
+    },
+    {
+        "english": "inspire",
+        "czech": [
+            "povzbudit",
+            "vyvolat",
+            "podněcovat",
+            "nadchnout"
+        ]
+    },
+    {
+        "english": "install",
+        "czech": [
+            "nainstalovat",
+            "instalovat"
+        ]
+    },
+    {
+        "english": "instance",
+        "czech": [
+            "příklad",
+            "instance",
+            "žádost",
+            "výzva"
+        ]
+    },
+    {
+        "english": "instant",
+        "czech": [
+            "okamžik",
+            "moment"
+        ]
+    },
+    {
+        "english": "insure",
+        "czech": [
+            "pojistit",
+            "pojišťovat",
+            "pojistit se"
+        ]
+    },
+    {
+        "english": "integration",
+        "czech": [
+            "integrace"
+        ]
+    },
+    {
+        "english": "intellectual",
+        "czech": [
+            "intelektuální",
+            "rozumový",
+            "racionální",
+            "intelektuál"
+        ]
+    },
+    {
+        "english": "intelligence",
+        "czech": [
+            "inteligence",
+            "důvtip"
+        ]
+    },
+    {
+        "english": "intense",
+        "czech": [
+            "silný",
+            "intenzivní"
+        ]
+    },
+    {
+        "english": "interaction",
+        "czech": [
+            "interakce",
+            "vzájemné působení",
+            "vzájemná vazba",
+            "ovlivňování"
+        ]
+    },
+    {
+        "english": "interpret",
+        "czech": [
+            "vyložit",
+            "tlumočit",
+            "interpretovat",
+            "vykládat"
+        ]
+    },
+    {
+        "english": "interrupt",
+        "czech": [
+            "přerušení",
+            "přerušit"
+        ]
+    },
+    {
+        "english": "interruption",
+        "czech": [
+            "přerušení"
+        ]
+    },
+    {
+        "english": "interval",
+        "czech": [
+            "interval"
+        ]
+    },
+    {
+        "english": "intervention",
+        "czech": [
+            "intervence",
+            "zákrok"
+        ]
+    },
+    {
+        "english": "invent",
+        "czech": [
+            "vynalézt",
+            "vymyslit",
+            "vymyslet",
+            "stvořit"
+        ]
+    },
+    {
+        "english": "invest",
+        "czech": [
+            "investovat"
+        ]
+    },
+    {
+        "english": "investor",
+        "czech": [
+            "investor"
+        ]
+    },
+    {
+        "english": "invitation",
+        "czech": [
+            "pozvání",
+            "pozvánka"
+        ]
+    },
+    {
+        "english": "involvement",
+        "czech": [
+            "zapojení",
+            "spoluodpovědnost",
+            "obsažení",
+            "angažovanost"
+        ]
+    },
+    {
+        "english": "Iran",
+        "czech": []
+    },
+    {
+        "english": "isolated",
+        "czech": [
+            "odloučený",
+            "izolovaný",
+            "oddělený",
+            "separovaný"
+        ]
+    },
+    {
+        "english": "Israeli",
+        "czech": []
+    },
+    {
+        "english": "jacket",
+        "czech": [
+            "bunda",
+            "kabát",
+            "sako"
+        ]
+    },
+    {
+        "english": "jail",
+        "czech": [
+            "vězení",
+            "žalář",
+            "věznice"
+        ]
+    },
+    {
+        "english": "jet",
+        "czech": [
+            "proud",
+            "gagát"
+        ]
+    },
+    {
+        "english": "Jew",
+        "czech": []
+    },
+    {
+        "english": "Jewish",
+        "czech": []
+    },
+    {
+        "english": "joke",
+        "czech": [
+            "vtip",
+            "žert"
+        ]
+    },
+    {
+        "english": "Jordan",
+        "czech": []
+    },
+    {
+        "english": "journal",
+        "czech": [
+            "deník",
+            "časopis"
+        ]
+    },
+    {
+        "english": "journalist",
+        "czech": [
+            "novinář",
+            "žurnalista"
+        ]
+    },
+    {
+        "english": "joy",
+        "czech": [
+            "radost"
+        ]
+    },
+    {
+        "english": "judicial",
+        "czech": [
+            "soudní"
+        ]
+    },
+    {
+        "english": "juice",
+        "czech": [
+            "džus",
+            "šťáva"
+        ]
+    },
+    {
+        "english": "junior",
+        "czech": [
+            "mladší"
+        ]
+    },
+    {
+        "english": "jury",
+        "czech": [
+            "porota"
+        ]
+    },
+    {
+        "english": "justify",
+        "czech": [
+            "ospravedlnit",
+            "ospravedlňovat",
+            "oprávnit",
+            "omlouvat"
+        ]
+    },
+    {
+        "english": "keen",
+        "czech": [
+            "ostrý",
+            "nadšený",
+            "vášnivý",
+            "tvrdý"
+        ]
+    },
+    {
+        "english": "killer",
+        "czech": [
+            "vrah"
+        ]
+    },
+    {
+        "english": "kindness",
+        "czech": [
+            "laskavost",
+            "vlídnost",
+            "dobrota"
+        ]
+    },
+    {
+        "english": "kingdom",
+        "czech": [
+            "království"
+        ]
+    },
+    {
+        "english": "kiss",
+        "czech": [
+            "líbat",
+            "polibek",
+            "políbit"
+        ]
+    },
+    {
+        "english": "km",
+        "czech": [
+            "km",
+            "kilometr"
+        ]
+    },
+    {
+        "english": "knife",
+        "czech": [
+            "nůž"
+        ]
+    },
+    {
+        "english": "known",
+        "czech": [
+            "známý"
+        ]
+    },
+    {
+        "english": "label",
+        "czech": [
+            "nálepka",
+            "označit",
+            "etiketa",
+            "značka"
+        ]
+    },
+    {
+        "english": "laboratory",
+        "czech": [
+            "laboratoř"
+        ]
+    },
+    {
+        "english": "lad",
+        "czech": [
+            "chlapec",
+            "hoch",
+            "mládenec",
+            "jinoch"
+        ]
+    },
+    {
+        "english": "lake",
+        "czech": []
+    },
+    {
+        "english": "landlord",
+        "czech": [
+            "statkář",
+            "domácí",
+            "pronajímatel",
+            "bytný"
+        ]
+    },
+    {
+        "english": "landscape",
+        "czech": [
+            "krajina"
+        ]
+    },
+    {
+        "english": "lane",
+        "czech": [
+            "ulička",
+            "jízdní pruh",
+            "dráha",
+            "úzká ulice"
+        ]
+    },
+    {
+        "english": "lately",
+        "czech": [
+            "nedávno",
+            "v poslední době",
+            "poslední dobou"
+        ]
+    },
+    {
+        "english": "laundry",
+        "czech": [
+            "prádelna",
+            "prádlo",
+            "prací"
+        ]
+    },
+    {
+        "english": "lawn",
+        "czech": [
+            "trávník"
+        ]
+    },
+    {
+        "english": "layer",
+        "czech": [
+            "vrstva"
+        ]
+    },
+    {
+        "english": "layout",
+        "czech": [
+            "rozložení",
+            "plán",
+            "rozvržení",
+            "návrh"
+        ]
+    },
+    {
+        "english": "lazy",
+        "czech": [
+            "líný"
+        ]
+    },
+    {
+        "english": "leading",
+        "czech": [
+            "řízení",
+            "vůdčí",
+            "vedoucí",
+            "vedení"
+        ]
+    },
+    {
+        "english": "leak",
+        "czech": [
+            "únik",
+            "trhlina",
+            "štěrbina",
+            "vyzradit"
+        ]
+    },
+    {
+        "english": "learning",
+        "czech": [
+            "učení"
+        ]
+    },
+    {
+        "english": "lease",
+        "czech": [
+            "pronájem",
+            "nájemní smlouva",
+            "nájem",
+            "smlouva o pronájmu"
+        ]
+    },
+    {
+        "english": "leather",
+        "czech": [
+            "kůže"
+        ]
+    },
+    {
+        "english": "lecture",
+        "czech": [
+            "přednáška"
+        ]
+    },
+    {
+        "english": "leisure",
+        "czech": [
+            "volný čas",
+            "volno"
+        ]
+    },
+    {
+        "english": "lemon",
+        "czech": [
+            "citron"
+        ]
+    },
+    {
+        "english": "lend",
+        "czech": [
+            "půjčit",
+            "poskytnout",
+            "půjčovat"
+        ]
+    },
+    {
+        "english": "liable",
+        "czech": [
+            "povinný",
+            "odpovědný"
+        ]
+    },
+    {
+        "english": "limitation",
+        "czech": [
+            "omezení"
+        ]
+    },
+    {
+        "english": "linguistic",
+        "czech": [
+            "lingvistický",
+            "jazykovědný"
+        ]
+    },
+    {
+        "english": "lion",
+        "czech": [
+            "lev"
+        ]
+    },
+    {
+        "english": "liquid",
+        "czech": [
+            "kapalina",
+            "tekutina"
+        ]
+    },
+    {
+        "english": "literary",
+        "czech": [
+            "literární",
+            "spisovný"
+        ]
+    },
+    {
+        "english": "load",
+        "czech": [
+            "náklad",
+            "naložit",
+            "zátěž",
+            "zatěžovat"
+        ]
+    },
+    {
+        "english": "loaf",
+        "czech": [
+            "bochník",
+            "pecen",
+            "homole",
+            "povalovat se"
+        ]
+    },
+    {
+        "english": "locate",
+        "czech": [
+            "lokalizovat",
+            "zaměřit",
+            "umístit",
+            "nalézt"
+        ]
+    },
+    {
+        "english": "lock",
+        "czech": [
+            "zámek"
+        ]
+    },
+    {
+        "english": "lodge",
+        "czech": [
+            "vrátnice",
+            "bydlet",
+            "uložit",
+            "lóže"
+        ]
+    },
+    {
+        "english": "logic",
+        "czech": [
+            "logika"
+        ]
+    },
+    {
+        "english": "logical",
+        "czech": [
+            "logický"
+        ]
+    },
+    {
+        "english": "look forward to",
+        "czech": [
+            "těšit se na",
+            "těšit se"
+        ]
+    },
+    {
+        "english": "loose",
+        "czech": [
+            "volný",
+            "uvolněný",
+            "rozvázat"
+        ]
+    },
+    {
+        "english": "lord",
+        "czech": [
+            "pán"
+        ]
+    },
+    {
+        "english": "lorry",
+        "czech": [
+            "kamion",
+            "nákladní auto",
+            "nákladní automobil",
+            "kamión"
+        ]
+    },
+    {
+        "english": "lost",
+        "czech": [
+            "ztracený",
+            "prohrál",
+            "ztratil",
+            "ztracen"
+        ]
+    },
+    {
+        "english": "loud",
+        "czech": [
+            "hlasitý",
+            "křiklavý",
+            "hlučný"
+        ]
+    },
+    {
+        "english": "lounge",
+        "czech": [
+            "obývací pokoj",
+            "hala",
+            "povalování",
+            "pohovka"
+        ]
+    },
+    {
+        "english": "lover",
+        "czech": [
+            "milenec",
+            "milenka"
+        ]
+    },
+    {
+        "english": "luck",
+        "czech": [
+            "štěstí",
+            "náhoda"
+        ]
+    },
+    {
+        "english": "luggage",
+        "czech": [
+            "zavazadlo",
+            "zavazadla"
+        ]
+    },
+    {
+        "english": "lunchtime",
+        "czech": [
+            "obědový čas"
+        ]
+    },
+    {
+        "english": "machinery",
+        "czech": [
+            "stroje",
+            "mašinérie",
+            "strojní zařízení",
+            "strojní vybavení"
+        ]
+    },
+    {
+        "english": "mail",
+        "czech": [
+            "pošta"
+        ]
+    },
+    {
+        "english": "maintenance",
+        "czech": [
+            "údržba"
+        ]
+    },
+    {
+        "english": "maker",
+        "czech": [
+            "výrobce",
+            "tvůrce",
+            "zhotovitel"
+        ]
+    },
+    {
+        "english": "manufacture",
+        "czech": [
+            "vyrábět",
+            "vyrobit",
+            "výroba",
+            "manufaktura"
+        ]
+    },
+    {
+        "english": "manufacturer",
+        "czech": [
+            "výrobce"
+        ]
+    },
+    {
+        "english": "manufacturing",
+        "czech": [
+            "výroba",
+            "zpracovatelský",
+            "výrobní"
+        ]
+    },
+    {
+        "english": "margin",
+        "czech": [
+            "okraj"
+        ]
+    },
+    {
+        "english": "marked",
+        "czech": [
+            "označený",
+            "označen",
+            "zřetelný",
+            "výrazný"
+        ]
+    },
+    {
+        "english": "marketing",
+        "czech": [
+            "odbyt",
+            "marketing"
+        ]
+    },
+    {
+        "english": "marvellous",
+        "czech": [
+            "zázračný",
+            "skvělý",
+            "nádherný",
+            "kouzelný"
+        ]
+    },
+    {
+        "english": "maths",
+        "czech": [
+            "matika",
+            "matematika"
+        ]
+    },
+    {
+        "english": "maximum",
+        "czech": [
+            "maximum"
+        ]
+    },
+    {
+        "english": "mayor",
+        "czech": [
+            "starosta",
+            "primátor"
+        ]
+    },
+    {
+        "english": "measurement",
+        "czech": [
+            "měření",
+            "velikost",
+            "míra",
+            "rozměr"
+        ]
+    },
+    {
+        "english": "mechanism",
+        "czech": [
+            "mechanismus"
+        ]
+    },
+    {
+        "english": "Mediterranean",
+        "czech": []
+    },
+    {
+        "english": "medium",
+        "czech": [
+            "médium",
+            "střední"
+        ]
+    },
+    {
+        "english": "melt",
+        "czech": [
+            "tavit",
+            "tát",
+            "roztát"
+        ]
+    },
+    {
+        "english": "membership",
+        "czech": [
+            "členství",
+            "členstvo",
+            "členský"
+        ]
+    },
+    {
+        "english": "mend",
+        "czech": [
+            "spravit",
+            "opravit",
+            "opravovat"
+        ]
+    },
+    {
+        "english": "menu",
+        "czech": [
+            "menu",
+            "jídelní lístek",
+            "nabídka"
+        ]
+    },
+    {
+        "english": "merchant",
+        "czech": [
+            "obchodník"
+        ]
+    },
+    {
+        "english": "mere",
+        "czech": [
+            "čirý",
+            "pouhý",
+            "bezvýznamný"
+        ]
+    },
+    {
+        "english": "Mexico",
+        "czech": []
+    },
+    {
+        "english": "mill",
+        "czech": [
+            "mlýn",
+            "továrna"
+        ]
+    },
+    {
+        "english": "mineral water",
+        "czech": [
+            "minerální voda",
+            "minerálka"
+        ]
+    },
+    {
+        "english": "minimum",
+        "czech": [
+            "minimum"
+        ]
+    },
+    {
+        "english": "mirror",
+        "czech": [
+            "zrcadlo"
+        ]
+    },
+    {
+        "english": "mission",
+        "czech": [
+            "úkol",
+            "mise",
+            "poslání",
+            "misie"
+        ]
+    },
+    {
+        "english": "misunderstand",
+        "czech": [
+            "neporozumět",
+            "nechápat"
+        ]
+    },
+    {
+        "english": "mixture",
+        "czech": [
+            "směs"
+        ]
+    },
+    {
+        "english": "mode",
+        "czech": [
+            "režim",
+            "způsob",
+            "móda",
+            "mód"
+        ]
+    },
+    {
+        "english": "modest",
+        "czech": [
+            "skromný",
+            "prostý",
+            "nenáročný",
+            "slušný"
+        ]
+    },
+    {
+        "english": "monetary",
+        "czech": [
+            "peněžní",
+            "měnový",
+            "monetární"
+        ]
+    },
+    {
+        "english": "monitor",
+        "czech": [
+            "monitor"
+        ]
+    },
+    {
+        "english": "monument",
+        "czech": [
+            "památník",
+            "pomník",
+            "monument",
+            "památka"
+        ]
+    },
+    {
+        "english": "mood",
+        "czech": [
+            "nálada"
+        ]
+    },
+    {
+        "english": "moon",
+        "czech": [
+            "měsíc"
+        ]
+    },
+    {
+        "english": "moreover",
+        "czech": [
+            "nadto",
+            "navíc",
+            "kromě toho"
+        ]
+    },
+    {
+        "english": "mortgage",
+        "czech": [
+            "hypotéka",
+            "zástava",
+            "zastavit nemovitost"
+        ]
+    },
+    {
+        "english": "motorbike",
+        "czech": [
+            "motorka",
+            "motocykl"
+        ]
+    },
+    {
+        "english": "motorcycle",
+        "czech": [
+            "motocykl",
+            "motorka"
+        ]
+    },
+    {
+        "english": "mount",
+        "czech": [
+            "kůň",
+            "hora",
+            "vztyčit",
+            "vsednout"
+        ]
+    },
+    {
+        "english": "mouse",
+        "czech": [
+            "myš"
+        ]
+    },
+    {
+        "english": "movie",
+        "czech": [
+            "film"
+        ]
+    },
+    {
+        "english": "multiple",
+        "czech": [
+            "násobný",
+            "násobek",
+            "mnohonásobný"
+        ]
+    },
+    {
+        "english": "musical",
+        "czech": [
+            "muzikál",
+            "hudební"
+        ]
+    },
+    {
+        "english": "musician",
+        "czech": [
+            "hudebník",
+            "muzikant"
+        ]
+    },
+    {
+        "english": "Muslim",
+        "czech": []
+    },
+    {
+        "english": "mutual",
+        "czech": [
+            "vzájemný",
+            "společný"
+        ]
+    },
+    {
+        "english": "mystery",
+        "czech": [
+            "záhada"
+        ]
+    },
+    {
+        "english": "myth",
+        "czech": [
+            "mýtus"
+        ]
+    },
+    {
+        "english": "nationality",
+        "czech": [
+            "občanství",
+            "národnost",
+            "státní občanství",
+            "příslušnost"
+        ]
+    },
+    {
+        "english": "native",
+        "czech": [
+            "domorodec",
+            "rodák",
+            "rodný",
+            "rodilý"
+        ]
+    },
+    {
+        "english": "nearby",
+        "czech": [
+            "blízko",
+            "blízký",
+            "poblíž"
+        ]
+    },
+    {
+        "english": "negotiate",
+        "czech": [
+            "vyjednat",
+            "vyjednávat",
+            "ujednat",
+            "sjednat"
+        ]
+    },
+    {
+        "english": "neighbourhood",
+        "czech": [
+            "sousedství",
+            "okolí",
+            "čtvrť"
+        ]
+    },
+    {
+        "english": "nerve",
+        "czech": [
+            "odvaha",
+            "nerv",
+            "drzost"
+        ]
+    },
+    {
+        "english": "nervous",
+        "czech": [
+            "nervózní",
+            "nervní"
+        ]
+    },
+    {
+        "english": "Netherlands",
+        "czech": []
+    },
+    {
+        "english": "nevertheless",
+        "czech": [
+            "nicméně",
+            "přesto",
+            "přece jenom",
+            "avšak"
+        ]
+    },
+    {
+        "english": "newly",
+        "czech": [
+            "nedávno",
+            "čerstvě",
+            "znovu",
+            "právě"
+        ]
+    },
+    {
+        "english": "noisy",
+        "czech": [
+            "hlučný"
+        ]
+    },
+    {
+        "english": "nonsense",
+        "czech": [
+            "nesmysl"
+        ]
+    },
+    {
+        "english": "Norway",
+        "czech": []
+    },
+    {
+        "english": "notably",
+        "czech": [
+            "pozoruhodně",
+            "významně"
+        ]
+    },
+    {
+        "english": "notebook",
+        "czech": [
+            "sešit",
+            "notebook",
+            "zápisník",
+            "notes"
+        ]
+    },
+    {
+        "english": "nowhere",
+        "czech": [
+            "nikde",
+            "nikam"
+        ]
+    },
+    {
+        "english": "numerous",
+        "czech": [
+            "početný",
+            "četný"
+        ]
+    },
+    {
+        "english": "objection",
+        "czech": [
+            "námitka"
+        ]
+    },
+    {
+        "english": "objective",
+        "czech": [
+            "cíl",
+            "objektivní",
+            "objektiv"
+        ]
+    },
+    {
+        "english": "obligation",
+        "czech": [
+            "povinnost",
+            "závazek",
+            "obligace",
+            "dluhopis"
+        ]
+    },
+    {
+        "english": "observation",
+        "czech": [
+            "pozorování",
+            "připomínka",
+            "poznámka",
+            "všímavost"
+        ]
+    },
+    {
+        "english": "observer",
+        "czech": [
+            "pozorovatel"
+        ]
+    },
+    {
+        "english": "occasional",
+        "czech": [
+            "občasný",
+            "příležitostný"
+        ]
+    },
+    {
+        "english": "occasionally",
+        "czech": [
+            "příležitostně",
+            "občas",
+            "časem"
+        ]
+    },
+    {
+        "english": "occupation",
+        "czech": [
+            "povolání",
+            "zaměstnání",
+            "okupace",
+            "profese"
+        ]
+    },
+    {
+        "english": "ocean",
+        "czech": [
+            "oceán"
+        ]
+    },
+    {
+        "english": "offence",
+        "czech": [
+            "přestupek",
+            "trestný čin",
+            "porušení",
+            "zločin"
+        ]
+    },
+    {
+        "english": "offend",
+        "czech": [
+            "urazit",
+            "urážet",
+            "ublížit",
+            "poranit"
+        ]
+    },
+    {
+        "english": "offensive",
+        "czech": [
+            "útok",
+            "urážlivý",
+            "ofenzíva",
+            "útočný"
+        ]
+    },
+    {
+        "english": "ok",
+        "czech": [
+            "v pořádku",
+            "v pohodě",
+            "ok",
+            "dobrý"
+        ]
+    },
+    {
+        "english": "Olympic",
+        "czech": []
+    },
+    {
+        "english": "one another",
+        "czech": [
+            "jeden druhého",
+            "navzájem"
+        ]
+    },
+    {
+        "english": "onion",
+        "czech": [
+            "cibule"
+        ]
+    },
+    {
+        "english": "opera",
+        "czech": [
+            "opera"
+        ]
+    },
+    {
+        "english": "operator",
+        "czech": [
+            "operátor",
+            "telefonista"
+        ]
+    },
+    {
+        "english": "opponent",
+        "czech": [
+            "protivník",
+            "soupeř"
+        ]
+    },
+    {
+        "english": "opposition",
+        "czech": [
+            "opozice",
+            "odpor"
+        ]
+    },
+    {
+        "english": "organ",
+        "czech": [
+            "orgán",
+            "varhany"
+        ]
+    },
+    {
+        "english": "organic",
+        "czech": [
+            "organický",
+            "ústrojný"
+        ]
+    },
+    {
+        "english": "organisational",
+        "czech": [
+            "organizační"
+        ]
+    },
+    {
+        "english": "ounce",
+        "czech": [
+            "unce"
+        ]
+    },
+    {
+        "english": "out of order",
+        "czech": [
+            "mimo provoz",
+            "v nepořádku",
+            "nefungující"
+        ]
+    },
+    {
+        "english": "outdoor",
+        "czech": [
+            "venkovní",
+            "nezastřešený",
+            "konaný venku"
+        ]
+    },
+    {
+        "english": "outer",
+        "czech": [
+            "vnější"
+        ]
+    },
+    {
+        "english": "outline",
+        "czech": [
+            "přehled",
+            "obrys",
+            "kontura",
+            "výtah"
+        ]
+    },
+    {
+        "english": "output",
+        "czech": [
+            "výstup"
+        ]
+    },
+    {
+        "english": "outstanding",
+        "czech": [
+            "vynikající",
+            "vyjímečný"
+        ]
+    },
+    {
+        "english": "oven",
+        "czech": [
+            "pec",
+            "trouba"
+        ]
+    },
+    {
+        "english": "overcome",
+        "czech": [
+            "překonat",
+            "zdolat",
+            "přemoci",
+            "porazit"
+        ]
+    },
+    {
+        "english": "overseas",
+        "czech": [
+            "zámořský",
+            "zaoceánský"
+        ]
+    },
+    {
+        "english": "ownership",
+        "czech": [
+            "vlastnictví"
+        ]
+    },
+    {
+        "english": "pace",
+        "czech": [
+            "rychlost",
+            "krok"
+        ]
+    },
+    {
+        "english": "Pacific",
+        "czech": []
+    },
+    {
+        "english": "packet",
+        "czech": [
+            "balíček",
+            "paket"
+        ]
+    },
+    {
+        "english": "painful",
+        "czech": [
+            "trapný",
+            "obtížný",
+            "namáhavý",
+            "bolestný"
+        ]
+    },
+    {
+        "english": "painting",
+        "czech": [
+            "obraz",
+            "malířství",
+            "malba"
+        ]
+    },
+    {
+        "english": "Pakistan",
+        "czech": []
+    },
+    {
+        "english": "palace",
+        "czech": [
+            "palác"
+        ]
+    },
+    {
+        "english": "pale",
+        "czech": []
+    },
+    {
+        "english": "Palestinian",
+        "czech": []
+    },
+    {
+        "english": "palm",
+        "czech": [
+            "dlaň",
+            "palma"
+        ]
+    },
+    {
+        "english": "pants",
+        "czech": [
+            "kalhoty"
+        ]
+    },
+    {
+        "english": "paragraph",
+        "czech": [
+            "odstavec",
+            "paragraf"
+        ]
+    },
+    {
+        "english": "parcel",
+        "czech": [
+            "balík",
+            "balíček"
+        ]
+    },
+    {
+        "english": "parking",
+        "czech": [
+            "parkoviště"
+        ]
+    },
+    {
+        "english": "parliamentary",
+        "czech": [
+            "parlamentní"
+        ]
+    },
+    {
+        "english": "participant",
+        "czech": [
+            "účastník",
+            "spoluúčastník"
+        ]
+    },
+    {
+        "english": "participate",
+        "czech": [
+            "zúčastnit",
+            "zúčastnit se",
+            "účastnit se",
+            "participovat"
+        ]
+    },
+    {
+        "english": "participation",
+        "czech": [
+            "účast",
+            "účastnictví"
+        ]
+    },
+    {
+        "english": "particle",
+        "czech": [
+            "částice"
+        ]
+    },
+    {
+        "english": "passion",
+        "czech": [
+            "vášeň",
+            "nadšení",
+            "zaujetí",
+            "zanícení"
+        ]
+    },
+    {
+        "english": "password",
+        "czech": [
+            "heslo"
+        ]
+    },
+    {
+        "english": "patience",
+        "czech": [
+            "trpělivost"
+        ]
+    },
+    {
+        "english": "pause",
+        "czech": [
+            "pauza",
+            "přestávka",
+            "zastavit se",
+            "ustat"
+        ]
+    },
+    {
+        "english": "peak",
+        "czech": [
+            "vrcholek",
+            "vrchol",
+            "špičkový",
+            "špička"
+        ]
+    },
+    {
+        "english": "peculiar",
+        "czech": [
+            "zvláštní",
+            "podivný",
+            "specifický"
+        ]
+    },
+    {
+        "english": "peer",
+        "czech": []
+    },
+    {
+        "english": "penalty",
+        "czech": [
+            "trest",
+            "pokuta",
+            "penalta"
+        ]
+    },
+    {
+        "english": "pension",
+        "czech": [
+            "důchod",
+            "penze"
+        ]
+    },
+    {
+        "english": "pepper",
+        "czech": [
+            "pepř"
+        ]
+    },
+    {
+        "english": "perceive",
+        "czech": [
+            "vnímat",
+            "spatřit",
+            "pochopit"
+        ]
+    },
+    {
+        "english": "perception",
+        "czech": [
+            "vnímání",
+            "pojem",
+            "vnímavost",
+            "vjem"
+        ]
+    },
+    {
+        "english": "permission",
+        "czech": [
+            "povolení",
+            "svolení",
+            "souhlas"
+        ]
+    },
+    {
+        "english": "personality",
+        "czech": [
+            "osobnost"
+        ]
+    },
+    {
+        "english": "personally",
+        "czech": [
+            "osobně"
+        ]
+    },
+    {
+        "english": "personnel",
+        "czech": [
+            "posádka",
+            "personál",
+            "osádka",
+            "zaměstnanci"
+        ]
+    },
+    {
+        "english": "perspective",
+        "czech": [
+            "perspektiva",
+            "perspektivní",
+            "stanovisko",
+            "pohled"
+        ]
+    },
+    {
+        "english": "pet",
+        "czech": [
+            "mazánek",
+            "mazlíček",
+            "laskat",
+            "hýčkat"
+        ]
+    },
+    {
+        "english": "petrol station",
+        "czech": [
+            "čerpací stanice",
+            "benzinová pumpa"
+        ]
+    },
+    {
+        "english": "phenomenon",
+        "czech": [
+            "úkaz",
+            "jev",
+            "fenomén"
+        ]
+    },
+    {
+        "english": "philosophy",
+        "czech": [
+            "filozofie"
+        ]
+    },
+    {
+        "english": "photographer",
+        "czech": [
+            "fotograf"
+        ]
+    },
+    {
+        "english": "photography",
+        "czech": [
+            "fotografie",
+            "fotografování"
+        ]
+    },
+    {
+        "english": "physics",
+        "czech": [
+            "fyzika"
+        ]
+    },
+    {
+        "english": "piano",
+        "czech": [
+            "klavír",
+            "piáno"
+        ]
+    },
+    {
+        "english": "pie",
+        "czech": [
+            "koláč",
+            "buchta"
+        ]
+    },
+    {
+        "english": "pillow",
+        "czech": [
+            "polštář",
+            "poduška"
+        ]
+    },
+    {
+        "english": "pit",
+        "czech": [
+            "jáma",
+            "šachta",
+            "vypeckovat",
+            "propast"
+        ]
+    },
+    {
+        "english": "pitch",
+        "czech": [
+            "smůla",
+            "výška",
+            "hřiště",
+            "házeti"
+        ]
+    },
+    {
+        "english": "pity",
+        "czech": [
+            "soucit",
+            "škoda"
+        ]
+    },
+    {
+        "english": "pizza",
+        "czech": [
+            "pizza"
+        ]
+    },
+    {
+        "english": "planet",
+        "czech": [
+            "planeta"
+        ]
+    },
+    {
+        "english": "playground",
+        "czech": [
+            "hřiště"
+        ]
+    },
+    {
+        "english": "plural",
+        "czech": [
+            "množné číslo",
+            "plurál"
+        ]
+    },
+    {
+        "english": "poet",
+        "czech": [
+            "básník"
+        ]
+    },
+    {
+        "english": "poetry",
+        "czech": [
+            "poezie",
+            "básnictví"
+        ]
+    },
+    {
+        "english": "point of view",
+        "czech": [
+            "hledisko",
+            "úhel pohledu",
+            "stanovisko",
+            "perspektiva"
+        ]
+    },
+    {
+        "english": "poison",
+        "czech": [
+            "jed"
+        ]
+    },
+    {
+        "english": "poisonous",
+        "czech": [
+            "jedovatý"
+        ]
+    },
+    {
+        "english": "Poland",
+        "czech": []
+    },
+    {
+        "english": "police officer",
+        "czech": [
+            "policista",
+            "policejní důstojník",
+            "policajt",
+            "strážník"
+        ]
+    },
+    {
+        "english": "police station",
+        "czech": [
+            "policejní stanice"
+        ]
+    },
+    {
+        "english": "policeman",
+        "czech": [
+            "policista",
+            "strážník"
+        ]
+    },
+    {
+        "english": "polite",
+        "czech": [
+            "zdvořilý",
+            "slušný",
+            "kultivovaný"
+        ]
+    },
+    {
+        "english": "politically",
+        "czech": [
+            "politicky"
+        ]
+    },
+    {
+        "english": "pollution",
+        "czech": [
+            "znečištění"
+        ]
+    },
+    {
+        "english": "pop",
+        "czech": [
+            "táta",
+            "puknutí",
+            "populární"
+        ]
+    },
+    {
+        "english": "portion",
+        "czech": [
+            "část",
+            "porce",
+            "kus",
+            "díl"
+        ]
+    },
+    {
+        "english": "portrait",
+        "czech": [
+            "portrét"
+        ]
+    },
+    {
+        "english": "pose",
+        "czech": [
+            "znamenat",
+            "zaujmout postoj",
+            "představovat",
+            "pózovat"
+        ]
+    },
+    {
+        "english": "posh",
+        "czech": [
+            "nóbl",
+            "nastrojit se",
+            "módní",
+            "elegantní"
+        ]
+    },
+    {
+        "english": "post office",
+        "czech": [
+            "pošta"
+        ]
+    },
+    {
+        "english": "postage",
+        "czech": [
+            "poštovné"
+        ]
+    },
+    {
+        "english": "postman",
+        "czech": [
+            "listonoš"
+        ]
+    },
+    {
+        "english": "pot",
+        "czech": [
+            "hrnec",
+            "hrnek"
+        ]
+    },
+    {
+        "english": "potentially",
+        "czech": [
+            "potenciálně"
+        ]
+    },
+    {
+        "english": "poverty",
+        "czech": [
+            "chudoba"
+        ]
+    },
+    {
+        "english": "powder",
+        "czech": [
+            "prach",
+            "prášek",
+            "pudr",
+            "moučka"
+        ]
+    },
+    {
+        "english": "practitioner",
+        "czech": [
+            "praktik"
+        ]
+    },
+    {
+        "english": "pray",
+        "czech": [
+            "modlit se",
+            "modlit",
+            "pěkně prosit",
+            "prosit"
+        ]
+    },
+    {
+        "english": "prayer",
+        "czech": [
+            "modlitba"
+        ]
+    },
+    {
+        "english": "precise",
+        "czech": [
+            "přesný"
+        ]
+    },
+    {
+        "english": "precisely",
+        "czech": [
+            "přesně"
+        ]
+    },
+    {
+        "english": "predict",
+        "czech": [
+            "předvídat",
+            "předpovědět",
+            "předpovídat"
+        ]
+    },
+    {
+        "english": "preference",
+        "czech": [
+            "záliba",
+            "zvýhodnění",
+            "výběr",
+            "volba"
+        ]
+    },
+    {
+        "english": "pregnant",
+        "czech": [
+            "těhotná"
+        ]
+    },
+    {
+        "english": "preposition",
+        "czech": [
+            "předložka"
+        ]
+    },
+    {
+        "english": "presentation",
+        "czech": [
+            "prezentace",
+            "uvedení"
+        ]
+    },
+    {
+        "english": "preserve",
+        "czech": [
+            "zavařenina",
+            "zachovat",
+            "udržovat",
+            "uchovat"
+        ]
+    },
+    {
+        "english": "presidential",
+        "czech": [
+            "prezidentský"
+        ]
+    },
+    {
+        "english": "presumably",
+        "czech": [
+            "pravděpodobně",
+            "patrně",
+            "podle všeho"
+        ]
+    },
+    {
+        "english": "pride",
+        "czech": [
+            "hrdost",
+            "pýcha"
+        ]
+    },
+    {
+        "english": "priest",
+        "czech": [
+            "kněz",
+            "duchovní"
+        ]
+    },
+    {
+        "english": "primarily",
+        "czech": [
+            "zejména",
+            "v první řadě",
+            "primárně"
+        ]
+    },
+    {
+        "english": "prime minister",
+        "czech": [
+            "premiér",
+            "ministerský předseda"
+        ]
+    },
+    {
+        "english": "prince",
+        "czech": [
+            "princ",
+            "kníže"
+        ]
+    },
+    {
+        "english": "princess",
+        "czech": [
+            "princezna"
+        ]
+    },
+    {
+        "english": "principal",
+        "czech": [
+            "hlavní"
+        ]
+    },
+    {
+        "english": "print",
+        "czech": [
+            "tisknout",
+            "vytisknout",
+            "tisk"
+        ]
+    },
+    {
+        "english": "printer",
+        "czech": [
+            "tiskárna"
+        ]
+    },
+    {
+        "english": "prior",
+        "czech": [
+            "převor",
+            "přednostní",
+            "předcházející",
+            "předchozí"
+        ]
+    },
+    {
+        "english": "privilege",
+        "czech": [
+            "výsada",
+            "privilegium"
+        ]
+    },
+    {
+        "english": "probable",
+        "czech": [
+            "pravděpodobný"
+        ]
+    },
+    {
+        "english": "proceed",
+        "czech": [
+            "postupovat",
+            "pokračovat",
+            "vyvíjet se"
+        ]
+    },
+    {
+        "english": "proceedings",
+        "czech": [
+            "jednání",
+            "sborník"
+        ]
+    },
+    {
+        "english": "processing",
+        "czech": [
+            "zpracování"
+        ]
+    },
+    {
+        "english": "producer",
+        "czech": [
+            "výrobce",
+            "producent"
+        ]
+    },
+    {
+        "english": "profession",
+        "czech": [
+            "profese",
+            "povolání"
+        ]
+    },
+    {
+        "english": "professor",
+        "czech": [
+            "profesor"
+        ]
+    },
+    {
+        "english": "profile",
+        "czech": [
+            "profil"
+        ]
+    },
+    {
+        "english": "promotion",
+        "czech": [
+            "povýšení",
+            "reklama",
+            "propagace",
+            "prosazování"
+        ]
+    },
+    {
+        "english": "pronunciation",
+        "czech": [
+            "výslovnost"
+        ]
+    },
+    {
+        "english": "proof",
+        "czech": [
+            "důkaz"
+        ]
+    },
+    {
+        "english": "propose",
+        "czech": [
+            "navrhnout",
+            "navrhovat",
+            "nabídnout"
+        ]
+    },
+    {
+        "english": "protein",
+        "czech": [
+            "bílkovina",
+            "protein"
+        ]
+    },
+    {
+        "english": "protest",
+        "czech": [
+            "protestovat",
+            "protest"
+        ]
+    },
+    {
+        "english": "province",
+        "czech": [
+            "provincie"
+        ]
+    },
+    {
+        "english": "psychological",
+        "czech": [
+            "psychologický",
+            "duševní"
+        ]
+    },
+    {
+        "english": "psychologist",
+        "czech": [
+            "psycholog",
+            "psycholožka"
+        ]
+    },
+    {
+        "english": "psychology",
+        "czech": [
+            "psychologie"
+        ]
+    },
+    {
+        "english": "pub",
+        "czech": [
+            "hostinec",
+            "hospoda",
+            "pivnice",
+            "výčep"
+        ]
+    },
+    {
+        "english": "publicity",
+        "czech": [
+            "reklama"
+        ]
+    },
+    {
+        "english": "publicly",
+        "czech": [
+            "veřejně"
+        ]
+    },
+    {
+        "english": "publisher",
+        "czech": [
+            "vydavatel",
+            "nakladatelství",
+            "nakladatel"
+        ]
+    },
+    {
+        "english": "pump",
+        "czech": [
+            "čerpadlo",
+            "pumpa"
+        ]
+    },
+    {
+        "english": "punish",
+        "czech": [
+            "potrestat",
+            "trestat"
+        ]
+    },
+    {
+        "english": "punishment",
+        "czech": [
+            "trest",
+            "potrestání"
+        ]
+    },
+    {
+        "english": "purchase",
+        "czech": [
+            "kupovat",
+            "koupit",
+            "nákup"
+        ]
+    },
+    {
+        "english": "purely",
+        "czech": [
+            "čistě"
+        ]
+    },
+    {
+        "english": "purse",
+        "czech": [
+            "peněženka",
+            "kabelka"
+        ]
+    },
+    {
+        "english": "qualification",
+        "czech": [
+            "kvalifikace"
+        ]
+    },
+    {
+        "english": "qualify",
+        "czech": [
+            "ohodnotit",
+            "vymezit",
+            "posoudit",
+            "kvalifikovat"
+        ]
+    },
+    {
+        "english": "queue",
+        "czech": [
+            "fronta"
+        ]
+    },
+    {
+        "english": "quit",
+        "czech": [
+            "ukončit",
+            "skončit",
+            "přestat",
+            "odejít"
+        ]
+    },
+    {
+        "english": "quote",
+        "czech": [
+            "citovat",
+            "citát"
+        ]
+    },
+    {
+        "english": "rabbit",
+        "czech": [
+            "králík"
+        ]
+    },
+    {
+        "english": "racial",
+        "czech": [
+            "rasový"
+        ]
+    },
+    {
+        "english": "racing",
+        "czech": [
+            "závodění",
+            "závodní",
+            "dostihy",
+            "běh o závod"
+        ]
+    },
+    {
+        "english": "radical",
+        "czech": [
+            "radikál",
+            "radikální",
+            "základní",
+            "odmocnina"
+        ]
+    },
+    {
+        "english": "rainy",
+        "czech": [
+            "deštivý"
+        ]
+    },
+    {
+        "english": "rank",
+        "czech": [
+            "hodnost",
+            "řada",
+            "šik",
+            "uspořádat"
+        ]
+    },
+    {
+        "english": "rapid",
+        "czech": [
+            "rychlý"
+        ]
+    },
+    {
+        "english": "rapidly",
+        "czech": [
+            "rychle",
+            "rapidně"
+        ]
+    },
+    {
+        "english": "ratio",
+        "czech": [
+            "poměr",
+            "procento",
+            "míra"
+        ]
+    },
+    {
+        "english": "rational",
+        "czech": [
+            "racionální"
+        ]
+    },
+    {
+        "english": "raw",
+        "czech": [
+            "syrový",
+            "surový"
+        ]
+    },
+    {
+        "english": "react",
+        "czech": [
+            "reagovat"
+        ]
+    },
+    {
+        "english": "readily",
+        "czech": [
+            "snadno",
+            "připraveně",
+            "odhodlaně"
+        ]
+    },
+    {
+        "english": "reasonably",
+        "czech": [
+            "rozumně",
+            "přiměřeně",
+            "poměrně",
+            "celkem"
+        ]
+    },
+    {
+        "english": "receipt",
+        "czech": [
+            "stvrzenka",
+            "paragon",
+            "účtenka",
+            "příjmový doklad"
+        ]
+    },
+    {
+        "english": "reception",
+        "czech": [
+            "přijetí",
+            "recepce",
+            "příjem"
+        ]
+    },
+    {
+        "english": "recipe",
+        "czech": [
+            "recept"
+        ]
+    },
+    {
+        "english": "reckon",
+        "czech": [
+            "odhadovat",
+            "spočítat",
+            "počítat",
+            "předpokládat"
+        ]
+    },
+    {
+        "english": "recognition",
+        "czech": [
+            "uznání",
+            "rozpoznání"
+        ]
+    },
+    {
+        "english": "recommendation",
+        "czech": [
+            "doporučení",
+            "přímluva"
+        ]
+    },
+    {
+        "english": "recording",
+        "czech": [
+            "nahrávka",
+            "záznam",
+            "zaznamenávání",
+            "zapisování"
+        ]
+    },
+    {
+        "english": "recovery",
+        "czech": [
+            "zotavení",
+            "rekonvalescence",
+            "znovunabytí",
+            "uzdravení"
+        ]
+    },
+    {
+        "english": "refer",
+        "czech": [
+            "poukázat",
+            "odvolávat se",
+            "odkázat se na něco"
+        ]
+    },
+    {
+        "english": "referee",
+        "czech": [
+            "rozhodčí"
+        ]
+    },
+    {
+        "english": "reflection",
+        "czech": [
+            "odraz"
+        ]
+    },
+    {
+        "english": "refrigerator",
+        "czech": [
+            "lednička",
+            "chladnička",
+            "lednice"
+        ]
+    },
+    {
+        "english": "refugee",
+        "czech": [
+            "uprchlík"
+        ]
+    },
+    {
+        "english": "register",
+        "czech": [
+            "rejstřík",
+            "registr",
+            "zaznamenat",
+            "registrovat"
+        ]
+    },
+    {
+        "english": "registration",
+        "czech": [
+            "registrace",
+            "přihláška"
+        ]
+    },
+    {
+        "english": "regret",
+        "czech": [
+            "lítost",
+            "žal",
+            "smutek",
+            "litovat"
+        ]
+    },
+    {
+        "english": "regularly",
+        "czech": [
+            "pravidelně"
+        ]
+    },
+    {
+        "english": "reinforce",
+        "czech": [
+            "zpevnit",
+            "zesílit",
+            "posílit",
+            "armovat"
+        ]
+    },
+    {
+        "english": "related",
+        "czech": [
+            "související",
+            "příbuzný"
+        ]
+    },
+    {
+        "english": "relax",
+        "czech": [
+            "uvolnit",
+            "relaxovat",
+            "odpočinout si"
+        ]
+    },
+    {
+        "english": "relevance",
+        "czech": [
+            "závažnost",
+            "důležitost",
+            "význam"
+        ]
+    },
+    {
+        "english": "relieve",
+        "czech": [
+            "zprostit",
+            "zbavit",
+            "ulevit"
+        ]
+    },
+    {
+        "english": "remark",
+        "czech": [
+            "poznámka",
+            "zpozorovat",
+            "poznamenat"
+        ]
+    },
+    {
+        "english": "remarkable",
+        "czech": [
+            "pozoruhodný",
+            "mimořádný"
+        ]
+    },
+    {
+        "english": "remote",
+        "czech": [
+            "vzdálený",
+            "odlehlý"
+        ]
+    },
+    {
+        "english": "removal",
+        "czech": [
+            "odstranění",
+            "přemístění",
+            "vyjmutí",
+            "přesunutí"
+        ]
+    },
+    {
+        "english": "replacement",
+        "czech": [
+            "záměna",
+            "výměna",
+            "vytlačení",
+            "vystřídání"
+        ]
+    },
+    {
+        "english": "reporter",
+        "czech": [
+            "zpravodaj",
+            "reportér",
+            "referent"
+        ]
+    },
+    {
+        "english": "representation",
+        "czech": [
+            "zastupitelství",
+            "reprezentace",
+            "představení",
+            "znázornění"
+        ]
+    },
+    {
+        "english": "representative",
+        "czech": [
+            "zástupce",
+            "reprezentant"
+        ]
+    },
+    {
+        "english": "reputation",
+        "czech": [
+            "pověst",
+            "dobré jméno"
+        ]
+    },
+    {
+        "english": "resemble",
+        "czech": [
+            "podobat se",
+            "připomínat",
+            "být podobný"
+        ]
+    },
+    {
+        "english": "reservation",
+        "czech": [
+            "rezervace",
+            "výhrada",
+            "zamluvení"
+        ]
+    },
+    {
+        "english": "reserve",
+        "czech": [
+            "zajistit",
+            "rezervovat",
+            "rezervní",
+            "zamluvit"
+        ]
+    },
+    {
+        "english": "resign",
+        "czech": [
+            "rezignovat",
+            "odstoupit",
+            "znovu podepsat",
+            "abdikovat"
+        ]
+    },
+    {
+        "english": "resignation",
+        "czech": [
+            "rezignace",
+            "odevzdanost",
+            "odstoupení"
+        ]
+    },
+    {
+        "english": "resist",
+        "czech": [
+            "odolat",
+            "vzdorovat",
+            "odporovat",
+            "odolávat"
+        ]
+    },
+    {
+        "english": "resistance",
+        "czech": [
+            "odpor",
+            "odolnost"
+        ]
+    },
+    {
+        "english": "resolve",
+        "czech": [
+            "vyřešit",
+            "rozluštit",
+            "rozřešit",
+            "rozlišit"
+        ]
+    },
+    {
+        "english": "resort",
+        "czech": [
+            "středisko",
+            "resort",
+            "rekreace",
+            "lázně"
+        ]
+    },
+    {
+        "english": "restore",
+        "czech": [
+            "obnovit",
+            "renovovat"
+        ]
+    },
+    {
+        "english": "restrict",
+        "czech": [
+            "omezit"
+        ]
+    },
+    {
+        "english": "restriction",
+        "czech": [
+            "restrikce",
+            "omezení"
+        ]
+    },
+    {
+        "english": "retain",
+        "czech": [
+            "ponechat si",
+            "podržet si",
+            "udržet"
+        ]
+    },
+    {
+        "english": "retire",
+        "czech": [
+            "ustoupit",
+            "stáhnout se",
+            "penzionovat",
+            "odvolat"
+        ]
+    },
+    {
+        "english": "retirement",
+        "czech": [
+            "důchod",
+            "výslužba",
+            "penze",
+            "odchod do důchodu"
+        ]
+    },
+    {
+        "english": "reverse",
+        "czech": [
+            "zaměnit",
+            "revers",
+            "převrátit",
+            "obrácení"
+        ]
+    },
+    {
+        "english": "revise",
+        "czech": [
+            "revize",
+            "revidovat",
+            "korigovat",
+            "zrevidovat"
+        ]
+    },
+    {
+        "english": "revision",
+        "czech": [
+            "revize",
+            "revidování",
+            "přepracování",
+            "oprava"
+        ]
+    },
+    {
+        "english": "reward",
+        "czech": [
+            "odměna",
+            "odměnit"
+        ]
+    },
+    {
+        "english": "rid",
+        "czech": [
+            "zbavit",
+            "zbavovat"
+        ]
+    },
+    {
+        "english": "rival",
+        "czech": [
+            "soupeř",
+            "rival",
+            "protivník",
+            "sok"
+        ]
+    },
+    {
+        "english": "roast",
+        "czech": [
+            "péct",
+            "péci",
+            "pražit",
+            "pečeně"
+        ]
+    },
+    {
+        "english": "rob",
+        "czech": [
+            "loupit",
+            "vyloupit",
+            "vykrást",
+            "oloupit"
+        ]
+    },
+    {
+        "english": "romantic",
+        "czech": [
+            "romantický",
+            "romantik"
+        ]
+    },
+    {
+        "english": "rope",
+        "czech": [
+            "lano",
+            "provaz"
+        ]
+    },
+    {
+        "english": "rose",
+        "czech": [
+            "růže"
+        ]
+    },
+    {
+        "english": "roughly",
+        "czech": [
+            "nepřesně",
+            "hrubě",
+            "zhruba",
+            "přibližně"
+        ]
+    },
+    {
+        "english": "routine",
+        "czech": [
+            "rutinní",
+            "rutina",
+            "běžná praxe",
+            "pravidelný postup"
+        ]
+    },
+    {
+        "english": "rub",
+        "czech": [
+            "třít",
+            "mnout",
+            "vyčistit",
+            "otřít"
+        ]
+    },
+    {
+        "english": "rubber",
+        "czech": [
+            "guma",
+            "pryž",
+            "kondom"
+        ]
+    },
+    {
+        "english": "rubbish",
+        "czech": [
+            "odpad",
+            "smetí",
+            "nesmysl",
+            "jalovina"
+        ]
+    },
+    {
+        "english": "rude",
+        "czech": [
+            "sprostý",
+            "drzý",
+            "nezdvořilý",
+            "nevychovaný"
+        ]
+    },
+    {
+        "english": "rugby",
+        "czech": [
+            "ragby"
+        ]
+    },
+    {
+        "english": "run out",
+        "czech": [
+            "dojít",
+            "vyběhnout"
+        ]
+    },
+    {
+        "english": "running",
+        "czech": [
+            "tekoucí",
+            "průběžný",
+            "proudící",
+            "probíhající"
+        ]
+    },
+    {
+        "english": "sacrifice",
+        "czech": [
+            "oběť",
+            "obětovat"
+        ]
+    },
+    {
+        "english": "sail",
+        "czech": [
+            "plachta"
+        ]
+    },
+    {
+        "english": "sake",
+        "czech": [
+            "původ",
+            "kvůli něčemu",
+            "důvod",
+            "saké"
+        ]
+    },
+    {
+        "english": "salary",
+        "czech": [
+            "plat",
+            "mzda",
+            "gáže"
+        ]
+    },
+    {
+        "english": "salty",
+        "czech": [
+            "slaný"
+        ]
+    },
+    {
+        "english": "satellite",
+        "czech": [
+            "družice",
+            "satelit"
+        ]
+    },
+    {
+        "english": "satisfaction",
+        "czech": [
+            "spokojenost",
+            "uspokojení",
+            "satisfakce"
+        ]
+    },
+    {
+        "english": "satisfactory",
+        "czech": [
+            "uspokojivý",
+            "vyhovující",
+            "uspokojující"
+        ]
+    },
+    {
+        "english": "satisfied",
+        "czech": [
+            "spokojený",
+            "uspokojil",
+            "uspokojili"
+        ]
+    },
+    {
+        "english": "sauce",
+        "czech": [
+            "omáčka"
+        ]
+    },
+    {
+        "english": "sausage",
+        "czech": [
+            "párek",
+            "klobása",
+            "vuřt"
+        ]
+    },
+    {
+        "english": "scandal",
+        "czech": [
+            "skandál",
+            "pomluva"
+        ]
+    },
+    {
+        "english": "scare",
+        "czech": [
+            "postrašit",
+            "polekat",
+            "vyděsit",
+            "leknutí"
+        ]
+    },
+    {
+        "english": "scared",
+        "czech": [
+            "vystrašený"
+        ]
+    },
+    {
+        "english": "schedule",
+        "czech": [
+            "plán",
+            "program",
+            "rozvrh",
+            "časový rozpis"
+        ]
+    },
+    {
+        "english": "scholar",
+        "czech": [
+            "žák",
+            "učenec",
+            "školák",
+            "vědec"
+        ]
+    },
+    {
+        "english": "scholarship",
+        "czech": [
+            "stipendium"
+        ]
+    },
+    {
+        "english": "scooter",
+        "czech": [
+            "skútr",
+            "koloběžka"
+        ]
+    },
+    {
+        "english": "scope",
+        "czech": [
+            "rozsah",
+            "volnost",
+            "teleskop",
+            "rámec"
+        ]
+    },
+    {
+        "english": "Scot",
+        "czech": []
+    },
+    {
+        "english": "scratch",
+        "czech": [
+            "škrábanec",
+            "škrábat",
+            "škrtnutí",
+            "škrtnout"
+        ]
+    },
+    {
+        "english": "screw",
+        "czech": [
+            "šroub",
+            "šroubovat",
+            "šoustat",
+            "zašroubovat"
+        ]
+    },
+    {
+        "english": "seafood",
+        "czech": [
+            "plody moře"
+        ]
+    },
+    {
+        "english": "secondary",
+        "czech": [
+            "sekundární",
+            "přídavný",
+            "pomocný",
+            "podřadný"
+        ]
+    },
+    {
+        "english": "secondary school",
+        "czech": [
+            "střední škola",
+            "gymnázium"
+        ]
+    },
+    {
+        "english": "secondly",
+        "czech": [
+            "za druhé"
+        ]
+    },
+    {
+        "english": "segment",
+        "czech": [
+            "segment",
+            "část",
+            "úsečka",
+            "úseč"
+        ]
+    },
+    {
+        "english": "seize",
+        "czech": [
+            "uchvátit",
+            "chytit",
+            "zatknout",
+            "zabavit"
+        ]
+    },
+    {
+        "english": "seldom",
+        "czech": [
+            "zřídka"
+        ]
+    },
+    {
+        "english": "seller",
+        "czech": [
+            "prodávající",
+            "prodavač",
+            "prodejce",
+            "prodavačka"
+        ]
+    },
+    {
+        "english": "senate",
+        "czech": [
+            "senát"
+        ]
+    },
+    {
+        "english": "sensible",
+        "czech": [
+            "rozumný",
+            "citlivý",
+            "citelný"
+        ]
+    },
+    {
+        "english": "sensitive",
+        "czech": [
+            "citlivý"
+        ]
+    },
+    {
+        "english": "set off",
+        "czech": [
+            "vydat se",
+            "zvýraznit",
+            "zdůraznit",
+            "vyčlenit"
+        ]
+    },
+    {
+        "english": "set out",
+        "czech": [
+            "vydat se",
+            "vyjasnit",
+            "rozmístit",
+            "rozložit"
+        ]
+    },
+    {
+        "english": "set up",
+        "czech": [
+            "vyvolat",
+            "způsobit",
+            "vytvořit"
+        ]
+    },
+    {
+        "english": "settee",
+        "czech": [
+            "gauč"
+        ]
+    },
+    {
+        "english": "setting",
+        "czech": [
+            "nastavení",
+            "umístění",
+            "stanovení",
+            "nasazování"
+        ]
+    },
+    {
+        "english": "settle down",
+        "czech": [
+            "usadit se",
+            "usídlit se",
+            "ustálit se"
+        ]
+    },
+    {
+        "english": "settlement",
+        "czech": [
+            "vyrovnání",
+            "osada",
+            "úhrada",
+            "usmíření"
+        ]
+    },
+    {
+        "english": "shade",
+        "czech": [
+            "stín",
+            "odstín"
+        ]
+    },
+    {
+        "english": "shallow",
+        "czech": [
+            "mělký"
+        ]
+    },
+    {
+        "english": "shame",
+        "czech": [
+            "stud",
+            "ostuda",
+            "hanba"
+        ]
+    },
+    {
+        "english": "sharply",
+        "czech": [
+            "ostře"
+        ]
+    },
+    {
+        "english": "shave",
+        "czech": [
+            "holit",
+            "oholit"
+        ]
+    },
+    {
+        "english": "shelf",
+        "czech": [
+            "šelf",
+            "police",
+            "polička"
+        ]
+    },
+    {
+        "english": "shine",
+        "czech": [
+            "třpyt",
+            "záře",
+            "svítit",
+            "lesk"
+        ]
+    },
+    {
+        "english": "shop assistant",
+        "czech": [
+            "prodavačka",
+            "prodavač"
+        ]
+    },
+    {
+        "english": "shopping",
+        "czech": [
+            "nákup",
+            "nakupování"
+        ]
+    },
+    {
+        "english": "shortly",
+        "czech": [
+            "krátce",
+            "stručně",
+            "brzy"
+        ]
+    },
+    {
+        "english": "sigh",
+        "czech": [
+            "vzdychat",
+            "vzdychnout",
+            "vzdech"
+        ]
+    },
+    {
+        "english": "signature",
+        "czech": [
+            "podpis"
+        ]
+    },
+    {
+        "english": "significance",
+        "czech": [
+            "význam"
+        ]
+    },
+    {
+        "english": "silly",
+        "czech": [
+            "hloupý",
+            "pošetilý",
+            "pitomý",
+            "bláhový"
+        ]
+    },
+    {
+        "english": "similarity",
+        "czech": [
+            "podobnost"
+        ]
+    },
+    {
+        "english": "similarly",
+        "czech": [
+            "podobně"
+        ]
+    },
+    {
+        "english": "sincere",
+        "czech": [
+            "upřímný"
+        ]
+    },
+    {
+        "english": "singer",
+        "czech": [
+            "zpěvák",
+            "zpěvačka"
+        ]
+    },
+    {
+        "english": "sink",
+        "czech": [
+            "umyvadlo",
+            "potopit",
+            "ponořit",
+            "dřez"
+        ]
+    },
+    {
+        "english": "ski",
+        "czech": [
+            "lyže",
+            "lyžovat"
+        ]
+    },
+    {
+        "english": "skilled",
+        "czech": [
+            "vyučený",
+            "kvalifikovaný",
+            "dovedný",
+            "šikovný"
+        ]
+    },
+    {
+        "english": "slave",
+        "czech": [
+            "slejvština (athabaský jazyk)"
+        ]
+    },
+    {
+        "english": "sleeve",
+        "czech": [
+            "rukáv"
+        ]
+    },
+    {
+        "english": "slice",
+        "czech": [
+            "krajíc",
+            "plátek",
+            "část",
+            "nakrájet"
+        ]
+    },
+    {
+        "english": "slim",
+        "czech": [
+            "štíhlý"
+        ]
+    },
+    {
+        "english": "slope",
+        "czech": [
+            "svah"
+        ]
+    },
+    {
+        "english": "smart",
+        "czech": [
+            "chytrý",
+            "bystrý"
+        ]
+    },
+    {
+        "english": "smell",
+        "czech": [
+            "cítit",
+            "vůně",
+            "čichat",
+            "zápach"
+        ]
+    },
+    {
+        "english": "smoking",
+        "czech": [
+            "kouření"
+        ]
+    },
+    {
+        "english": "smooth",
+        "czech": [
+            "hladký"
+        ]
+    },
+    {
+        "english": "snack",
+        "czech": [
+            "svačina",
+            "přesnídávka"
+        ]
+    },
+    {
+        "english": "snake",
+        "czech": [
+            "had"
+        ]
+    },
+    {
+        "english": "snap",
+        "czech": [
+            "zlomit",
+            "prasknout",
+            "chňapnout",
+            "unáhlený"
+        ]
+    },
+    {
+        "english": "so far",
+        "czech": [
+            "dosud",
+            "zatím",
+            "až dosud"
+        ]
+    },
+    {
+        "english": "so that",
+        "czech": [
+            "aby",
+            "takže"
+        ]
+    },
+    {
+        "english": "so-called",
+        "czech": [
+            "takzvaný"
+        ]
+    },
+    {
+        "english": "soccer",
+        "czech": [
+            "fotbal",
+            "kopaná"
+        ]
+    },
+    {
+        "english": "solar",
+        "czech": [
+            "sluneční"
+        ]
+    },
+    {
+        "english": "sole",
+        "czech": [
+            "jediný",
+            "podrážka",
+            "chodidlo",
+            "sám"
+        ]
+    },
+    {
+        "english": "solicitor",
+        "czech": [
+            "advokát"
+        ]
+    },
+    {
+        "english": "sometime",
+        "czech": [
+            "někdy",
+            "jednou",
+            "kdysi"
+        ]
+    },
+    {
+        "english": "sophisticated",
+        "czech": [
+            "rafinovaný",
+            "propracovaný",
+            "náročný",
+            "důmyslný"
+        ]
+    },
+    {
+        "english": "sore",
+        "czech": [
+            "zranění",
+            "rána",
+            "bolák",
+            "bolestivý"
+        ]
+    },
+    {
+        "english": "soup",
+        "czech": [
+            "polévka"
+        ]
+    },
+    {
+        "english": "Soviet",
+        "czech": []
+    },
+    {
+        "english": "spaghetti",
+        "czech": [
+            "špagety"
+        ]
+    },
+    {
+        "english": "spare",
+        "czech": [
+            "ušetřit",
+            "šetřit",
+            "náhradní",
+            "nadbytečný"
+        ]
+    },
+    {
+        "english": "specialise",
+        "czech": [
+            "specializovat"
+        ]
+    },
+    {
+        "english": "specialist",
+        "czech": [
+            "odborník",
+            "specialista"
+        ]
+    },
+    {
+        "english": "specifically",
+        "czech": [
+            "specificky"
+        ]
+    },
+    {
+        "english": "specify",
+        "czech": [
+            "určit",
+            "zpřesnit",
+            "stanovit",
+            "specifikovat"
+        ]
+    },
+    {
+        "english": "specimen",
+        "czech": [
+            "exemplář",
+            "ukázka",
+            "vzorek",
+            "vzor"
+        ]
+    },
+    {
+        "english": "spelling",
+        "czech": [
+            "pravopis",
+            "hláskování"
+        ]
+    },
+    {
+        "english": "spice",
+        "czech": [
+            "koření"
+        ]
+    },
+    {
+        "english": "spill",
+        "czech": [
+            "rozsypat",
+            "prozradit",
+            "vysypat",
+            "vylít"
+        ]
+    },
+    {
+        "english": "spin",
+        "czech": [
+            "příst",
+            "točit",
+            "točení",
+            "roztočit"
+        ]
+    },
+    {
+        "english": "spiritual",
+        "czech": [
+            "duchovní",
+            "spirituál",
+            "duševní"
+        ]
+    },
+    {
+        "english": "spite",
+        "czech": [
+            "zášť",
+            "zlá vůle",
+            "zlomyslnost",
+            "truc"
+        ]
+    },
+    {
+        "english": "splendid",
+        "czech": [
+            "skvělý",
+            "skvostný",
+            "ohromný",
+            "báječný"
+        ]
+    },
+    {
+        "english": "split",
+        "czech": [
+            "rozdělit",
+            "oddělit"
+        ]
+    },
+    {
+        "english": "spoil",
+        "czech": [
+            "zkazit",
+            "pokazit",
+            "kazit",
+            "kořist"
+        ]
+    },
+    {
+        "english": "spray",
+        "czech": [
+            "sprej",
+            "rozprašovač",
+            "postříkat",
+            "postřik"
+        ]
+    },
+    {
+        "english": "spy",
+        "czech": [
+            "špión",
+            "špion",
+            "špehovat",
+            "vyzvědač"
+        ]
+    },
+    {
+        "english": "squeeze",
+        "czech": [
+            "zmáčknout",
+            "vmáčknout",
+            "vymačkat",
+            "vecpat"
+        ]
+    },
+    {
+        "english": "stable",
+        "czech": [
+            "stáj",
+            "stabilní"
+        ]
+    },
+    {
+        "english": "stadium",
+        "czech": [
+            "stadión",
+            "stadion"
+        ]
+    },
+    {
+        "english": "stake",
+        "czech": [
+            "kůl"
+        ]
+    },
+    {
+        "english": "stall",
+        "czech": [
+            "stánek",
+            "stáj",
+            "chlév"
+        ]
+    },
+    {
+        "english": "statistics",
+        "czech": [
+            "statistika"
+        ]
+    },
+    {
+        "english": "statue",
+        "czech": [
+            "socha"
+        ]
+    },
+    {
+        "english": "steady",
+        "czech": [
+            "stálý",
+            "vyrovnaný",
+            "trvalý",
+            "stabilní"
+        ]
+    },
+    {
+        "english": "steak",
+        "czech": [
+            "biftek",
+            "stejk"
+        ]
+    },
+    {
+        "english": "steep",
+        "czech": [
+            "sráz",
+            "svah",
+            "strmý",
+            "příkrý"
+        ]
+    },
+    {
+        "english": "sticky",
+        "czech": [
+            "lepkavý",
+            "lepivý",
+            "mazlavý"
+        ]
+    },
+    {
+        "english": "stiff",
+        "czech": [
+            "ztuhlý",
+            "pevný",
+            "ztuha",
+            "tvrdý"
+        ]
+    },
+    {
+        "english": "stir",
+        "czech": [
+            "promíchat",
+            "míchat",
+            "zvířit",
+            "zamíchat"
+        ]
+    },
+    {
+        "english": "stitch",
+        "czech": [
+            "steh",
+            "stehovat",
+            "šít",
+            "brožovat"
+        ]
+    },
+    {
+        "english": "storage",
+        "czech": [
+            "skladování",
+            "uskladnění",
+            "uchovávání"
+        ]
+    },
+    {
+        "english": "storey",
+        "czech": [
+            "patro",
+            "poschodí",
+            "podlaží"
+        ]
+    },
+    {
+        "english": "strain",
+        "czech": [
+            "napnutí",
+            "namáhat",
+            "kmen",
+            "úsilí"
+        ]
+    },
+    {
+        "english": "stranger",
+        "czech": [
+            "cizinec"
+        ]
+    },
+    {
+        "english": "strategic",
+        "czech": [
+            "strategický"
+        ]
+    },
+    {
+        "english": "straw",
+        "czech": [
+            "sláma"
+        ]
+    },
+    {
+        "english": "strawberry",
+        "czech": [
+            "jahoda"
+        ]
+    },
+    {
+        "english": "stream",
+        "czech": [
+            "potok",
+            "proud",
+            "řeka"
+        ]
+    },
+    {
+        "english": "strengthen",
+        "czech": [
+            "posílit",
+            "upevňovat",
+            "zpevnit",
+            "zesílit"
+        ]
+    },
+    {
+        "english": "strict",
+        "czech": [
+            "přísný",
+            "striktní",
+            "přesný"
+        ]
+    },
+    {
+        "english": "strip",
+        "czech": [
+            "pruh",
+            "pás",
+            "vysvléct",
+            "svléknout se"
+        ]
+    },
+    {
+        "english": "stripe",
+        "czech": [
+            "pruh"
+        ]
+    },
+    {
+        "english": "stroke",
+        "czech": [
+            "úder",
+            "mrtvice",
+            "tah",
+            "hladit"
+        ]
+    },
+    {
+        "english": "stuck",
+        "czech": [
+            "zaseknutý",
+            "zaklíněný",
+            "uvízlý",
+            "přilepen"
+        ]
+    },
+    {
+        "english": "subsequent",
+        "czech": [
+            "následující",
+            "posloupný"
+        ]
+    },
+    {
+        "english": "subsequently",
+        "czech": [
+            "následně",
+            "později",
+            "poté",
+            "potom"
+        ]
+    },
+    {
+        "english": "substance",
+        "czech": [
+            "hmota",
+            "substance",
+            "látka",
+            "podstata"
+        ]
+    },
+    {
+        "english": "substitute",
+        "czech": [
+            "náhrada",
+            "náhradník",
+            "nahradit",
+            "zastoupit"
+        ]
+    },
+    {
+        "english": "successfully",
+        "czech": [
+            "úspěšně"
+        ]
+    },
+    {
+        "english": "succession",
+        "czech": [
+            "sukcese",
+            "posloupnost",
+            "sled",
+            "sekvence"
+        ]
+    },
+    {
+        "english": "suck",
+        "czech": [
+            "sát",
+            "cucat",
+            "nasávat"
+        ]
+    },
+    {
+        "english": "suicide",
+        "czech": [
+            "sebevražda",
+            "sebevrah"
+        ]
+    },
+    {
+        "english": "summertime",
+        "czech": [
+            "léto"
+        ]
+    },
+    {
+        "english": "summit",
+        "czech": [
+            "vrcholek",
+            "summit",
+            "vrchol",
+            "špička"
+        ]
+    },
+    {
+        "english": "sunrise",
+        "czech": [
+            "svítání",
+            "východ slunce"
+        ]
+    },
+    {
+        "english": "sunset",
+        "czech": [
+            "západ slunce",
+            "soumrak",
+            "západ"
+        ]
+    },
+    {
+        "english": "sunshine",
+        "czech": [
+            "sluneční záře",
+            "sluneční světlo",
+            "sluneční svit",
+            "slunečno"
+        ]
+    },
+    {
+        "english": "super",
+        "czech": [
+            "výborný",
+            "špičkový",
+            "super",
+            "senzační"
+        ]
+    },
+    {
+        "english": "superior",
+        "czech": [
+            "vyšší",
+            "vznešenější",
+            "vrchní",
+            "silnější"
+        ]
+    },
+    {
+        "english": "supplier",
+        "czech": [
+            "dodavatel"
+        ]
+    },
+    {
+        "english": "supposed",
+        "czech": [
+            "údajný",
+            "předpokládaný",
+            "domnělý"
+        ]
+    },
+    {
+        "english": "supreme",
+        "czech": [
+            "nejlepší",
+            "vrcholný",
+            "vrchní",
+            "svrchovaný"
+        ]
+    },
+    {
+        "english": "surgery",
+        "czech": []
+    },
+    {
+        "english": "surprising",
+        "czech": [
+            "překvapivý",
+            "překvapující"
+        ]
+    },
+    {
+        "english": "surprisingly",
+        "czech": [
+            "nečekaně",
+            "kupodivu",
+            "neočekávaně"
+        ]
+    },
+    {
+        "english": "survival",
+        "czech": [
+            "přežití"
+        ]
+    },
+    {
+        "english": "suspect",
+        "czech": [
+            "podezřívat",
+            "podezřelý",
+            "podezírat"
+        ]
+    },
+    {
+        "english": "suspend",
+        "czech": [
+            "přerušit"
+        ]
+    },
+    {
+        "english": "suspicion",
+        "czech": [
+            "podezření"
+        ]
+    },
+    {
+        "english": "suspicious",
+        "czech": [
+            "podezíravý",
+            "podezřívavý",
+            "podezřelý",
+            "nedůvěřivý"
+        ]
+    },
+    {
+        "english": "sustain",
+        "czech": [
+            "zachovat",
+            "vydržet",
+            "udržet",
+            "trpět"
+        ]
+    },
+    {
+        "english": "swallow",
+        "czech": [
+            "vlaštovka",
+            "spolknout",
+            "polykat"
+        ]
+    },
+    {
+        "english": "Sweden",
+        "czech": []
+    },
+    {
+        "english": "sweep",
+        "czech": [
+            "zamést",
+            "zametat",
+            "smést",
+            "mést"
+        ]
+    },
+    {
+        "english": "swell",
+        "czech": [
+            "zvětšit",
+            "otékat",
+            "bobtnat",
+            "zduřet"
+        ]
+    },
+    {
+        "english": "swimming",
+        "czech": [
+            "plavání"
+        ]
+    },
+    {
+        "english": "swimming pool",
+        "czech": [
+            "bazén"
+        ]
+    },
+    {
+        "english": "swing",
+        "czech": [
+            "houpačka",
+            "houpat",
+            "houpat se"
+        ]
+    },
+    {
+        "english": "switch off",
+        "czech": [
+            "vypnout"
+        ]
+    },
+    {
+        "english": "switch on",
+        "czech": [
+            "zapnout",
+            "zapínat"
+        ]
+    },
+    {
+        "english": "Switzerland",
+        "czech": []
+    },
+    {
+        "english": "sword",
+        "czech": [
+            "meč"
+        ]
+    },
+    {
+        "english": "symbol",
+        "czech": [
+            "symbol"
+        ]
+    },
+    {
+        "english": "sympathetic",
+        "czech": [
+            "účastný",
+            "soucítící",
+            "soucitný",
+            "solidární"
+        ]
+    },
+    {
+        "english": "sympathy",
+        "czech": [
+            "soucit",
+            "soustrast"
+        ]
+    },
+    {
+        "english": "symptom",
+        "czech": [
+            "příznak",
+            "symptom"
+        ]
+    },
+    {
+        "english": "tackle",
+        "czech": [
+            "řešit",
+            "zvládnout",
+            "výzbroj",
+            "vyřídit si to"
+        ]
+    },
+    {
+        "english": "tail",
+        "czech": [
+            "ocas",
+            "ohon",
+            "chvost",
+            "zadek"
+        ]
+    },
+    {
+        "english": "Taiwan",
+        "czech": []
+    },
+    {
+        "english": "take off",
+        "czech": [
+            "vzlétnout",
+            "zout",
+            "svléknout",
+            "odložit"
+        ]
+    },
+    {
+        "english": "tale",
+        "czech": [
+            "historka",
+            "vyprávění",
+            "příběh",
+            "povídka"
+        ]
+    },
+    {
+        "english": "talent",
+        "czech": [
+            "talent",
+            "schopnost",
+            "nadání"
+        ]
+    },
+    {
+        "english": "tap",
+        "czech": [
+            "kohoutek",
+            "pípa"
+        ]
+    },
+    {
+        "english": "taxation",
+        "czech": [
+            "zdaňování",
+            "zdanění"
+        ]
+    },
+    {
+        "english": "teaspoon",
+        "czech": [
+            "lžička"
+        ]
+    },
+    {
+        "english": "teenager",
+        "czech": [
+            "teenager",
+            "výrostek",
+            "nezletilý",
+            "mladistvý"
+        ]
+    },
+    {
+        "english": "temporary",
+        "czech": [
+            "dočasný",
+            "provizorní",
+            "přechodný",
+            "prozatímní"
+        ]
+    },
+    {
+        "english": "tendency",
+        "czech": [
+            "tendence",
+            "sklon"
+        ]
+    },
+    {
+        "english": "tennis",
+        "czech": [
+            "tenis"
+        ]
+    },
+    {
+        "english": "tension",
+        "czech": [
+            "napětí"
+        ]
+    },
+    {
+        "english": "tent",
+        "czech": [
+            "stan"
+        ]
+    },
+    {
+        "english": "terror",
+        "czech": [
+            "hrůza",
+            "zděšení",
+            "strach",
+            "teror"
+        ]
+    },
+    {
+        "english": "terrorism",
+        "czech": [
+            "terorismus"
+        ]
+    },
+    {
+        "english": "terrorist",
+        "czech": [
+            "terorista",
+            "teroristický"
+        ]
+    },
+    {
+        "english": "theoretical",
+        "czech": [
+            "teoretický"
+        ]
+    },
+    {
+        "english": "therapy",
+        "czech": [
+            "terapie",
+            "léčba"
+        ]
+    },
+    {
+        "english": "thereby",
+        "czech": [
+            "čímž",
+            "tímto",
+            "tím",
+            "takto"
+        ]
+    },
+    {
+        "english": "thief",
+        "czech": [
+            "zloděj"
+        ]
+    },
+    {
+        "english": "thirst",
+        "czech": [
+            "žízeň"
+        ]
+    },
+    {
+        "english": "thread",
+        "czech": [
+            "vlákno",
+            "nit"
+        ]
+    },
+    {
+        "english": "throat",
+        "czech": [
+            "hrdlo"
+        ]
+    },
+    {
+        "english": "thumb",
+        "czech": [
+            "palec"
+        ]
+    },
+    {
+        "english": "thunder",
+        "czech": [
+            "hrom",
+            "hřmění",
+            "zahřmění",
+            "hřmít"
+        ]
+    },
+    {
+        "english": "tick",
+        "czech": [
+            "klíště",
+            "tikot",
+            "fajfka",
+            "zaškrtnout"
+        ]
+    },
+    {
+        "english": "tight",
+        "czech": [
+            "těsný",
+            "pevný"
+        ]
+    },
+    {
+        "english": "timber",
+        "czech": [
+            "řezivo",
+            "dřevo",
+            "strom",
+            "fošna"
+        ]
+    },
+    {
+        "english": "timetable",
+        "czech": [
+            "časový rozvrh",
+            "rozvrh hodin",
+            "rozvrh",
+            "jízdní řád"
+        ]
+    },
+    {
+        "english": "tin",
+        "czech": [
+            "cín"
+        ]
+    },
+    {
+        "english": "tip",
+        "czech": [
+            "spropitné",
+            "vrchol",
+            "trik",
+            "tip"
+        ]
+    },
+    {
+        "english": "tire",
+        "czech": [
+            "pneumatika",
+            "vyčerpat",
+            "unavit"
+        ]
+    },
+    {
+        "english": "tissue",
+        "czech": [
+            "tkáň"
+        ]
+    },
+    {
+        "english": "toast",
+        "czech": [
+            "přípitek",
+            "toust",
+            "topinka",
+            "zdravice"
+        ]
+    },
+    {
+        "english": "tobacco",
+        "czech": [
+            "Tabákové výrobky"
+        ]
+    },
+    {
+        "english": "toe",
+        "czech": [
+            "prst"
+        ]
+    },
+    {
+        "english": "tomato",
+        "czech": [
+            "rajče"
+        ]
+    },
+    {
+        "english": "ton",
+        "czech": [
+            "tuna"
+        ]
+    },
+    {
+        "english": "tongue",
+        "czech": [
+            "jazyk"
+        ]
+    },
+    {
+        "english": "tonne",
+        "czech": [
+            "tuna"
+        ]
+    },
+    {
+        "english": "tough",
+        "czech": [
+            "odolný",
+            "vytrvalý",
+            "urputný",
+            "tvrdě"
+        ]
+    },
+    {
+        "english": "tourist",
+        "czech": [
+            "turista"
+        ]
+    },
+    {
+        "english": "tower",
+        "czech": [
+            "věž"
+        ]
+    },
+    {
+        "english": "trace",
+        "czech": [
+            "stopa",
+            "sledovat",
+            "vystopovat",
+            "vysledovat"
+        ]
+    },
+    {
+        "english": "traffic lights",
+        "czech": [
+            "dopravní světla"
+        ]
+    },
+    {
+        "english": "tragedy",
+        "czech": [
+            "tragédie"
+        ]
+    },
+    {
+        "english": "trail",
+        "czech": [
+            "pěšina",
+            "stezka",
+            "cesta",
+            "stopa"
+        ]
+    },
+    {
+        "english": "trainers",
+        "czech": [
+            "trenéři",
+            "tenisky"
+        ]
+    },
+    {
+        "english": "tram",
+        "czech": [
+            "tramvaj"
+        ]
+    },
+    {
+        "english": "transfer",
+        "czech": [
+            "přenést",
+            "převod",
+            "převézt",
+            "přenášet"
+        ]
+    },
+    {
+        "english": "transform",
+        "czech": [
+            "proměnit",
+            "přeměnit",
+            "změnit",
+            "transformovat"
+        ]
+    },
+    {
+        "english": "transition",
+        "czech": [
+            "přechod"
+        ]
+    },
+    {
+        "english": "translate",
+        "czech": [
+            "přeložit",
+            "překládat"
+        ]
+    },
+    {
+        "english": "translation",
+        "czech": [
+            "překlad",
+            "překládání"
+        ]
+    },
+    {
+        "english": "translator",
+        "czech": [
+            "překladatel"
+        ]
+    },
+    {
+        "english": "transparent",
+        "czech": [
+            "průhledný",
+            "průsvitný"
+        ]
+    },
+    {
+        "english": "transportation",
+        "czech": [
+            "přeprava",
+            "doprava"
+        ]
+    },
+    {
+        "english": "trash",
+        "czech": [
+            "smetí",
+            "odpad",
+            "šunt",
+            "šmejd"
+        ]
+    },
+    {
+        "english": "traveller",
+        "czech": [
+            "cestovatel",
+            "cestující",
+            "cestovatelka"
+        ]
+    },
+    {
+        "english": "treaty",
+        "czech": [
+            "smlouva"
+        ]
+    },
+    {
+        "english": "tremendous",
+        "czech": [
+            "úžasný",
+            "strašlivý",
+            "senzační",
+            "obrovský"
+        ]
+    },
+    {
+        "english": "triangle",
+        "czech": [
+            "trojúhelník"
+        ]
+    },
+    {
+        "english": "trick",
+        "czech": [
+            "trik",
+            "švindl",
+            "úskok",
+            "podvést"
+        ]
+    },
+    {
+        "english": "trousers",
+        "czech": [
+            "kalhoty"
+        ]
+    },
+    {
+        "english": "truly",
+        "czech": [
+            "opravdu",
+            "skutečně",
+            "pravdivě",
+            "doopravdy"
+        ]
+    },
+    {
+        "english": "tube",
+        "czech": []
+    },
+    {
+        "english": "tune",
+        "czech": [
+            "melodie",
+            "nápěv",
+            "ladit",
+            "soulad"
+        ]
+    },
+    {
+        "english": "tunnel",
+        "czech": [
+            "tunel"
+        ]
+    },
+    {
+        "english": "Turkey",
+        "czech": []
+    },
+    {
+        "english": "turkey",
+        "czech": [
+            "krocan",
+            "krůta"
+        ]
+    },
+    {
+        "english": "Turkish",
+        "czech": []
+    },
+    {
+        "english": "turn down",
+        "czech": [
+            "zamítnout",
+            "ztlumit",
+            "ztišit",
+            "zeslabit"
+        ]
+    },
+    {
+        "english": "turn up",
+        "czech": [
+            "přidat teplo",
+            "pustit hlasitěji",
+            "objevit se",
+            "náhodou najít"
+        ]
+    },
+    {
+        "english": "tutor",
+        "czech": [
+            "tutor",
+            "školitel",
+            "konzultant",
+            "vychovatel"
+        ]
+    },
+    {
+        "english": "twin",
+        "czech": [
+            "dvojče"
+        ]
+    },
+    {
+        "english": "typically",
+        "czech": [
+            "typicky"
+        ]
+    },
+    {
+        "english": "tyre",
+        "czech": [
+            "pneumatika"
+        ]
+    },
+    {
+        "english": "ultimate",
+        "czech": [
+            "poslední",
+            "definitivní",
+            "závěrečný",
+            "základní"
+        ]
+    },
+    {
+        "english": "ultimately",
+        "czech": [
+            "nakonec"
+        ]
+    },
+    {
+        "english": "umbrella",
+        "czech": [
+            "deštník"
+        ]
+    },
+    {
+        "english": "undergo",
+        "czech": [
+            "vytrpět",
+            "podstoupit",
+            "prodělat"
+        ]
+    },
+    {
+        "english": "undergraduate",
+        "czech": [
+            "student",
+            "vysokoškolák",
+            "pregraduální",
+            "absolvent"
+        ]
+    },
+    {
+        "english": "underground",
+        "czech": [
+            "podzemní",
+            "metro",
+            "podzemí",
+            "ilegální"
+        ]
+    },
+    {
+        "english": "underneath",
+        "czech": [
+            "pod",
+            "na spodní straně"
+        ]
+    },
+    {
+        "english": "undertake",
+        "czech": [
+            "vykonat",
+            "zavázat se",
+            "zaručit se",
+            "přijmout"
+        ]
+    },
+    {
+        "english": "undo",
+        "czech": [
+            "rozepnout"
+        ]
+    },
+    {
+        "english": "undoubtedly",
+        "czech": [
+            "nepochybně",
+            "bezpochyby",
+            "určitě"
+        ]
+    },
+    {
+        "english": "unemployed",
+        "czech": [
+            "nezaměstnaný"
+        ]
+    },
+    {
+        "english": "unhappy",
+        "czech": [
+            "nešťastný"
+        ]
+    },
+    {
+        "english": "uniform",
+        "czech": [
+            "uniforma",
+            "stejnokroj"
+        ]
+    },
+    {
+        "english": "unity",
+        "czech": [
+            "jednota",
+            "svornost",
+            "soulad",
+            "shoda"
+        ]
+    },
+    {
+        "english": "universal",
+        "czech": [
+            "univerzální",
+            "všeobecný",
+            "světový",
+            "obecný"
+        ]
+    },
+    {
+        "english": "universe",
+        "czech": [
+            "vesmír"
+        ]
+    },
+    {
+        "english": "unknown",
+        "czech": [
+            "neznámý"
+        ]
+    },
+    {
+        "english": "unlike",
+        "czech": [
+            "rozdílný",
+            "různý",
+            "odlišný",
+            "na rozdíl od"
+        ]
+    },
+    {
+        "english": "unlikely",
+        "czech": [
+            "nepravděpodobně",
+            "nepravděpodobný"
+        ]
+    },
+    {
+        "english": "upset",
+        "czech": [
+            "rozrušit",
+            "rozrušený",
+            "znervóznit",
+            "znepokojení"
+        ]
+    },
+    {
+        "english": "upwards",
+        "czech": [
+            "vzhůru",
+            "směrem nahoru",
+            "nahoru"
+        ]
+    },
+    {
+        "english": "urge",
+        "czech": [
+            "podněcovat",
+            "prosazovat",
+            "popohnat",
+            "pobízet"
+        ]
+    },
+    {
+        "english": "urgent",
+        "czech": [
+            "naléhavý",
+            "nutný"
+        ]
+    },
+    {
+        "english": "useless",
+        "czech": [
+            "zbytečný",
+            "nepotřebný"
+        ]
+    },
+    {
+        "english": "vacation",
+        "czech": [
+            "prázdniny",
+            "dovolená"
+        ]
+    },
+    {
+        "english": "valuable",
+        "czech": [
+            "hodnotný",
+            "vzácný",
+            "drahý"
+        ]
+    },
+    {
+        "english": "van",
+        "czech": [
+            "Van"
+        ]
+    },
+    {
+        "english": "variable",
+        "czech": [
+            "proměnná",
+            "proměnlivý",
+            "variabilní",
+            "proměnný"
+        ]
+    },
+    {
+        "english": "variation",
+        "czech": [
+            "variace"
+        ]
+    },
+    {
+        "english": "venture",
+        "czech": [
+            "odvážit se",
+            "troufnout si",
+            "riskovat",
+            "podnik"
+        ]
+    },
+    {
+        "english": "vessel",
+        "czech": [
+            "loď",
+            "nádoba"
+        ]
+    },
+    {
+        "english": "via",
+        "czech": [
+            "přes",
+            "pomocí",
+            "skrz",
+            "prostřednictvím"
+        ]
+    },
+    {
+        "english": "vice",
+        "czech": [
+            "neřest",
+            "zlozvyk",
+            "vada"
+        ]
+    },
+    {
+        "english": "viewer",
+        "czech": [
+            "divák"
+        ]
+    },
+    {
+        "english": "violate",
+        "czech": [
+            "znásilnit",
+            "porušit",
+            "znesvětit",
+            "zneuctít"
+        ]
+    },
+    {
+        "english": "violent",
+        "czech": [
+            "násilný",
+            "prudký"
+        ]
+    },
+    {
+        "english": "virtue",
+        "czech": [
+            "ctnost",
+            "účinnost",
+            "statečnost"
+        ]
+    },
+    {
+        "english": "virus",
+        "czech": [
+            "virus"
+        ]
+    },
+    {
+        "english": "visible",
+        "czech": [
+            "viditelný"
+        ]
+    },
+    {
+        "english": "visual",
+        "czech": [
+            "zrakový"
+        ]
+    },
+    {
+        "english": "vital",
+        "czech": [
+            "životně důležitý",
+            "rozhodující",
+            "podstatný",
+            "životodárný"
+        ]
+    },
+    {
+        "english": "vocabulary",
+        "czech": [
+            "slovník",
+            "slovní zásoba",
+            "slovníček"
+        ]
+    },
+    {
+        "english": "voluntary",
+        "czech": [
+            "dobrovolný"
+        ]
+    },
+    {
+        "english": "volunteer",
+        "czech": [
+            "dobrovolník"
+        ]
+    },
+    {
+        "english": "voter",
+        "czech": [
+            "volič"
+        ]
+    },
+    {
+        "english": "vulnerable",
+        "czech": [
+            "zranitelný",
+            "bezbranný",
+            "vystavený",
+            "poranitelný"
+        ]
+    },
+    {
+        "english": "waiter",
+        "czech": [
+            "číšník"
+        ]
+    },
+    {
+        "english": "waitress",
+        "czech": [
+            "číšnice",
+            "servírka"
+        ]
+    },
+    {
+        "english": "wander",
+        "czech": [
+            "toulat se",
+            "potulovat se",
+            "bloudit"
+        ]
+    },
+    {
+        "english": "ward",
+        "czech": [
+            "svěřenec",
+            "opatrování",
+            "oddělení"
+        ]
+    },
+    {
+        "english": "warmth",
+        "czech": [
+            "teplo"
+        ]
+    },
+    {
+        "english": "washing machine",
+        "czech": [
+            "pračka"
+        ]
+    },
+    {
+        "english": "washing-up",
+        "czech": [
+            "mytí nádobí"
+        ]
+    },
+    {
+        "english": "weakness",
+        "czech": [
+            "slabost"
+        ]
+    },
+    {
+        "english": "wealth",
+        "czech": [
+            "bohatství",
+            "majetek"
+        ]
+    },
+    {
+        "english": "wealthy",
+        "czech": [
+            "bohatý"
+        ]
+    },
+    {
+        "english": "weekly",
+        "czech": [
+            "týdně",
+            "týdenní",
+            "každotýdenní"
+        ]
+    },
+    {
+        "english": "weigh",
+        "czech": [
+            "vážit"
+        ]
+    },
+    {
+        "english": "well-known",
+        "czech": [
+            "známý"
+        ]
+    },
+    {
+        "english": "whereas",
+        "czech": [
+            "zatímco",
+            "přičemž",
+            "kdežto"
+        ]
+    },
+    {
+        "english": "whisper",
+        "czech": [
+            "šeptat",
+            "pošeptat",
+            "šepot"
+        ]
+    },
+    {
+        "english": "whoever",
+        "czech": [
+            "kdokoliv",
+            "kdokoli"
+        ]
+    },
+    {
+        "english": "width",
+        "czech": [
+            "šířka"
+        ]
+    },
+    {
+        "english": "wire",
+        "czech": [
+            "drát",
+            "telegram",
+            "telegraf",
+            "struny"
+        ]
+    },
+    {
+        "english": "wisdom",
+        "czech": [
+            "moudrost"
+        ]
+    },
+    {
+        "english": "wise",
+        "czech": [
+            "moudrý"
+        ]
+    },
+    {
+        "english": "witness",
+        "czech": [
+            "svědek",
+            "svědectví"
+        ]
+    },
+    {
+        "english": "wooden",
+        "czech": [
+            "dřevěný"
+        ]
+    },
+    {
+        "english": "wool",
+        "czech": [
+            "vlna"
+        ]
+    },
+    {
+        "english": "workshop",
+        "czech": [
+            "dílna"
+        ]
+    },
+    {
+        "english": "worried",
+        "czech": [
+            "ztrápený",
+            "utrápený",
+            "starostlivý",
+            "obávat se"
+        ]
+    },
+    {
+        "english": "worship",
+        "czech": [
+            "zbožňovat",
+            "uctívání",
+            "uctívat"
+        ]
+    },
+    {
+        "english": "worthwhile",
+        "czech": [
+            "užitečný",
+            "stojící za to",
+            "hodnotný"
+        ]
+    },
+    {
+        "english": "wound",
+        "czech": [
+            "rána",
+            "zranit",
+            "poranit"
+        ]
+    },
+    {
+        "english": "wow",
+        "czech": [
+            "zapůsobit",
+            "vtip",
+            "dojmout",
+            "páni"
+        ]
+    },
+    {
+        "english": "wrap",
+        "czech": [
+            "přehoz",
+            "zabalit",
+            "zabalení",
+            "ovinout"
+        ]
+    },
+    {
+        "english": "written",
+        "czech": [
+            "psaný",
+            "napsaný"
+        ]
+    },
+    {
+        "english": "yearly",
+        "czech": [
+            "roční",
+            "každoročně",
+            "každoroční"
+        ]
+    },
+    {
+        "english": "yoghurt",
+        "czech": [
+            "jogurt"
+        ]
+    },
+    {
+        "english": "zone",
+        "czech": [
+            "zóna",
+            "pásmo"
+        ]
+    }
 ]
